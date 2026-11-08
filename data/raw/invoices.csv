@@ -1,0 +1,604 @@
+invoice_id,vendor,category,issue_date,due_date,description,amount_eur,currency,status,payment_date
+INV-50068,Figma,SaaS,2025-07-01,2025-07-15,Monthly subscription,170.19,EUR,paid,2025-07-09
+INV-50033,Bean Supplier d.o.o.,Inventory,2025-07-03,2025-08-17,Stock purchase,2276.97,EUR,overdue,
+INV-50289,PackagingCo,Inventory,2025-07-03,2025-08-17,Stock purchase,3386.59,EUR,paid,2025-08-12
+INV-50415,AWS Cloud,SaaS,2025-07-03,2025-08-17,Monthly subscription,265.38,EUR,overdue,
+INV-50114,Notion,SaaS,2025-07-04,2025-08-03,Monthly subscription,60.21,EUR,paid,2025-08-06
+INV-50135,Meta,Marketing,2025-07-04,2025-08-18,Ad spend,667.87,EUR,overdue,
+INV-50312,Figma,SaaS,2025-07-04,2025-08-03,Monthly subscription,305.11,EUR,paid,2025-07-13
+INV-50387,Deloitte Advisory,Professional services,2025-07-05,2025-07-19,Consulting fees,4679.49,EUR,paid,2025-07-15
+INV-50199,A1 Telekom,Utilities,2025-07-06,2025-08-20,Monthly usage,339.11,EUR,paid,2025-08-04
+INV-50568,Bean Supplier d.o.o.,Inventory,2025-07-06,2025-08-05,Stock purchase,1826.66,EUR,paid,2025-07-11
+INV-50140,PackagingCo,Inventory,2025-07-07,2025-08-06,Stock purchase,2200.64,EUR,paid,2025-07-27
+INV-50188,AWS Cloud,SaaS,2025-07-08,2025-08-07,Monthly subscription,214.26,EUR,paid,2025-07-27
+INV-50366,Notion,SaaS,2025-07-08,2025-08-22,Monthly subscription,147.64,EUR,paid,2025-07-19
+INV-50561,Google Ads,Marketing,2025-07-09,2025-08-08,Ad spend,302.27,EUR,paid,2025-07-12
+INV-50525,Google Ads,Marketing,2025-07-10,2025-08-09,Ad spend,328.66,EUR,paid,2025-08-06
+INV-50293,Figma,SaaS,2025-07-11,2025-07-25,Monthly subscription,295.07,EUR,overdue,
+INV-50261,Bean Supplier d.o.o.,Inventory,2025-07-13,2025-08-12,Stock purchase,514.88,EUR,overdue,
+INV-50155,AWS Cloud,SaaS,2025-07-15,2025-08-14,Monthly subscription,254.46,EUR,paid,2025-08-19
+INV-50169,Uber,Travel,2025-07-15,2025-08-29,Business trip,356.84,EUR,overdue,
+INV-50541,Meta,Marketing,2025-07-16,2025-08-15,Ad spend,2334.47,EUR,overdue,
+INV-50014,Figma,SaaS,2025-07-17,2025-08-16,Monthly subscription,244.55,EUR,paid,2025-08-03
+INV-50124,Uber,Travel,2025-07-17,2025-08-16,Business trip,352.43,EUR,paid,2025-08-07
+INV-50238,Booking.com,Travel,2025-07-17,2025-07-31,Business trip,252.91,EUR,paid,2025-08-17
+INV-50337,Meta,Marketing,2025-07-17,2025-08-16,Ad spend,2376.21,EUR,overdue,
+INV-50384,Deloitte Advisory,Professional services,2025-07-17,2025-08-16,Consulting fees,3088.96,EUR,paid,2025-08-12
+INV-50191,A1 Telekom,Utilities,2025-07-18,2025-08-17,Monthly usage,395.05,EUR,overdue,
+INV-50361,Google Ads,Marketing,2025-07-20,2025-08-03,Ad spend,1034.48,EUR,overdue,
+INV-50462,Deloitte Advisory,Professional services,2025-07-22,2025-09-05,Consulting fees,5053.57,EUR,paid,2025-08-08
+INV-50549,A1 Telekom,Utilities,2025-07-22,2025-09-05,Monthly usage,79.98,EUR,paid,2025-08-17
+INV-50584,A1 Telekom,Utilities,2025-07-22,2025-08-05,Monthly usage,44.26,EUR,overdue,
+INV-50100,Uber,Travel,2025-07-23,2025-08-06,Business trip,268.86,EUR,paid,2025-08-17
+INV-50272,Deloitte Advisory,Professional services,2025-07-23,2025-08-22,Consulting fees,3906.33,EUR,paid,2025-08-03
+INV-50276,Meta,Marketing,2025-07-24,2025-08-07,Ad spend,967.75,EUR,overdue,
+INV-50057,LawFirm Horvat,Professional services,2025-07-25,2025-09-08,Consulting fees,4260.49,EUR,paid,2025-08-17
+INV-50307,Meta,Marketing,2025-07-25,2025-08-08,Ad spend,251.37,EUR,overdue,
+INV-50494,A1 Telekom,Utilities,2025-07-25,2025-08-08,Monthly usage,349.71,EUR,paid,2025-08-24
+INV-50589,Google Ads,Marketing,2025-07-25,2025-08-24,Ad spend,1050.81,EUR,paid,2025-08-08
+INV-50493,Notion,SaaS,2025-07-26,2025-08-09,Monthly subscription,217.53,EUR,paid,2025-07-30
+INV-50456,Google Ads,Marketing,2025-07-28,2025-09-11,Ad spend,909.56,EUR,paid,2025-09-04
+INV-50207,Booking.com,Travel,2025-07-29,2025-08-28,Business trip,206.01,EUR,overdue,
+INV-50550,Figma,SaaS,2025-07-29,2025-08-28,Monthly subscription,111.81,EUR,paid,2025-09-04
+INV-50348,Booking.com,Travel,2025-07-31,2025-08-30,Business trip,359.05,EUR,paid,2025-08-03
+INV-50006,Meta,Marketing,2025-08-01,2025-08-31,Ad spend,474.09,EUR,paid,2025-08-22
+INV-50091,PackagingCo,Inventory,2025-08-01,2025-08-31,Stock purchase,3268.87,EUR,paid,2025-09-06
+INV-50003,Google Ads,Marketing,2025-08-02,2025-09-16,Ad spend,1226.60,EUR,overdue,
+INV-50074,AWS Cloud,SaaS,2025-08-02,2025-08-16,Monthly subscription,135.46,EUR,paid,2025-09-01
+INV-50309,AWS Cloud,SaaS,2025-08-02,2025-09-01,Monthly subscription,70.26,EUR,paid,2025-08-29
+INV-50497,A1 Telekom,Utilities,2025-08-02,2025-09-01,Monthly usage,356.09,EUR,paid,2025-09-05
+INV-50019,Figma,SaaS,2025-08-03,2025-09-17,Monthly subscription,107.49,EUR,overdue,
+INV-50455,LawFirm Horvat,Professional services,2025-08-03,2025-09-02,Consulting fees,1144.70,EUR,paid,2025-08-29
+INV-50147,Booking.com,Travel,2025-08-04,2025-09-18,Business trip,244.35,EUR,paid,2025-08-28
+INV-50475,Meta,Marketing,2025-08-04,2025-08-18,Ad spend,2337.90,EUR,paid,2025-08-17
+INV-50183,PackagingCo,Inventory,2025-08-05,2025-09-04,Stock purchase,2492.70,EUR,paid,2025-08-10
+INV-50396,Bean Supplier d.o.o.,Inventory,2025-08-05,2025-09-19,Stock purchase,3288.61,EUR,paid,2025-09-14
+INV-50487,Meta,Marketing,2025-08-05,2025-09-04,Ad spend,1782.67,EUR,paid,2025-09-02
+INV-50310,Meta,Marketing,2025-08-06,2025-08-20,Ad spend,1038.13,EUR,paid,2025-08-29
+INV-50005,Uber,Travel,2025-08-08,2025-09-22,Business trip,399.31,EUR,paid,2025-09-07
+INV-50247,Uber,Travel,2025-08-09,2025-09-08,Business trip,74.47,EUR,overdue,
+INV-50258,LawFirm Horvat,Professional services,2025-08-09,2025-09-08,Consulting fees,1798.40,EUR,paid,2025-09-10
+INV-50302,Bean Supplier d.o.o.,Inventory,2025-08-09,2025-09-08,Stock purchase,3142.41,EUR,overdue,
+INV-50441,HEP Elektra,Utilities,2025-08-09,2025-09-08,Monthly usage,51.71,EUR,paid,2025-09-09
+INV-50195,AWS Cloud,SaaS,2025-08-11,2025-09-10,Monthly subscription,345.53,EUR,paid,2025-09-13
+INV-50574,Uber,Travel,2025-08-11,2025-09-10,Business trip,159.06,EUR,overdue,
+INV-50274,Bean Supplier d.o.o.,Inventory,2025-08-12,2025-09-26,Stock purchase,524.01,EUR,paid,2025-09-01
+INV-50061,HEP Elektra,Utilities,2025-08-13,2025-09-12,Monthly usage,360.90,EUR,overdue,
+INV-50248,HEP Elektra,Utilities,2025-08-13,2025-08-27,Monthly usage,374.91,EUR,paid,2025-09-15
+INV-50178,Figma,SaaS,2025-08-14,2025-08-28,Monthly subscription,293.93,EUR,paid,2025-09-15
+INV-50438,LawFirm Horvat,Professional services,2025-08-14,2025-09-13,Consulting fees,1469.22,EUR,paid,2025-08-30
+INV-50474,A1 Telekom,Utilities,2025-08-14,2025-09-28,Monthly usage,368.61,EUR,paid,2025-09-03
+INV-50510,HEP Elektra,Utilities,2025-08-14,2025-09-28,Monthly usage,164.28,EUR,overdue,
+INV-50516,A1 Telekom,Utilities,2025-08-14,2025-09-28,Monthly usage,226.26,EUR,overdue,
+INV-50037,A1 Telekom,Utilities,2025-08-15,2025-09-29,Monthly usage,84.49,EUR,paid,2025-08-23
+INV-50157,Notion,SaaS,2025-08-15,2025-08-29,Monthly subscription,292.11,EUR,paid,2025-09-18
+INV-50158,A1 Telekom,Utilities,2025-08-15,2025-09-14,Monthly usage,227.23,EUR,overdue,
+INV-50143,Booking.com,Travel,2025-08-16,2025-09-15,Business trip,274.74,EUR,paid,2025-09-25
+INV-50256,Bean Supplier d.o.o.,Inventory,2025-08-16,2025-09-15,Stock purchase,2885.98,EUR,paid,2025-08-22
+INV-50088,Notion,SaaS,2025-08-17,2025-10-01,Monthly subscription,274.80,EUR,overdue,
+INV-50231,PackagingCo,Inventory,2025-08-17,2025-08-31,Stock purchase,3226.97,EUR,overdue,
+INV-50253,Google Ads,Marketing,2025-08-17,2025-08-31,Ad spend,2459.85,EUR,paid,2025-09-12
+INV-50265,Meta,Marketing,2025-08-17,2025-09-16,Ad spend,1020.87,EUR,overdue,
+INV-50448,PackagingCo,Inventory,2025-08-17,2025-09-16,Stock purchase,1290.71,EUR,paid,2025-09-09
+INV-50190,Booking.com,Travel,2025-08-18,2025-09-17,Business trip,207.88,EUR,paid,2025-09-02
+INV-50142,Deloitte Advisory,Professional services,2025-08-19,2025-09-18,Consulting fees,3459.77,EUR,paid,2025-09-20
+INV-50153,Uber,Travel,2025-08-19,2025-09-02,Business trip,139.51,EUR,paid,2025-09-10
+INV-50189,LawFirm Horvat,Professional services,2025-08-19,2025-10-03,Consulting fees,1027.30,EUR,paid,2025-09-04
+INV-50226,Notion,SaaS,2025-08-19,2025-09-02,Monthly subscription,221.77,EUR,overdue,
+INV-50252,HEP Elektra,Utilities,2025-08-19,2025-10-03,Monthly usage,72.29,EUR,overdue,
+INV-50434,Notion,SaaS,2025-08-19,2025-10-03,Monthly subscription,146.34,EUR,paid,2025-09-23
+INV-50121,Notion,SaaS,2025-08-20,2025-09-19,Monthly subscription,101.35,EUR,paid,2025-09-13
+INV-50181,LawFirm Horvat,Professional services,2025-08-20,2025-09-19,Consulting fees,3346.29,EUR,paid,2025-09-29
+INV-50026,Uber,Travel,2025-08-21,2025-09-04,Business trip,182.34,EUR,paid,2025-09-10
+INV-50028,Google Ads,Marketing,2025-08-21,2025-09-20,Ad spend,659.91,EUR,paid,2025-09-19
+INV-50210,Google Ads,Marketing,2025-08-21,2025-09-20,Ad spend,857.48,EUR,paid,2025-09-15
+INV-50349,Notion,SaaS,2025-08-21,2025-09-20,Monthly subscription,108.80,EUR,paid,2025-09-28
+INV-50111,Notion,SaaS,2025-08-22,2025-10-06,Monthly subscription,193.38,EUR,paid,2025-08-27
+INV-50590,Deloitte Advisory,Professional services,2025-08-24,2025-09-07,Consulting fees,1578.80,EUR,paid,2025-09-11
+INV-50012,Notion,SaaS,2025-08-25,2025-10-09,Monthly subscription,92.88,EUR,paid,2025-10-02
+INV-50087,Bean Supplier d.o.o.,Inventory,2025-08-26,2025-09-25,Stock purchase,2979.10,EUR,paid,2025-10-01
+INV-50139,Notion,SaaS,2025-08-26,2025-09-25,Monthly subscription,311.06,EUR,overdue,
+INV-50042,Meta,Marketing,2025-08-27,2025-09-26,Ad spend,1809.11,EUR,paid,2025-09-15
+INV-50239,HEP Elektra,Utilities,2025-08-27,2025-10-11,Monthly usage,93.23,EUR,paid,2025-09-12
+INV-50316,Deloitte Advisory,Professional services,2025-08-27,2025-09-10,Consulting fees,4871.07,EUR,overdue,
+INV-50320,Google Ads,Marketing,2025-08-27,2025-10-11,Ad spend,754.63,EUR,paid,2025-10-05
+INV-50466,LawFirm Horvat,Professional services,2025-08-27,2025-09-26,Consulting fees,5928.50,EUR,paid,2025-08-29
+INV-50583,Meta,Marketing,2025-08-27,2025-09-10,Ad spend,2048.40,EUR,paid,2025-09-29
+INV-50194,PackagingCo,Inventory,2025-08-28,2025-09-27,Stock purchase,1666.37,EUR,paid,2025-09-09
+INV-50358,Figma,SaaS,2025-08-28,2025-09-11,Monthly subscription,155.33,EUR,overdue,
+INV-50540,Notion,SaaS,2025-08-28,2025-09-11,Monthly subscription,163.22,EUR,paid,2025-10-07
+INV-50040,AWS Cloud,SaaS,2025-08-29,2025-09-28,Monthly subscription,262.51,EUR,paid,2025-09-07
+INV-50201,Notion,SaaS,2025-08-29,2025-09-28,Monthly subscription,357.68,EUR,paid,2025-09-06
+INV-50392,Deloitte Advisory,Professional services,2025-08-29,2025-09-12,Consulting fees,3113.52,EUR,paid,2025-09-15
+INV-59001,Notion,SaaS,2025-08-29,2025-09-28,Monthly subscription,3934.48,EUR,paid,2025-09-06
+INV-50071,A1 Telekom,Utilities,2025-08-30,2025-09-13,Monthly usage,209.63,EUR,paid,2025-10-07
+INV-50242,Bean Supplier d.o.o.,Inventory,2025-08-30,2025-09-29,Stock purchase,659.04,EUR,overdue,
+INV-50161,A1 Telekom,Utilities,2025-08-31,2025-09-30,Monthly usage,397.20,EUR,paid,2025-09-05
+INV-50381,Notion,SaaS,2025-09-01,2025-09-15,Monthly subscription,23.58,EUR,paid,2025-10-10
+INV-50411,Deloitte Advisory,Professional services,2025-09-01,2025-10-01,Consulting fees,5308.24,EUR,paid,2025-09-08
+INV-50076,Google Ads,Marketing,2025-09-03,2025-10-03,Ad spend,1281.72,EUR,paid,2025-09-06
+INV-50208,A1 Telekom,Utilities,2025-09-03,2025-09-17,Monthly usage,190.15,EUR,paid,2025-09-19
+INV-50409,Deloitte Advisory,Professional services,2025-09-03,2025-09-17,Consulting fees,3493.07,EUR,paid,2025-09-05
+INV-50058,PackagingCo,Inventory,2025-09-04,2025-10-04,Stock purchase,2068.17,EUR,paid,2025-09-09
+INV-50385,Meta,Marketing,2025-09-04,2025-10-19,Ad spend,1547.21,EUR,overdue,
+INV-50405,Figma,SaaS,2025-09-04,2025-10-04,Monthly subscription,387.01,EUR,overdue,
+INV-50453,Figma,SaaS,2025-09-04,2025-10-04,Monthly subscription,364.09,EUR,paid,2025-10-07
+INV-50586,Google Ads,Marketing,2025-09-06,2025-10-21,Ad spend,2239.54,EUR,overdue,
+INV-50132,Google Ads,Marketing,2025-09-09,2025-10-09,Ad spend,1120.15,EUR,paid,2025-09-30
+INV-50221,Bean Supplier d.o.o.,Inventory,2025-09-09,2025-10-09,Stock purchase,1111.70,EUR,overdue,
+INV-50363,LawFirm Horvat,Professional services,2025-09-09,2025-09-23,Consulting fees,5333.12,EUR,paid,2025-09-13
+INV-50072,Notion,SaaS,2025-09-10,2025-09-24,Monthly subscription,243.26,EUR,overdue,
+INV-50093,LawFirm Horvat,Professional services,2025-09-10,2025-10-10,Consulting fees,3138.60,EUR,overdue,
+INV-50480,Google Ads,Marketing,2025-09-10,2025-10-10,Ad spend,370.39,EUR,paid,2025-09-22
+INV-50109,Bean Supplier d.o.o.,Inventory,2025-09-11,2025-09-25,Stock purchase,1784.41,EUR,paid,2025-09-19
+INV-50184,PackagingCo,Inventory,2025-09-11,2025-10-11,Stock purchase,3125.49,EUR,paid,2025-10-16
+INV-50325,Booking.com,Travel,2025-09-11,2025-10-11,Business trip,336.86,EUR,paid,2025-10-16
+INV-50401,Uber,Travel,2025-09-11,2025-10-26,Business trip,271.16,EUR,paid,2025-10-13
+INV-50251,LawFirm Horvat,Professional services,2025-09-12,2025-10-27,Consulting fees,3075.40,EUR,paid,2025-09-22
+INV-50306,LawFirm Horvat,Professional services,2025-09-12,2025-10-27,Consulting fees,2594.19,EUR,paid,2025-10-03
+INV-50576,Notion,SaaS,2025-09-12,2025-10-12,Monthly subscription,117.33,EUR,paid,2025-10-11
+INV-50222,Bean Supplier d.o.o.,Inventory,2025-09-13,2025-09-27,Stock purchase,1778.10,EUR,overdue,
+INV-50432,Uber,Travel,2025-09-13,2025-10-28,Business trip,50.86,EUR,paid,2025-10-22
+INV-50023,Notion,SaaS,2025-09-14,2025-09-28,Monthly subscription,171.26,EUR,paid,2025-10-22
+INV-50244,AWS Cloud,SaaS,2025-09-14,2025-10-14,Monthly subscription,343.54,EUR,paid,2025-10-18
+INV-50301,HEP Elektra,Utilities,2025-09-17,2025-10-17,Monthly usage,35.12,EUR,overdue,
+INV-50117,Figma,SaaS,2025-09-18,2025-11-02,Monthly subscription,101.55,EUR,paid,2025-09-23
+INV-50430,PackagingCo,Inventory,2025-09-18,2025-10-02,Stock purchase,3195.19,EUR,paid,2025-10-14
+INV-50062,A1 Telekom,Utilities,2025-09-20,2025-10-04,Monthly usage,155.36,EUR,paid,2025-09-24
+INV-50123,Meta,Marketing,2025-09-20,2025-10-04,Ad spend,1513.13,EUR,paid,2025-10-12
+INV-50263,Uber,Travel,2025-09-20,2025-10-20,Business trip,126.91,EUR,overdue,
+INV-50560,Uber,Travel,2025-09-21,2025-10-21,Business trip,265.05,EUR,overdue,
+INV-50138,Booking.com,Travel,2025-09-22,2025-10-06,Business trip,262.97,EUR,paid,2025-10-15
+INV-50269,Notion,SaaS,2025-09-24,2025-11-08,Monthly subscription,366.37,EUR,paid,2025-09-30
+INV-50016,HEP Elektra,Utilities,2025-09-25,2025-11-09,Monthly usage,58.43,EUR,paid,2025-10-10
+INV-50165,Figma,SaaS,2025-09-26,2025-10-26,Monthly subscription,319.51,EUR,paid,2025-10-22
+INV-50327,AWS Cloud,SaaS,2025-09-26,2025-10-26,Monthly subscription,73.83,EUR,paid,2025-10-06
+INV-50116,Bean Supplier d.o.o.,Inventory,2025-09-27,2025-10-27,Stock purchase,2934.40,EUR,paid,2025-10-21
+INV-50368,PackagingCo,Inventory,2025-09-27,2025-11-11,Stock purchase,3076.87,EUR,overdue,
+INV-50120,Uber,Travel,2025-09-28,2025-10-12,Business trip,364.32,EUR,paid,2025-10-26
+INV-50418,HEP Elektra,Utilities,2025-09-28,2025-10-28,Monthly usage,104.24,EUR,overdue,
+INV-50054,Meta,Marketing,2025-09-29,2025-11-13,Ad spend,377.84,EUR,paid,2025-10-08
+INV-50122,PackagingCo,Inventory,2025-09-29,2025-10-29,Stock purchase,3382.06,EUR,overdue,
+INV-50394,Uber,Travel,2025-09-29,2025-10-13,Business trip,148.02,EUR,paid,2025-11-07
+INV-50500,Booking.com,Travel,2025-09-29,2025-10-13,Business trip,33.32,EUR,paid,2025-10-09
+INV-50170,Booking.com,Travel,2025-09-30,2025-11-14,Business trip,181.39,EUR,paid,2025-10-12
+INV-50228,LawFirm Horvat,Professional services,2025-09-30,2025-11-14,Consulting fees,5709.77,EUR,paid,2025-10-07
+INV-50245,Booking.com,Travel,2025-09-30,2025-11-14,Business trip,310.79,EUR,overdue,
+INV-50518,Deloitte Advisory,Professional services,2025-09-30,2025-10-14,Consulting fees,1889.51,EUR,paid,2025-10-12
+INV-50011,Notion,SaaS,2025-10-01,2025-10-31,Monthly subscription,57.53,EUR,paid,2025-10-22
+INV-50538,Google Ads,Marketing,2025-10-01,2025-10-31,Ad spend,736.27,EUR,paid,2025-11-10
+INV-50278,A1 Telekom,Utilities,2025-10-02,2025-11-01,Monthly usage,21.84,EUR,paid,2025-10-20
+INV-50577,Google Ads,Marketing,2025-10-02,2025-11-01,Ad spend,576.52,EUR,paid,2025-11-07
+INV-50096,Deloitte Advisory,Professional services,2025-10-03,2025-11-17,Consulting fees,2094.87,EUR,overdue,
+INV-50588,AWS Cloud,SaaS,2025-10-04,2025-11-03,Monthly subscription,41.43,EUR,paid,2025-11-07
+INV-50594,Uber,Travel,2025-10-04,2025-11-18,Business trip,263.76,EUR,overdue,
+INV-50089,Booking.com,Travel,2025-10-05,2025-11-04,Business trip,385.40,EUR,paid,2025-10-31
+INV-50095,Uber,Travel,2025-10-05,2025-11-04,Business trip,130.95,EUR,overdue,
+INV-50235,HEP Elektra,Utilities,2025-10-05,2025-11-04,Monthly usage,234.26,EUR,paid,2025-10-13
+INV-50449,AWS Cloud,SaaS,2025-10-05,2025-11-04,Monthly subscription,127.64,EUR,paid,2025-11-06
+INV-50048,Notion,SaaS,2025-10-06,2025-10-20,Monthly subscription,377.41,EUR,paid,2025-11-04
+INV-50491,Booking.com,Travel,2025-10-06,2025-11-05,Business trip,232.22,EUR,overdue,
+INV-50330,Booking.com,Travel,2025-10-08,2025-11-07,Business trip,20.90,EUR,paid,2025-10-15
+INV-50027,Uber,Travel,2025-10-09,2025-10-23,Business trip,369.71,EUR,paid,2025-11-06
+INV-50079,HEP Elektra,Utilities,2025-10-09,2025-11-08,Monthly usage,332.87,EUR,paid,2025-11-15
+INV-50234,HEP Elektra,Utilities,2025-10-11,2025-11-10,Monthly usage,148.97,EUR,overdue,
+INV-50018,Deloitte Advisory,Professional services,2025-10-12,2025-11-11,Consulting fees,5980.38,EUR,paid,2025-11-11
+INV-50374,PackagingCo,Inventory,2025-10-12,2025-10-26,Stock purchase,1680.39,EUR,paid,2025-10-22
+INV-50465,A1 Telekom,Utilities,2025-10-12,2025-11-26,Monthly usage,362.76,EUR,overdue,
+INV-50534,LawFirm Horvat,Professional services,2025-10-12,2025-11-11,Consulting fees,3428.46,EUR,overdue,
+INV-50162,Uber,Travel,2025-10-13,2025-11-27,Business trip,160.47,EUR,paid,2025-11-13
+INV-50175,HEP Elektra,Utilities,2025-10-13,2025-11-27,Monthly usage,156.24,EUR,overdue,
+INV-50220,Deloitte Advisory,Professional services,2025-10-13,2025-11-12,Consulting fees,2230.28,EUR,paid,2025-11-02
+INV-50267,Notion,SaaS,2025-10-13,2025-11-27,Monthly subscription,80.50,EUR,overdue,
+INV-50555,Meta,Marketing,2025-10-13,2025-11-12,Ad spend,1268.13,EUR,paid,2025-11-09
+INV-50260,AWS Cloud,SaaS,2025-10-14,2025-10-28,Monthly subscription,40.03,EUR,paid,2025-10-30
+INV-50266,AWS Cloud,SaaS,2025-10-14,2025-11-28,Monthly subscription,148.56,EUR,paid,2025-11-03
+INV-50331,Deloitte Advisory,Professional services,2025-10-14,2025-11-13,Consulting fees,874.60,EUR,paid,2025-11-18
+INV-50393,Booking.com,Travel,2025-10-14,2025-11-13,Business trip,231.73,EUR,paid,2025-11-03
+INV-50407,HEP Elektra,Utilities,2025-10-14,2025-10-28,Monthly usage,311.03,EUR,paid,2025-11-05
+INV-50082,Figma,SaaS,2025-10-15,2025-10-29,Monthly subscription,64.65,EUR,overdue,
+INV-50580,HEP Elektra,Utilities,2025-10-15,2025-10-29,Monthly usage,110.62,EUR,paid,2025-11-13
+INV-50073,Figma,SaaS,2025-10-16,2025-10-30,Monthly subscription,21.66,EUR,paid,2025-11-09
+INV-50425,Deloitte Advisory,Professional services,2025-10-16,2025-11-15,Consulting fees,2804.56,EUR,overdue,
+INV-50021,A1 Telekom,Utilities,2025-10-17,2025-11-16,Monthly usage,375.98,EUR,paid,2025-10-29
+INV-50469,AWS Cloud,SaaS,2025-10-17,2025-10-31,Monthly subscription,272.44,EUR,paid,2025-11-13
+INV-50237,Booking.com,Travel,2025-10-19,2025-11-18,Business trip,130.60,EUR,paid,2025-11-02
+INV-50305,Bean Supplier d.o.o.,Inventory,2025-10-19,2025-11-02,Stock purchase,3421.58,EUR,overdue,
+INV-50328,Meta,Marketing,2025-10-19,2025-11-18,Ad spend,2417.40,EUR,paid,2025-10-28
+INV-50344,LawFirm Horvat,Professional services,2025-10-19,2025-11-18,Consulting fees,5673.87,EUR,overdue,
+INV-50431,Booking.com,Travel,2025-10-19,2025-11-02,Business trip,245.12,EUR,overdue,
+INV-50495,AWS Cloud,SaaS,2025-10-19,2025-12-03,Monthly subscription,292.23,EUR,paid,2025-11-05
+INV-50390,Booking.com,Travel,2025-10-20,2025-11-03,Business trip,86.77,EUR,paid,2025-11-10
+INV-50433,Uber,Travel,2025-10-21,2025-11-04,Business trip,382.36,EUR,paid,2025-11-30
+INV-50457,Meta,Marketing,2025-10-21,2025-12-05,Ad spend,2004.63,EUR,paid,2025-11-23
+INV-50291,Uber,Travel,2025-10-22,2025-11-21,Business trip,325.31,EUR,paid,2025-10-28
+INV-50355,LawFirm Horvat,Professional services,2025-10-22,2025-11-05,Consulting fees,1387.82,EUR,paid,2025-11-22
+INV-50365,A1 Telekom,Utilities,2025-10-22,2025-11-05,Monthly usage,33.49,EUR,paid,2025-11-07
+INV-50524,Figma,SaaS,2025-10-22,2025-11-21,Monthly subscription,77.04,EUR,paid,2025-11-22
+INV-50599,Notion,SaaS,2025-10-22,2025-11-21,Monthly subscription,40.00,EUR,paid,2025-11-16
+INV-50029,Figma,SaaS,2025-10-23,2025-12-07,Monthly subscription,197.06,EUR,paid,2025-11-18
+INV-50216,Figma,SaaS,2025-10-23,2025-12-07,Monthly subscription,287.10,EUR,paid,2025-11-25
+INV-50031,HEP Elektra,Utilities,2025-10-24,2025-12-08,Monthly usage,279.14,EUR,paid,2025-11-10
+INV-50171,Deloitte Advisory,Professional services,2025-10-24,2025-11-23,Consulting fees,5034.13,EUR,paid,2025-10-27
+INV-50476,LawFirm Horvat,Professional services,2025-10-24,2025-11-23,Consulting fees,1301.46,EUR,paid,2025-11-08
+INV-50043,AWS Cloud,SaaS,2025-10-25,2025-12-09,Monthly subscription,67.77,EUR,paid,2025-11-17
+INV-50257,Meta,Marketing,2025-10-25,2025-11-08,Ad spend,2325.83,EUR,paid,2025-12-03
+INV-50458,Figma,SaaS,2025-10-25,2025-11-24,Monthly subscription,52.98,EUR,paid,2025-11-11
+INV-50490,Deloitte Advisory,Professional services,2025-10-25,2025-11-08,Consulting fees,2591.13,EUR,paid,2025-11-28
+INV-50548,Uber,Travel,2025-10-25,2025-11-24,Business trip,32.54,EUR,paid,2025-11-27
+INV-50214,PackagingCo,Inventory,2025-10-26,2025-11-09,Stock purchase,1175.01,EUR,overdue,
+INV-50013,AWS Cloud,SaaS,2025-10-28,2025-11-27,Monthly subscription,188.63,EUR,paid,2025-11-19
+INV-50086,Booking.com,Travel,2025-10-28,2025-11-11,Business trip,383.70,EUR,overdue,
+INV-50463,Uber,Travel,2025-10-28,2025-11-27,Business trip,392.00,EUR,paid,2025-11-30
+INV-50224,Meta,Marketing,2025-10-29,2025-11-28,Ad spend,701.64,EUR,overdue,
+INV-50503,Meta,Marketing,2025-10-29,2025-11-12,Ad spend,678.54,EUR,paid,2025-11-03
+INV-50539,Deloitte Advisory,Professional services,2025-10-29,2025-12-13,Consulting fees,3625.78,EUR,paid,2025-11-23
+INV-50386,HEP Elektra,Utilities,2025-10-30,2025-11-29,Monthly usage,324.46,EUR,overdue,
+INV-50554,Meta,Marketing,2025-10-30,2025-11-29,Ad spend,2433.60,EUR,paid,2025-11-30
+INV-50034,Google Ads,Marketing,2025-10-31,2025-11-14,Ad spend,559.09,EUR,paid,2025-12-05
+INV-50152,Meta,Marketing,2025-10-31,2025-11-30,Ad spend,1145.53,EUR,paid,2025-12-06
+INV-50182,Meta,Marketing,2025-10-31,2025-11-30,Ad spend,1902.35,EUR,paid,2025-11-04
+INV-50185,A1 Telekom,Utilities,2025-10-31,2025-11-30,Monthly usage,62.64,EUR,paid,2025-12-07
+INV-50202,Figma,SaaS,2025-10-31,2025-11-30,Monthly subscription,117.39,EUR,paid,2025-12-06
+INV-50526,A1 Telekom,Utilities,2025-10-31,2025-11-30,Monthly usage,297.75,EUR,paid,2025-11-19
+INV-50092,PackagingCo,Inventory,2025-11-01,2025-12-16,Stock purchase,3491.40,EUR,paid,2025-11-03
+INV-50413,Bean Supplier d.o.o.,Inventory,2025-11-01,2025-12-16,Stock purchase,643.46,EUR,paid,2025-12-05
+INV-50593,Uber,Travel,2025-11-01,2025-12-16,Business trip,154.22,EUR,paid,2025-11-07
+INV-50311,LawFirm Horvat,Professional services,2025-11-02,2025-12-17,Consulting fees,1013.28,EUR,paid,2025-11-05
+INV-50410,Deloitte Advisory,Professional services,2025-11-03,2025-12-18,Consulting fees,2099.08,EUR,paid,2025-11-28
+INV-50151,Bean Supplier d.o.o.,Inventory,2025-11-05,2025-11-19,Stock purchase,779.75,EUR,paid,2025-12-15
+INV-50351,Notion,SaaS,2025-11-05,2025-12-05,Monthly subscription,320.00,EUR,paid,2025-11-22
+INV-59002,Notion,SaaS,2025-11-05,2025-12-05,Monthly subscription,2880.00,EUR,paid,2025-11-22
+INV-50024,Booking.com,Travel,2025-11-08,2025-12-08,Business trip,313.55,EUR,paid,2025-11-21
+INV-50083,Meta,Marketing,2025-11-08,2025-12-08,Ad spend,2040.68,EUR,paid,2025-12-03
+INV-50531,Notion,SaaS,2025-11-08,2025-12-08,Monthly subscription,219.73,EUR,overdue,
+INV-50209,Uber,Travel,2025-11-09,2025-11-23,Business trip,377.70,EUR,overdue,
+INV-50219,Notion,SaaS,2025-11-09,2025-11-23,Monthly subscription,82.38,EUR,paid,2025-11-11
+INV-50340,Google Ads,Marketing,2025-11-09,2025-12-09,Ad spend,1649.18,EUR,overdue,
+INV-50373,Booking.com,Travel,2025-11-09,2025-12-24,Business trip,357.67,EUR,paid,2025-11-23
+INV-50464,Bean Supplier d.o.o.,Inventory,2025-11-09,2025-12-09,Stock purchase,3025.38,EUR,paid,2025-12-16
+INV-50172,Uber,Travel,2025-11-10,2025-12-10,Business trip,397.22,EUR,overdue,
+INV-50174,HEP Elektra,Utilities,2025-11-11,2025-12-11,Monthly usage,354.71,EUR,paid,2025-12-10
+INV-50217,Google Ads,Marketing,2025-11-11,2025-12-11,Ad spend,1595.83,EUR,paid,2025-12-13
+INV-50001,PackagingCo,Inventory,2025-11-12,2025-12-27,Stock purchase,1421.81,EUR,paid,2025-11-17
+INV-50156,HEP Elektra,Utilities,2025-11-12,2025-12-12,Monthly usage,155.89,EUR,overdue,
+INV-50592,Google Ads,Marketing,2025-11-12,2025-11-26,Ad spend,1437.63,EUR,paid,2025-11-14
+INV-50501,Bean Supplier d.o.o.,Inventory,2025-11-14,2025-12-14,Stock purchase,650.81,EUR,paid,2025-11-21
+INV-50176,Deloitte Advisory,Professional services,2025-11-15,2025-11-29,Consulting fees,2062.26,EUR,paid,2025-12-17
+INV-50053,Deloitte Advisory,Professional services,2025-11-16,2025-12-16,Consulting fees,3336.24,EUR,paid,2025-12-14
+INV-50232,Uber,Travel,2025-11-16,2025-12-16,Business trip,233.32,EUR,paid,2025-12-23
+INV-50426,Bean Supplier d.o.o.,Inventory,2025-11-16,2025-11-30,Stock purchase,2410.38,EUR,paid,2025-11-29
+INV-50485,PackagingCo,Inventory,2025-11-16,2025-12-16,Stock purchase,2741.02,EUR,paid,2025-11-21
+INV-50427,Booking.com,Travel,2025-11-17,2025-12-01,Business trip,276.26,EUR,overdue,
+INV-50467,HEP Elektra,Utilities,2025-11-18,2025-12-02,Monthly usage,256.46,EUR,paid,2025-12-22
+INV-50504,Booking.com,Travel,2025-11-18,2026-01-02,Business trip,330.26,EUR,paid,2025-12-16
+INV-50552,PackagingCo,Inventory,2025-11-18,2025-12-02,Stock purchase,2303.75,EUR,overdue,
+INV-50060,Deloitte Advisory,Professional services,2025-11-19,2025-12-03,Consulting fees,3122.70,EUR,paid,2025-12-10
+INV-50144,Google Ads,Marketing,2025-11-19,2025-12-19,Ad spend,1921.41,EUR,paid,2025-12-06
+INV-50180,Notion,SaaS,2025-11-19,2025-12-03,Monthly subscription,259.21,EUR,paid,2025-12-20
+INV-50324,Deloitte Advisory,Professional services,2025-11-19,2025-12-19,Consulting fees,5485.46,EUR,paid,2025-12-24
+INV-50506,Figma,SaaS,2025-11-19,2025-12-19,Monthly subscription,204.01,EUR,overdue,
+INV-50398,LawFirm Horvat,Professional services,2025-11-20,2025-12-20,Consulting fees,2520.14,EUR,paid,2025-12-22
+INV-50070,HEP Elektra,Utilities,2025-11-21,2026-01-05,Monthly usage,58.97,EUR,overdue,
+INV-50131,Meta,Marketing,2025-11-21,2025-12-21,Ad spend,306.56,EUR,paid,2025-11-23
+INV-50229,PackagingCo,Inventory,2025-11-21,2025-12-21,Stock purchase,3124.96,EUR,overdue,
+INV-50333,Bean Supplier d.o.o.,Inventory,2025-11-21,2025-12-21,Stock purchase,2005.99,EUR,paid,2025-12-25
+INV-50454,Bean Supplier d.o.o.,Inventory,2025-11-21,2025-12-05,Stock purchase,3189.58,EUR,paid,2025-12-06
+INV-50069,Uber,Travel,2025-11-22,2025-12-06,Business trip,205.31,EUR,overdue,
+INV-50233,HEP Elektra,Utilities,2025-11-24,2025-12-24,Monthly usage,316.41,EUR,paid,2025-12-12
+INV-50515,Meta,Marketing,2025-11-24,2026-01-08,Ad spend,2260.50,EUR,paid,2026-01-01
+INV-50273,Google Ads,Marketing,2025-11-25,2026-01-09,Ad spend,1401.14,EUR,paid,2025-12-11
+INV-50297,Figma,SaaS,2025-11-25,2025-12-25,Monthly subscription,326.66,EUR,paid,2025-12-03
+INV-50299,Booking.com,Travel,2025-11-25,2025-12-09,Business trip,269.95,EUR,paid,2025-12-28
+INV-50081,HEP Elektra,Utilities,2025-11-26,2025-12-26,Monthly usage,320.95,EUR,paid,2025-12-16
+INV-50187,LawFirm Horvat,Professional services,2025-11-26,2025-12-26,Consulting fees,4276.80,EUR,paid,2026-01-04
+INV-50346,Booking.com,Travel,2025-11-26,2025-12-26,Business trip,209.86,EUR,paid,2026-01-05
+INV-50347,LawFirm Horvat,Professional services,2025-11-26,2026-01-10,Consulting fees,4380.68,EUR,paid,2025-12-15
+INV-50045,Uber,Travel,2025-11-28,2025-12-12,Business trip,118.04,EUR,paid,2025-12-03
+INV-50262,Booking.com,Travel,2025-11-28,2025-12-28,Business trip,277.07,EUR,paid,2025-12-09
+INV-50402,PackagingCo,Inventory,2025-11-28,2025-12-28,Stock purchase,2466.59,EUR,paid,2025-12-21
+INV-50009,Notion,SaaS,2025-11-29,2025-12-13,Monthly subscription,343.59,EUR,paid,2025-12-13
+INV-50105,LawFirm Horvat,Professional services,2025-11-29,2025-12-13,Consulting fees,5267.33,EUR,paid,2026-01-06
+INV-50335,AWS Cloud,SaaS,2025-12-01,2026-01-15,Monthly subscription,107.55,EUR,paid,2025-12-27
+INV-50489,Google Ads,Marketing,2025-12-01,2025-12-31,Ad spend,1099.46,EUR,paid,2025-12-20
+INV-50557,Booking.com,Travel,2025-12-01,2025-12-31,Business trip,213.09,EUR,overdue,
+INV-50022,Google Ads,Marketing,2025-12-02,2025-12-16,Ad spend,1289.20,EUR,paid,2026-01-09
+INV-50035,LawFirm Horvat,Professional services,2025-12-02,2025-12-16,Consulting fees,4247.84,EUR,paid,2026-01-01
+INV-50323,A1 Telekom,Utilities,2025-12-02,2026-01-16,Monthly usage,140.14,EUR,paid,2025-12-14
+INV-50025,PackagingCo,Inventory,2025-12-03,2026-01-02,Stock purchase,1828.67,EUR,paid,2025-12-31
+INV-50270,Bean Supplier d.o.o.,Inventory,2025-12-03,2026-01-17,Stock purchase,2222.92,EUR,paid,2025-12-27
+INV-50341,Deloitte Advisory,Professional services,2025-12-03,2026-01-17,Consulting fees,2589.70,EUR,paid,2025-12-12
+INV-50318,A1 Telekom,Utilities,2025-12-04,2025-12-18,Monthly usage,50.99,EUR,overdue,
+INV-50080,PackagingCo,Inventory,2025-12-05,2026-01-19,Stock purchase,1462.21,EUR,paid,2025-12-09
+INV-50211,Bean Supplier d.o.o.,Inventory,2025-12-06,2025-12-20,Stock purchase,2874.46,EUR,overdue,
+INV-50370,Figma,SaaS,2025-12-06,2026-01-05,Monthly subscription,50.08,EUR,paid,2025-12-29
+INV-50578,Uber,Travel,2025-12-06,2026-01-05,Business trip,311.38,EUR,paid,2026-01-13
+INV-50338,Meta,Marketing,2025-12-07,2025-12-21,Ad spend,2281.27,EUR,paid,2025-12-25
+INV-50395,A1 Telekom,Utilities,2025-12-07,2026-01-06,Monthly usage,230.21,EUR,overdue,
+INV-50039,Bean Supplier d.o.o.,Inventory,2025-12-08,2026-01-22,Stock purchase,2539.77,EUR,paid,2025-12-26
+INV-50166,Uber,Travel,2025-12-08,2026-01-07,Business trip,243.43,EUR,paid,2025-12-20
+INV-50403,Figma,SaaS,2025-12-09,2026-01-08,Monthly subscription,170.87,EUR,paid,2025-12-19
+INV-50451,Meta,Marketing,2025-12-09,2026-01-08,Ad spend,1815.82,EUR,paid,2025-12-18
+INV-50212,Notion,SaaS,2025-12-10,2026-01-09,Monthly subscription,287.26,EUR,paid,2026-01-13
+INV-50288,LawFirm Horvat,Professional services,2025-12-10,2026-01-09,Consulting fees,1094.98,EUR,paid,2026-01-02
+INV-50486,A1 Telekom,Utilities,2025-12-10,2026-01-09,Monthly usage,218.17,EUR,paid,2026-01-09
+INV-50314,AWS Cloud,SaaS,2025-12-11,2025-12-25,Monthly subscription,341.05,EUR,paid,2025-12-17
+INV-50437,Booking.com,Travel,2025-12-11,2026-01-10,Business trip,67.93,EUR,paid,2026-01-20
+INV-50505,Deloitte Advisory,Professional services,2025-12-11,2025-12-25,Consulting fees,3973.71,EUR,paid,2026-01-12
+INV-50149,Booking.com,Travel,2025-12-12,2025-12-26,Business trip,69.30,EUR,paid,2025-12-16
+INV-50159,Meta,Marketing,2025-12-12,2026-01-11,Ad spend,1490.14,EUR,overdue,
+INV-50414,A1 Telekom,Utilities,2025-12-12,2026-01-11,Monthly usage,137.01,EUR,overdue,
+INV-50445,Notion,SaaS,2025-12-12,2026-01-26,Monthly subscription,306.31,EUR,paid,2026-01-04
+INV-50017,Deloitte Advisory,Professional services,2025-12-13,2025-12-27,Consulting fees,5819.39,EUR,paid,2026-01-11
+INV-50567,LawFirm Horvat,Professional services,2025-12-13,2026-01-12,Consulting fees,2032.10,EUR,paid,2025-12-24
+INV-50179,Uber,Travel,2025-12-14,2026-01-13,Business trip,99.22,EUR,paid,2025-12-31
+INV-50581,Uber,Travel,2025-12-15,2025-12-29,Business trip,203.02,EUR,paid,2026-01-13
+INV-50406,PackagingCo,Inventory,2025-12-16,2026-01-15,Stock purchase,1303.06,EUR,paid,2026-01-23
+INV-50447,Figma,SaaS,2025-12-16,2026-01-15,Monthly subscription,223.22,EUR,paid,2025-12-29
+INV-50107,Google Ads,Marketing,2025-12-17,2026-01-16,Ad spend,213.96,EUR,paid,2025-12-26
+INV-50259,Notion,SaaS,2025-12-17,2025-12-31,Monthly subscription,55.48,EUR,paid,2026-01-21
+INV-50326,AWS Cloud,SaaS,2025-12-17,2026-01-31,Monthly subscription,380.06,EUR,paid,2026-01-09
+INV-50479,Meta,Marketing,2025-12-17,2025-12-31,Ad spend,1657.47,EUR,overdue,
+INV-50056,Google Ads,Marketing,2025-12-18,2026-01-17,Ad spend,2446.49,EUR,paid,2026-01-12
+INV-50041,Bean Supplier d.o.o.,Inventory,2025-12-19,2026-01-18,Stock purchase,2877.70,EUR,paid,2025-12-27
+INV-50271,LawFirm Horvat,Professional services,2025-12-19,2026-01-18,Consulting fees,4731.87,EUR,paid,2025-12-31
+INV-50200,A1 Telekom,Utilities,2025-12-20,2026-01-19,Monthly usage,167.77,EUR,overdue,
+INV-50264,Meta,Marketing,2025-12-20,2026-01-19,Ad spend,1311.63,EUR,paid,2025-12-26
+INV-50421,Notion,SaaS,2025-12-20,2026-01-03,Monthly subscription,193.46,EUR,overdue,
+INV-50482,HEP Elektra,Utilities,2025-12-20,2026-01-19,Monthly usage,338.88,EUR,paid,2026-01-14
+INV-50502,Bean Supplier d.o.o.,Inventory,2025-12-20,2026-01-03,Stock purchase,2669.33,EUR,paid,2026-01-27
+INV-50596,AWS Cloud,SaaS,2025-12-20,2026-02-03,Monthly subscription,164.61,EUR,paid,2025-12-25
+INV-50148,LawFirm Horvat,Professional services,2025-12-21,2026-01-20,Consulting fees,1494.05,EUR,overdue,
+INV-50102,Uber,Travel,2025-12-22,2026-01-21,Business trip,239.00,EUR,paid,2025-12-29
+INV-50044,A1 Telekom,Utilities,2025-12-24,2026-02-07,Monthly usage,178.90,EUR,paid,2025-12-29
+INV-50112,Notion,SaaS,2025-12-24,2026-01-23,Monthly subscription,304.32,EUR,paid,2026-01-28
+INV-50380,Google Ads,Marketing,2025-12-24,2026-01-23,Ad spend,211.99,EUR,paid,2026-01-12
+INV-50388,Booking.com,Travel,2025-12-25,2026-01-24,Business trip,378.08,EUR,paid,2026-01-07
+INV-50417,Meta,Marketing,2025-12-25,2026-01-08,Ad spend,1328.35,EUR,paid,2026-01-11
+INV-50020,LawFirm Horvat,Professional services,2025-12-26,2026-01-25,Consulting fees,3120.45,EUR,paid,2026-01-19
+INV-50119,Notion,SaaS,2025-12-26,2026-01-09,Monthly subscription,197.44,EUR,paid,2026-01-31
+INV-50352,HEP Elektra,Utilities,2025-12-26,2026-02-09,Monthly usage,178.55,EUR,overdue,
+INV-50397,HEP Elektra,Utilities,2025-12-26,2026-01-09,Monthly usage,366.94,EUR,overdue,
+INV-50295,Bean Supplier d.o.o.,Inventory,2025-12-27,2026-02-10,Stock purchase,572.32,EUR,paid,2026-01-09
+INV-50542,Notion,SaaS,2025-12-27,2026-01-10,Monthly subscription,225.65,EUR,paid,2026-01-07
+INV-50046,Uber,Travel,2025-12-28,2026-02-11,Business trip,94.72,EUR,paid,2026-01-02
+INV-50281,Google Ads,Marketing,2025-12-28,2026-01-27,Ad spend,1153.82,EUR,paid,2026-02-03
+INV-50412,Meta,Marketing,2025-12-29,2026-02-12,Ad spend,369.19,EUR,paid,2026-01-03
+INV-50205,A1 Telekom,Utilities,2025-12-30,2026-01-29,Monthly usage,274.07,EUR,overdue,
+INV-50473,Uber,Travel,2025-12-30,2026-02-13,Business trip,286.22,EUR,paid,2026-01-07
+INV-50050,HEP Elektra,Utilities,2025-12-31,2026-01-30,Monthly usage,254.69,EUR,paid,2026-02-09
+INV-50094,HEP Elektra,Utilities,2025-12-31,2026-02-14,Monthly usage,137.65,EUR,paid,2026-01-06
+INV-50350,A1 Telekom,Utilities,2025-12-31,2026-01-30,Monthly usage,230.57,EUR,paid,2026-01-15
+INV-50547,AWS Cloud,SaaS,2025-12-31,2026-02-14,Monthly subscription,120.61,EUR,paid,2026-02-07
+INV-50004,Meta,Marketing,2026-01-01,2026-01-31,Ad spend,1607.12,EUR,overdue,
+INV-50064,PackagingCo,Inventory,2026-01-01,2026-02-15,Stock purchase,1211.27,EUR,paid,2026-01-26
+INV-50246,A1 Telekom,Utilities,2026-01-01,2026-01-31,Monthly usage,399.84,EUR,paid,2026-02-08
+INV-50108,Booking.com,Travel,2026-01-03,2026-02-02,Business trip,135.04,EUR,paid,2026-01-24
+INV-50125,Bean Supplier d.o.o.,Inventory,2026-01-03,2026-02-02,Stock purchase,2759.11,EUR,paid,2026-01-17
+INV-50362,Bean Supplier d.o.o.,Inventory,2026-01-03,2026-01-17,Stock purchase,1544.28,EUR,paid,2026-02-12
+INV-50130,Meta,Marketing,2026-01-04,2026-01-18,Ad spend,1081.33,EUR,paid,2026-02-12
+INV-50520,Bean Supplier d.o.o.,Inventory,2026-01-04,2026-02-03,Stock purchase,3407.33,EUR,overdue,
+INV-50066,HEP Elektra,Utilities,2026-01-05,2026-02-04,Monthly usage,369.94,EUR,paid,2026-01-21
+INV-50294,Uber,Travel,2026-01-05,2026-02-19,Business trip,92.40,EUR,paid,2026-02-11
+INV-50354,Booking.com,Travel,2026-01-05,2026-02-04,Business trip,249.82,EUR,paid,2026-01-07
+INV-50389,Booking.com,Travel,2026-01-06,2026-02-20,Business trip,283.41,EUR,paid,2026-02-08
+INV-50527,Google Ads,Marketing,2026-01-06,2026-02-20,Ad spend,696.17,EUR,paid,2026-02-13
+INV-50582,Uber,Travel,2026-01-06,2026-01-20,Business trip,24.95,EUR,paid,2026-01-21
+INV-50595,Booking.com,Travel,2026-01-07,2026-02-06,Business trip,213.93,EUR,paid,2026-02-08
+INV-50282,Bean Supplier d.o.o.,Inventory,2026-01-08,2026-02-22,Stock purchase,2180.83,EUR,overdue,
+INV-50290,A1 Telekom,Utilities,2026-01-08,2026-01-22,Monthly usage,60.86,EUR,overdue,
+INV-50563,Bean Supplier d.o.o.,Inventory,2026-01-08,2026-02-07,Stock purchase,1099.61,EUR,paid,2026-01-30
+INV-50579,Uber,Travel,2026-01-08,2026-01-22,Business trip,365.78,EUR,paid,2026-02-17
+INV-50078,Google Ads,Marketing,2026-01-09,2026-02-08,Ad spend,816.35,EUR,overdue,
+INV-50488,Bean Supplier d.o.o.,Inventory,2026-01-09,2026-02-08,Stock purchase,751.96,EUR,paid,2026-01-23
+INV-50585,AWS Cloud,SaaS,2026-01-09,2026-02-08,Monthly subscription,336.47,EUR,paid,2026-01-28
+INV-50038,Booking.com,Travel,2026-01-10,2026-02-24,Business trip,229.74,EUR,overdue,
+INV-50359,Figma,SaaS,2026-01-11,2026-02-10,Monthly subscription,100.51,EUR,paid,2026-01-30
+INV-50141,A1 Telekom,Utilities,2026-01-12,2026-02-11,Monthly usage,361.25,EUR,paid,2026-02-03
+INV-50564,HEP Elektra,Utilities,2026-01-12,2026-02-11,Monthly usage,255.08,EUR,paid,2026-01-17
+INV-50103,AWS Cloud,SaaS,2026-01-13,2026-02-27,Monthly subscription,106.06,EUR,paid,2026-02-17
+INV-50285,HEP Elektra,Utilities,2026-01-13,2026-02-12,Monthly usage,322.96,EUR,paid,2026-02-16
+INV-50446,Figma,SaaS,2026-01-13,2026-02-12,Monthly subscription,246.53,EUR,paid,2026-02-14
+INV-50197,Figma,SaaS,2026-01-14,2026-02-28,Monthly subscription,23.30,EUR,paid,2026-01-26
+INV-50522,Deloitte Advisory,Professional services,2026-01-14,2026-02-13,Consulting fees,1914.69,EUR,paid,2026-02-01
+INV-50154,Uber,Travel,2026-01-16,2026-01-30,Business trip,255.01,EUR,paid,2026-02-04
+INV-50533,HEP Elektra,Utilities,2026-01-16,2026-03-02,Monthly usage,249.16,EUR,paid,2026-02-01
+INV-50097,Deloitte Advisory,Professional services,2026-01-17,2026-02-16,Consulting fees,2392.06,EUR,paid,2026-01-29
+INV-50106,Meta,Marketing,2026-01-17,2026-02-16,Ad spend,703.35,EUR,paid,2026-02-23
+INV-50336,Meta,Marketing,2026-01-17,2026-03-03,Ad spend,1930.46,EUR,paid,2026-02-24
+INV-50597,Google Ads,Marketing,2026-01-17,2026-01-31,Ad spend,1523.37,EUR,overdue,
+INV-50598,A1 Telekom,Utilities,2026-01-17,2026-01-31,Monthly usage,157.07,EUR,overdue,
+INV-50213,PackagingCo,Inventory,2026-01-18,2026-02-17,Stock purchase,1574.61,EUR,overdue,
+INV-50553,LawFirm Horvat,Professional services,2026-01-18,2026-02-01,Consulting fees,1899.67,EUR,paid,2026-01-21
+INV-50313,Notion,SaaS,2026-01-19,2026-02-18,Monthly subscription,352.11,EUR,overdue,
+INV-50356,Booking.com,Travel,2026-01-20,2026-02-03,Business trip,321.09,EUR,paid,2026-02-14
+INV-50382,Uber,Travel,2026-01-21,2026-02-04,Business trip,61.62,EUR,overdue,
+INV-50063,Uber,Travel,2026-01-22,2026-03-08,Business trip,340.20,EUR,paid,2026-02-02
+INV-50544,Bean Supplier d.o.o.,Inventory,2026-01-23,2026-03-09,Stock purchase,1816.41,EUR,overdue,
+INV-50002,LawFirm Horvat,Professional services,2026-01-27,2026-02-26,Consulting fees,3049.68,EUR,paid,2026-03-02
+INV-50367,Bean Supplier d.o.o.,Inventory,2026-01-28,2026-02-27,Stock purchase,2116.19,EUR,overdue,
+INV-50168,Notion,SaaS,2026-01-29,2026-02-12,Monthly subscription,331.84,EUR,paid,2026-02-16
+INV-50186,Figma,SaaS,2026-01-29,2026-02-28,Monthly subscription,242.73,EUR,paid,2026-02-02
+INV-50450,A1 Telekom,Utilities,2026-01-29,2026-03-15,Monthly usage,143.79,EUR,paid,2026-02-18
+INV-50196,Uber,Travel,2026-01-31,2026-03-02,Business trip,399.73,EUR,paid,2026-02-07
+INV-50523,Deloitte Advisory,Professional services,2026-01-31,2026-03-02,Consulting fees,1866.64,EUR,overdue,
+INV-50569,Bean Supplier d.o.o.,Inventory,2026-01-31,2026-03-17,Stock purchase,2768.35,EUR,paid,2026-03-10
+INV-50164,Figma,SaaS,2026-02-02,2026-03-04,Monthly subscription,62.84,EUR,overdue,
+INV-50444,Bean Supplier d.o.o.,Inventory,2026-02-02,2026-03-04,Stock purchase,594.09,EUR,overdue,
+INV-50133,Notion,SaaS,2026-02-03,2026-03-05,Monthly subscription,163.60,EUR,paid,2026-02-27
+INV-50268,Meta,Marketing,2026-02-03,2026-03-20,Ad spend,2187.27,EUR,overdue,
+INV-50319,LawFirm Horvat,Professional services,2026-02-03,2026-03-05,Consulting fees,5146.92,EUR,paid,2026-02-14
+INV-50399,HEP Elektra,Utilities,2026-02-03,2026-03-05,Monthly usage,95.66,EUR,overdue,
+INV-50460,AWS Cloud,SaaS,2026-02-03,2026-03-05,Monthly subscription,315.08,EUR,overdue,
+INV-50512,Uber,Travel,2026-02-03,2026-03-05,Business trip,299.89,EUR,paid,2026-02-16
+INV-50528,Notion,SaaS,2026-02-03,2026-03-20,Monthly subscription,87.38,EUR,overdue,
+INV-50036,Notion,SaaS,2026-02-04,2026-03-21,Monthly subscription,394.66,EUR,overdue,
+INV-50118,Bean Supplier d.o.o.,Inventory,2026-02-04,2026-03-06,Stock purchase,1044.33,EUR,paid,2026-02-17
+INV-50422,Meta,Marketing,2026-02-04,2026-02-18,Ad spend,2350.41,EUR,paid,2026-02-28
+INV-50443,Booking.com,Travel,2026-02-04,2026-03-06,Business trip,317.70,EUR,paid,2026-02-21
+INV-50532,PackagingCo,Inventory,2026-02-05,2026-03-07,Stock purchase,750.94,EUR,paid,2026-03-16
+INV-50559,PackagingCo,Inventory,2026-02-05,2026-03-22,Stock purchase,3188.07,EUR,overdue,
+INV-50566,Deloitte Advisory,Professional services,2026-02-05,2026-03-07,Consulting fees,5325.32,EUR,paid,2026-02-12
+INV-50030,Figma,SaaS,2026-02-06,2026-02-20,Monthly subscription,183.15,EUR,paid,2026-02-25
+INV-50400,Figma,SaaS,2026-02-06,2026-02-20,Monthly subscription,311.55,EUR,paid,2026-03-18
+INV-50372,Notion,SaaS,2026-02-07,2026-03-09,Monthly subscription,70.93,EUR,paid,2026-03-05
+INV-50419,HEP Elektra,Utilities,2026-02-07,2026-03-09,Monthly usage,35.11,EUR,paid,2026-03-03
+INV-50600,Meta,Marketing,2026-02-07,2026-02-21,Ad spend,2139.13,EUR,overdue,
+INV-50543,Meta,Marketing,2026-02-08,2026-03-10,Ad spend,1406.32,EUR,overdue,
+INV-50055,LawFirm Horvat,Professional services,2026-02-09,2026-03-11,Consulting fees,5278.31,EUR,overdue,
+INV-50128,Bean Supplier d.o.o.,Inventory,2026-02-09,2026-03-26,Stock purchase,2209.03,EUR,overdue,
+INV-50440,Meta,Marketing,2026-02-09,2026-03-11,Ad spend,2015.03,EUR,paid,2026-03-14
+INV-50470,A1 Telekom,Utilities,2026-02-09,2026-03-11,Monthly usage,56.65,EUR,overdue,
+INV-50483,Bean Supplier d.o.o.,Inventory,2026-02-09,2026-02-23,Stock purchase,1171.00,EUR,overdue,
+INV-50206,A1 Telekom,Utilities,2026-02-10,2026-03-12,Monthly usage,153.68,EUR,paid,2026-02-21
+INV-50218,Notion,SaaS,2026-02-11,2026-02-25,Monthly subscription,399.48,EUR,paid,2026-02-22
+INV-50404,AWS Cloud,SaaS,2026-02-11,2026-03-13,Monthly subscription,33.73,EUR,paid,2026-03-22
+INV-50160,PackagingCo,Inventory,2026-02-12,2026-03-14,Stock purchase,1405.74,EUR,paid,2026-03-09
+INV-50163,AWS Cloud,SaaS,2026-02-12,2026-03-29,Monthly subscription,269.80,EUR,paid,2026-03-11
+INV-50308,Booking.com,Travel,2026-02-12,2026-03-29,Business trip,130.98,EUR,paid,2026-03-15
+INV-50481,AWS Cloud,SaaS,2026-02-12,2026-03-29,Monthly subscription,162.09,EUR,paid,2026-02-28
+INV-50104,Notion,SaaS,2026-02-13,2026-03-30,Monthly subscription,388.67,EUR,paid,2026-02-28
+INV-50236,LawFirm Horvat,Professional services,2026-02-13,2026-03-15,Consulting fees,4052.32,EUR,paid,2026-03-23
+INV-50369,Meta,Marketing,2026-02-13,2026-03-30,Ad spend,1880.98,EUR,paid,2026-02-21
+INV-50383,Bean Supplier d.o.o.,Inventory,2026-02-14,2026-03-16,Stock purchase,2880.65,EUR,paid,2026-03-24
+INV-50461,Notion,SaaS,2026-02-14,2026-03-31,Monthly subscription,338.77,EUR,paid,2026-02-26
+INV-50535,PackagingCo,Inventory,2026-02-14,2026-03-31,Stock purchase,2117.14,EUR,paid,2026-03-13
+INV-50008,HEP Elektra,Utilities,2026-02-16,2026-03-02,Monthly usage,300.42,EUR,paid,2026-03-06
+INV-50332,Meta,Marketing,2026-02-16,2026-04-02,Ad spend,2104.50,EUR,overdue,
+INV-50342,HEP Elektra,Utilities,2026-02-16,2026-03-02,Monthly usage,150.94,EUR,paid,2026-03-19
+INV-50416,Booking.com,Travel,2026-02-16,2026-04-02,Business trip,198.17,EUR,paid,2026-03-08
+INV-50067,AWS Cloud,SaaS,2026-02-17,2026-04-03,Monthly subscription,236.73,EUR,paid,2026-03-11
+INV-50126,LawFirm Horvat,Professional services,2026-02-17,2026-03-19,Consulting fees,2614.02,EUR,paid,2026-03-09
+INV-50287,LawFirm Horvat,Professional services,2026-02-17,2026-04-03,Consulting fees,5518.49,EUR,paid,2026-03-02
+INV-50357,Booking.com,Travel,2026-02-19,2026-04-05,Business trip,388.91,EUR,paid,2026-03-12
+INV-50304,Meta,Marketing,2026-02-20,2026-03-06,Ad spend,1446.94,EUR,paid,2026-03-08
+INV-50227,HEP Elektra,Utilities,2026-02-21,2026-03-23,Monthly usage,155.42,EUR,overdue,
+INV-50137,Notion,SaaS,2026-02-23,2026-03-25,Monthly subscription,20.02,EUR,overdue,
+INV-50167,Bean Supplier d.o.o.,Inventory,2026-02-23,2026-03-09,Stock purchase,2548.84,EUR,paid,2026-03-05
+INV-50329,Booking.com,Travel,2026-02-23,2026-03-25,Business trip,129.24,EUR,paid,2026-03-04
+INV-50509,Booking.com,Travel,2026-02-23,2026-03-09,Business trip,87.62,EUR,paid,2026-04-02
+INV-50051,Bean Supplier d.o.o.,Inventory,2026-02-24,2026-04-10,Stock purchase,1166.43,EUR,paid,2026-03-23
+INV-50279,HEP Elektra,Utilities,2026-02-24,2026-03-10,Monthly usage,287.42,EUR,paid,2026-04-02
+INV-50435,Figma,SaaS,2026-02-24,2026-03-26,Monthly subscription,193.51,EUR,overdue,
+INV-50345,LawFirm Horvat,Professional services,2026-02-25,2026-04-11,Consulting fees,3016.50,EUR,paid,2026-04-02
+INV-50032,Meta,Marketing,2026-02-26,2026-03-12,Ad spend,448.58,EUR,overdue,
+INV-50499,LawFirm Horvat,Professional services,2026-02-26,2026-03-28,Consulting fees,4583.40,EUR,overdue,
+INV-50551,Deloitte Advisory,Professional services,2026-02-27,2026-04-13,Consulting fees,1776.59,EUR,paid,2026-04-03
+INV-50192,Google Ads,Marketing,2026-02-28,2026-03-30,Ad spend,930.42,EUR,overdue,
+INV-50099,Figma,SaaS,2026-03-01,2026-03-31,Monthly subscription,256.76,EUR,paid,2026-03-03
+INV-50255,LawFirm Horvat,Professional services,2026-03-01,2026-03-31,Consulting fees,3653.19,EUR,overdue,
+INV-50471,A1 Telekom,Utilities,2026-03-01,2026-04-15,Monthly usage,292.14,EUR,paid,2026-04-01
+INV-50468,Notion,SaaS,2026-03-02,2026-03-16,Monthly subscription,369.41,EUR,paid,2026-03-12
+INV-50101,LawFirm Horvat,Professional services,2026-03-03,2026-04-02,Consulting fees,3510.20,EUR,paid,2026-03-20
+INV-50101D,LawFirm Horvat,Professional services,2026-03-03,2026-04-02,Consulting fees,3510.20,EUR,paid,2026-03-20
+INV-50298,Uber,Travel,2026-03-04,2026-04-03,Business trip,289.82,EUR,overdue,
+INV-50498,Uber,Travel,2026-03-04,2026-04-18,Business trip,81.73,EUR,paid,2026-04-05
+INV-50546,Deloitte Advisory,Professional services,2026-03-04,2026-03-18,Consulting fees,3570.43,EUR,paid,2026-04-13
+INV-50085,Bean Supplier d.o.o.,Inventory,2026-03-05,2026-04-04,Stock purchase,1032.06,EUR,overdue,
+INV-50223,Uber,Travel,2026-03-05,2026-04-04,Business trip,102.28,EUR,paid,2026-03-10
+INV-50283,Deloitte Advisory,Professional services,2026-03-05,2026-04-04,Consulting fees,1491.53,EUR,overdue,
+INV-50378,Uber,Travel,2026-03-05,2026-04-04,Business trip,267.64,EUR,paid,2026-04-14
+INV-50065,Notion,SaaS,2026-03-06,2026-04-20,Monthly subscription,396.89,EUR,overdue,
+INV-50303,Deloitte Advisory,Professional services,2026-03-06,2026-03-20,Consulting fees,4019.37,EUR,paid,2026-03-24
+INV-50322,Figma,SaaS,2026-03-06,2026-03-20,Monthly subscription,349.70,EUR,paid,2026-03-28
+INV-50334,Deloitte Advisory,Professional services,2026-03-08,2026-03-22,Consulting fees,3394.79,EUR,paid,2026-03-13
+INV-50452,PackagingCo,Inventory,2026-03-08,2026-04-07,Stock purchase,2305.85,EUR,paid,2026-03-21
+INV-50511,AWS Cloud,SaaS,2026-03-08,2026-03-22,Monthly subscription,20.55,EUR,paid,2026-04-07
+INV-50496,LawFirm Horvat,Professional services,2026-03-09,2026-04-08,Consulting fees,1932.19,EUR,paid,2026-03-20
+INV-50529,A1 Telekom,Utilities,2026-03-09,2026-04-23,Monthly usage,182.82,EUR,paid,2026-04-15
+INV-50339,LawFirm Horvat,Professional services,2026-03-10,2026-03-24,Consulting fees,5916.72,EUR,paid,2026-04-19
+INV-50477,Notion,SaaS,2026-03-10,2026-04-24,Monthly subscription,169.14,EUR,overdue,
+INV-50077,A1 Telekom,Utilities,2026-03-11,2026-04-10,Monthly usage,202.43,EUR,overdue,
+INV-50243,Google Ads,Marketing,2026-03-11,2026-04-25,Ad spend,2346.17,EUR,overdue,
+INV-50010,Figma,SaaS,2026-03-12,2026-04-26,Monthly subscription,198.36,EUR,paid,2026-03-31
+INV-50129,Google Ads,Marketing,2026-03-12,2026-04-26,Ad spend,1848.85,EUR,paid,2026-04-18
+INV-50193,Figma,SaaS,2026-03-12,2026-04-11,Monthly subscription,104.73,EUR,overdue,
+INV-50573,AWS Cloud,SaaS,2026-03-12,2026-04-11,Monthly subscription,351.49,EUR,paid,2026-04-08
+INV-50565,Bean Supplier d.o.o.,Inventory,2026-03-13,2026-04-27,Stock purchase,1815.23,EUR,paid,2026-03-24
+INV-50146,Google Ads,Marketing,2026-03-14,2026-04-13,Ad spend,1490.63,EUR,paid,2026-04-23
+INV-50098,HEP Elektra,Utilities,2026-03-15,2026-04-14,Monthly usage,387.78,EUR,paid,2026-03-31
+INV-50241,Bean Supplier d.o.o.,Inventory,2026-03-15,2026-04-14,Stock purchase,3000.93,EUR,overdue,
+INV-50371,HEP Elektra,Utilities,2026-03-15,2026-04-29,Monthly usage,397.15,EUR,paid,2026-04-03
+INV-50530,Notion,SaaS,2026-03-15,2026-03-29,Monthly subscription,202.89,EUR,paid,2026-03-20
+INV-50562,A1 Telekom,Utilities,2026-03-15,2026-04-29,Monthly usage,304.10,EUR,paid,2026-04-24
+INV-50136,Notion,SaaS,2026-03-16,2026-04-15,Monthly subscription,32.03,EUR,paid,2026-04-13
+INV-50420,Bean Supplier d.o.o.,Inventory,2026-03-16,2026-04-30,Stock purchase,1651.98,EUR,paid,2026-03-21
+INV-50513,Bean Supplier d.o.o.,Inventory,2026-03-16,2026-04-15,Stock purchase,3341.90,EUR,paid,2026-03-18
+INV-50321,Google Ads,Marketing,2026-03-17,2026-05-01,Ad spend,435.63,EUR,paid,2026-03-25
+INV-50047,HEP Elektra,Utilities,2026-03-18,2026-04-17,Monthly usage,265.60,EUR,paid,2026-04-22
+INV-50115,Notion,SaaS,2026-03-18,2026-04-01,Monthly subscription,40.82,EUR,paid,2026-04-27
+INV-50127,LawFirm Horvat,Professional services,2026-03-18,2026-04-17,Consulting fees,3625.67,EUR,overdue,
+INV-50275,LawFirm Horvat,Professional services,2026-03-19,2026-05-03,Consulting fees,5545.16,EUR,paid,2026-03-27
+INV-50436,Figma,SaaS,2026-03-19,2026-04-02,Monthly subscription,386.78,EUR,paid,2026-04-18
+INV-50439,Notion,SaaS,2026-03-19,2026-04-02,Monthly subscription,364.65,EUR,overdue,
+INV-50508,Bean Supplier d.o.o.,Inventory,2026-03-19,2026-04-18,Stock purchase,2558.52,EUR,paid,2026-03-27
+INV-50517,A1 Telekom,Utilities,2026-03-19,2026-05-03,Monthly usage,284.84,EUR,paid,2026-04-02
+INV-50049,Bean Supplier d.o.o.,Inventory,2026-03-20,2026-04-19,Stock purchase,3171.52,EUR,overdue,
+INV-50424,Meta,Marketing,2026-03-20,2026-05-04,Ad spend,1025.26,EUR,overdue,
+INV-50198,AWS Cloud,SaaS,2026-03-21,2026-04-20,Monthly subscription,379.10,EUR,overdue,
+INV-50423,AWS Cloud,SaaS,2026-03-21,2026-04-20,Monthly subscription,290.50,EUR,paid,2026-03-26
+INV-50240,AWS Cloud,SaaS,2026-03-22,2026-05-06,Monthly subscription,310.66,EUR,paid,2026-04-09
+INV-50572,Meta,Marketing,2026-03-22,2026-04-05,Ad spend,514.12,EUR,overdue,
+INV-50317,Meta,Marketing,2026-03-23,2026-05-07,Ad spend,2131.26,EUR,paid,2026-04-01
+INV-50459,Booking.com,Travel,2026-03-23,2026-04-22,Business trip,120.18,EUR,overdue,
+INV-50090,Bean Supplier d.o.o.,Inventory,2026-03-24,2026-04-07,Stock purchase,2493.00,EUR,paid,2026-03-27
+INV-50230,PackagingCo,Inventory,2026-03-25,2026-04-24,Stock purchase,2772.18,EUR,paid,2026-05-03
+INV-50556,Booking.com,Travel,2026-03-25,2026-04-24,Business trip,33.12,EUR,paid,2026-05-01
+INV-50353,Notion,SaaS,2026-03-26,2026-05-10,Monthly subscription,330.07,EUR,overdue,
+INV-50558,Google Ads,Marketing,2026-03-26,2026-04-09,Ad spend,213.49,EUR,paid,2026-05-04
+INV-50204,Figma,SaaS,2026-03-27,2026-04-26,Monthly subscription,213.32,EUR,paid,2026-05-05
+INV-50177,Deloitte Advisory,Professional services,2026-03-28,2026-05-12,Consulting fees,5327.68,EUR,paid,2026-05-02
+INV-50280,AWS Cloud,SaaS,2026-03-29,2026-04-28,Monthly subscription,148.59,EUR,overdue,
+INV-50300,Google Ads,Marketing,2026-03-29,2026-04-12,Ad spend,1060.87,EUR,overdue,
+INV-50391,Google Ads,Marketing,2026-03-29,2026-05-13,Ad spend,2045.75,EUR,paid,2026-04-06
+INV-50376,Google Ads,Marketing,2026-03-30,2026-04-29,Ad spend,1693.10,EUR,paid,2026-05-06
+INV-50507,Google Ads,Marketing,2026-03-30,2026-05-14,Ad spend,1980.34,EUR,paid,2026-04-14
+INV-50521,Bean Supplier d.o.o.,Inventory,2026-03-30,2026-04-29,Stock purchase,2837.00,EUR,paid,2026-05-01
+INV-50250,Figma,SaaS,2026-03-31,2026-04-14,Monthly subscription,40.00,EUR,paid,2026-04-03
+INV-50254,Meta,Marketing,2026-04-02,2026-05-02,Ad spend,1257.97,EUR,paid,2026-05-11
+INV-50545,LawFirm Horvat,Professional services,2026-04-02,2026-05-17,Consulting fees,5801.50,EUR,paid,2026-04-18
+INV-50570,HEP Elektra,Utilities,2026-04-02,2026-04-16,Monthly usage,360.91,EUR,paid,2026-04-26
+INV-50375,Deloitte Advisory,Professional services,2026-04-03,2026-05-03,Consulting fees,5523.05,EUR,overdue,
+INV-50408,Meta,Marketing,2026-04-04,2026-05-04,Ad spend,883.61,EUR,paid,2026-04-30
+INV-50134,AWS Cloud,SaaS,2026-04-06,2026-04-20,Monthly subscription,318.36,EUR,paid,2026-05-03
+INV-50145,Deloitte Advisory,Professional services,2026-04-06,2026-05-06,Consulting fees,1962.74,EUR,paid,2026-04-22
+INV-50315,LawFirm Horvat,Professional services,2026-04-06,2026-04-20,Consulting fees,4616.48,EUR,paid,2026-04-25
+INV-50514,HEP Elektra,Utilities,2026-04-06,2026-05-21,Monthly usage,210.27,EUR,pending,
+INV-50591,Deloitte Advisory,Professional services,2026-04-06,2026-05-06,Consulting fees,4670.33,EUR,paid,2026-05-04
+INV-50150,Figma,SaaS,2026-04-07,2026-04-21,Monthly subscription,208.69,EUR,paid,2026-05-15
+INV-50360,Notion,SaaS,2026-04-07,2026-04-21,Monthly subscription,63.00,EUR,paid,2026-05-04
+INV-50110,LawFirm Horvat,Professional services,2026-04-08,2026-05-23,Consulting fees,872.39,EUR,paid,2026-04-18
+INV-50472,PackagingCo,Inventory,2026-04-08,2026-05-08,Stock purchase,1483.93,EUR,paid,2026-05-11
+INV-50519,Meta,Marketing,2026-04-10,2026-05-25,Ad spend,1327.84,EUR,paid,2026-04-25
+INV-50571,HEP Elektra,Utilities,2026-04-10,2026-05-25,Monthly usage,266.65,EUR,paid,2026-04-19
+INV-50215,Bean Supplier d.o.o.,Inventory,2026-04-12,2026-05-12,Stock purchase,881.29,EUR,paid,2026-05-22
+INV-50225,Uber,Travel,2026-04-12,2026-05-27,Business trip,376.44,EUR,paid,2026-05-07
+INV-50364,Booking.com,Travel,2026-04-12,2026-04-26,Business trip,43.61,EUR,paid,2026-04-30
+INV-50537,HEP Elektra,Utilities,2026-04-12,2026-05-27,Monthly usage,387.37,EUR,paid,2026-05-08
+INV-50015,Deloitte Advisory,Professional services,2026-04-13,2026-05-13,Consulting fees,876.66,EUR,overdue,
+INV-50292,Booking.com,Travel,2026-04-15,2026-05-15,Business trip,196.38,EUR,paid,2026-05-15
+INV-50296,AWS Cloud,SaaS,2026-04-15,2026-05-15,Monthly subscription,162.98,EUR,paid,2026-04-18
+INV-50379,Bean Supplier d.o.o.,Inventory,2026-04-15,2026-05-15,Stock purchase,980.12,EUR,pending,
+INV-50084,Booking.com,Travel,2026-04-16,2026-05-16,Business trip,352.28,EUR,paid,2026-04-25
+INV-50277,HEP Elektra,Utilities,2026-04-16,2026-05-16,Monthly usage,90.35,EUR,paid,2026-05-08
+INV-50428,HEP Elektra,Utilities,2026-04-18,2026-06-02,Monthly usage,217.75,EUR,paid,2026-05-03
+INV-50442,A1 Telekom,Utilities,2026-04-18,2026-05-18,Monthly usage,63.97,EUR,paid,2026-05-21
+INV-50484,LawFirm Horvat,Professional services,2026-04-18,2026-06-02,Consulting fees,5286.98,EUR,paid,2026-04-21
+INV-50575,Google Ads,Marketing,2026-04-18,2026-05-18,Ad spend,2186.57,EUR,pending,
+INV-50075,Notion,SaaS,2026-04-19,2026-05-03,Monthly subscription,289.15,EUR,overdue,
+INV-50478,PackagingCo,Inventory,2026-04-19,2026-05-19,Stock purchase,852.91,EUR,paid,2026-05-02
+INV-50007,Uber,Travel,2026-04-20,2026-05-20,Business trip,280.79,EUR,pending,
+INV-50059,Uber,Travel,2026-04-20,2026-06-04,Business trip,287.47,EUR,paid,2026-05-12
+INV-50113,HEP Elektra,Utilities,2026-04-20,2026-05-04,Monthly usage,29.90,EUR,overdue,
+INV-50052,Deloitte Advisory,Professional services,2026-04-21,2026-05-21,Consulting fees,1537.15,EUR,pending,
+INV-50249,PackagingCo,Inventory,2026-04-22,2026-05-22,Stock purchase,730.90,EUR,paid,2026-04-27
+INV-50203,Deloitte Advisory,Professional services,2026-04-23,2026-05-23,Consulting fees,940.70,EUR,paid,2026-05-31
+INV-50284,Notion,SaaS,2026-04-24,2026-05-08,Monthly subscription,297.86,EUR,overdue,
+INV-50343,PackagingCo,Inventory,2026-04-24,2026-05-24,Stock purchase,2370.40,EUR,paid,2026-05-25
+INV-50536,PackagingCo,Inventory,2026-04-24,2026-05-24,Stock purchase,1471.04,EUR,paid,2026-05-24
+INV-50587,Uber,Travel,2026-04-24,2026-06-08,Business trip,71.28,EUR,paid,2026-05-11
+INV-50173,Meta,Marketing,2026-04-25,2026-05-09,Ad spend,935.67,EUR,overdue,
+INV-50377,LawFirm Horvat,Professional services,2026-04-25,2026-05-25,Consulting fees,3340.56,EUR,paid,2026-05-29
+INV-50429,Google Ads,Marketing,2026-04-25,2026-06-09,Ad spend,267.70,EUR,paid,2026-05-01
+INV-50286,A1 Telekom,Utilities,2026-04-26,2026-06-10,Monthly usage,356.76,EUR,paid,2026-05-01
+INV-50492,Uber,Travel,2026-04-27,2026-05-27,Business trip,113.11,EUR,pending,

@@ -1,0 +1,601 @@
+ticket_id,created_at,channel,category,priority,subject,message,customer_sentiment,status,resolved_at,resolution_hours,csat
+TK-20277,2025-12-01 16:00,email,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2025-12-02 17:24,25.4,4
+TK-20137,2025-12-01 18:00,phone,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2025-12-01 23:12,5.2,4
+TK-20446,2025-12-01 19:00,chat,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2025-12-03 00:54,29.9,4
+TK-20259,2025-12-02 03:00,email,Product,high,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2025-12-02 17:24,14.4,1
+TK-20490,2025-12-02 07:00,email,Delivery,medium,Order 47291 still hasn't arrived after 15 days,Order 47291 still hasn't arrived after 15 days.,neg,resolved,2025-12-03 10:06,27.1,4
+TK-20173,2025-12-02 11:00,chat,Account,low,I can't log into my account,I can't log into my account.,neutral,resolved,2025-12-04 15:24,52.4,2
+TK-20118,2025-12-02 13:00,email,Delivery,high,Order 53157 still hasn't arrived after 17 days,Order 53157 still hasn't arrived after 17 days.,neg,resolved,2025-12-03 06:06,17.1,3
+TK-20418,2025-12-02 15:00,chat,Product,urgent,Quality of the brew kit is not what I expected,Quality of the brew kit is not what I expected.,neg,resolved,2025-12-02 18:42,3.7,3
+TK-20227,2025-12-03 03:00,chat,Delivery,low,Wrong item delivered for order 56170,Wrong item delivered for order 56170.,neg,resolved,2025-12-06 19:24,88.4,3
+TK-20537,2025-12-03 07:00,email,Account,low,I can't log into my account,I can't log into my account.,neutral,resolved,2025-12-04 22:36,39.6,4
+TK-20193,2025-12-03 08:00,chat,Refund,low,"Please refund order 31426, item was faulty","Please refund order 31426, item was faulty.",neg,pending,,,
+TK-20567,2025-12-03 08:00,email,Account,urgent,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2025-12-03 12:12,4.2,1
+TK-20458,2025-12-03 10:00,email,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,pending,,,
+TK-20175,2025-12-04 07:00,chat,Refund,high,How long does a refund for milk frother take?,How long does a refund for milk frother take?,neg,resolved,2025-12-05 00:24,17.4,3
+TK-20440,2025-12-04 13:00,chat,Account,low,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2025-12-06 10:12,45.2,5
+TK-20022,2025-12-04 16:00,chat,Refund,medium,How long does a refund for beans 1kg take?,How long does a refund for beans 1kg take?,neg,resolved,2025-12-05 19:48,27.8,4
+TK-20533,2025-12-05 03:00,email,Account,high,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2025-12-06 00:18,21.3,1
+TK-20582,2025-12-05 13:00,email,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2025-12-06 21:48,32.8,2
+TK-20356,2025-12-05 15:00,chat,Praise,medium,"Great service from your team on order 91555, tha","Great service from your team on order 91555, thank you!",pos,resolved,2025-12-06 19:18,28.3,4
+TK-20186,2025-12-05 21:00,email,Refund,high,I'd like a refund for order 94397,I'd like a refund for order 94397.,neg,pending,,,
+TK-20066,2025-12-06 04:00,email,Product,high,The brew kit stopped working after two days,The brew kit stopped working after two days.,neg,open,,,
+TK-20266,2025-12-06 08:00,email,Praise,medium,"Really happy with the coffee subscription, will ","Really happy with the coffee subscription, will order again.",pos,pending,,,
+TK-20385,2025-12-06 08:00,chat,Billing,high,I was charged twice for order 60636,I was charged twice for order 60636.,neg,resolved,2025-12-06 17:06,9.1,1
+TK-20211,2025-12-06 11:00,phone,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2025-12-08 06:18,43.3,5
+TK-20250,2025-12-06 14:00,chat,Refund,medium,I'd like a refund for order 22166,I'd like a refund for order 22166.,neg,resolved,2025-12-07 06:54,16.9,1
+TK-20085,2025-12-06 16:00,phone,Delivery,urgent,Order 96269 still hasn't arrived after 14 days,Order 96269 still hasn't arrived after 14 days.,neg,resolved,2025-12-06 20:48,4.8,3
+TK-20135,2025-12-06 19:00,phone,Delivery,medium,Order 81177 still hasn't arrived after 17 days,Order 81177 still hasn't arrived after 17 days.,neg,resolved,2025-12-07 18:12,23.2,5
+TK-20139,2025-12-06 20:00,phone,Delivery,high,Wrong item delivered for order 21976,Wrong item delivered for order 21976.,neg,resolved,2025-12-07 09:54,13.9,4
+TK-20475,2025-12-07 05:00,chat,Product,low,The milk frother stopped working after two days,The milk frother stopped working after two days.,neg,resolved,2025-12-11 08:18,99.3,4
+TK-20217,2025-12-07 11:00,phone,Product,high,The beans 1kg doesn't match the description on y,The beans 1kg doesn't match the description on your site.,neg,resolved,2025-12-07 16:36,5.6,1
+TK-20169,2025-12-07 14:00,chat,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2025-12-08 06:48,16.8,1
+TK-20394,2025-12-08 23:00,chat,Product,medium,The brew kit doesn't match the description on yo,The brew kit doesn't match the description on your site.,neg,open,,,
+TK-20097,2025-12-09 01:00,phone,Billing,high,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2025-12-09 03:18,2.3,4
+TK-20283,2025-12-09 07:00,phone,Billing,low,I was charged twice for order 34761,I was charged twice for order 34761.,neg,resolved,2025-12-10 12:18,29.3,2
+TK-20015,2025-12-09 08:00,email,Delivery,medium,Wrong item delivered for order 26006,Wrong item delivered for order 26006.,neg,resolved,2025-12-10 00:24,16.4,2
+TK-20483,2025-12-09 19:00,phone,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2025-12-11 15:36,44.6,4
+TK-20023,2025-12-10 01:00,chat,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2025-12-11 05:54,28.9,5
+TK-20430,2025-12-10 06:00,phone,Delivery,high,Tracking for 44903 hasn't updated in a week,Tracking for 44903 hasn't updated in a week.,neg,resolved,2025-12-10 10:54,4.9,5
+TK-20179,2025-12-10 19:00,chat,Billing,low,I was charged twice for order 30921,I was charged twice for order 30921.,neg,resolved,2025-12-11 19:06,24.1,1
+TK-20595,2025-12-10 19:00,email,Delivery,high,Order 42211 still hasn't arrived after 13 days,Order 42211 still hasn't arrived after 13 days.,neg,resolved,2025-12-11 05:48,10.8,3
+TK-20105,2025-12-11 19:00,chat,Billing,high,My invoice INV-1613 shows an amount I don't reco,My invoice INV-1613 shows an amount I don't recognise.,neg,resolved,2025-12-12 04:06,9.1,2
+TK-20121,2025-12-11 19:00,chat,Billing,high,I cancelled but you charged me again for order 7,I cancelled but you charged me again for order 72661.,neg,resolved,2025-12-12 15:06,20.1,3
+TK-20282,2025-12-12 02:00,phone,Billing,high,I cancelled but you charged me again for order 5,I cancelled but you charged me again for order 57262.,neg,pending,,,
+TK-20143,2025-12-12 07:00,chat,Billing,low,My invoice INV-5165 shows an amount I don't reco,My invoice INV-5165 shows an amount I don't recognise.,neg,resolved,2025-12-14 20:12,61.2,1
+TK-20508,2025-12-12 09:00,phone,Delivery,high,Wrong item delivered for order 89351,Wrong item delivered for order 89351.,neg,resolved,2025-12-12 21:00,12.0,1
+TK-20516,2025-12-12 12:00,chat,Product,high,The espresso machine I received arrived damaged,The espresso machine I received arrived damaged.,neg,resolved,2025-12-12 22:54,10.9,5
+TK-20235,2025-12-12 18:00,chat,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2025-12-14 15:00,45.0,2
+TK-20585,2025-12-12 18:00,email,Product,high,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2025-12-13 04:06,10.1,1
+TK-20045,2025-12-13 21:00,email,Praise,low,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,open,,,
+TK-20573,2025-12-14 04:00,chat,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2025-12-16 20:06,64.1,2
+TK-20469,2025-12-14 08:00,phone,Account,high,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2025-12-14 21:06,13.1,5
+TK-20248,2025-12-14 09:00,chat,Delivery,high,Wrong item delivered for order 87651,Wrong item delivered for order 87651.,neg,open,,,
+TK-20094,2025-12-14 10:00,phone,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,open,,,
+TK-20087,2025-12-14 21:00,email,Delivery,high,Tracking for 97982 hasn't updated in a week,Tracking for 97982 hasn't updated in a week.,neg,resolved,2025-12-15 07:24,10.4,3
+TK-20058,2025-12-15 09:00,email,Refund,low,"Please refund order 99704, item was faulty","Please refund order 99704, item was faulty.",neg,resolved,2025-12-16 06:36,21.6,4
+TK-20195,2025-12-15 13:00,chat,Product,high,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,resolved,2025-12-15 18:36,5.6,1
+TK-20246,2025-12-15 20:00,phone,Refund,high,"Please refund order 74101, item was faulty","Please refund order 74101, item was faulty.",neg,resolved,2025-12-16 02:54,6.9,1
+TK-20068,2025-12-16 06:00,phone,Delivery,high,Order 87821 still hasn't arrived after 16 days,Order 87821 still hasn't arrived after 16 days.,neg,resolved,2025-12-16 16:18,10.3,2
+TK-20371,2025-12-17 08:00,email,Billing,high,I cancelled but you charged me again for order 6,I cancelled but you charged me again for order 63220.,neg,resolved,2025-12-17 19:54,11.9,2
+TK-20406,2025-12-18 03:00,phone,Delivery,high,Tracking for 67224 hasn't updated in a week,Tracking for 67224 hasn't updated in a week.,neg,resolved,2025-12-18 09:18,6.3,4
+TK-20044,2025-12-18 08:00,phone,Billing,high,I cancelled but you charged me again for order 1,I cancelled but you charged me again for order 19892.,neg,resolved,2025-12-18 19:00,11.0,2
+TK-20476,2025-12-18 11:00,chat,Refund,high,"Please refund order 34438, item was faulty","Please refund order 34438, item was faulty.",neg,resolved,2025-12-18 23:06,12.1,2
+TK-20332,2025-12-18 22:00,email,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2025-12-20 00:54,26.9,2
+TK-20158,2025-12-19 05:00,email,Refund,urgent,How long does a refund for gift card take?,How long does a refund for gift card take?,neg,resolved,2025-12-19 09:42,4.7,3
+TK-20405,2025-12-19 05:00,phone,Delivery,high,Wrong item delivered for order 93635,Wrong item delivered for order 93635.,neg,resolved,2025-12-19 22:00,17.0,1
+TK-20511,2025-12-19 06:00,email,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2025-12-20 11:18,29.3,5
+TK-20465,2025-12-19 09:00,phone,Refund,urgent,How long does a refund for coffee subscription t,How long does a refund for coffee subscription take?,neg,open,,,
+TK-20252,2025-12-19 18:00,email,Billing,low,My invoice INV-8556 shows an amount I don't reco,My invoice INV-8556 shows an amount I don't recognise.,neg,resolved,2025-12-22 13:12,67.2,4
+TK-20454,2025-12-19 20:00,email,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2025-12-20 15:06,19.1,1
+TK-20055,2025-12-19 21:00,chat,Praise,low,Just wanted to say the grinder was excellent and,Just wanted to say the grinder was excellent and arrived fast.,pos,resolved,2025-12-22 12:30,63.5,2
+TK-20136,2025-12-20 05:00,email,Delivery,high,Tracking for 77014 hasn't updated in a week,Tracking for 77014 hasn't updated in a week.,neg,resolved,2025-12-20 14:00,9.0,3
+TK-20466,2025-12-20 14:00,email,Account,low,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2025-12-20 16:12,2.2,4
+TK-20530,2025-12-20 22:00,chat,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2025-12-21 12:18,14.3,1
+TK-20200,2025-12-21 05:00,email,Delivery,urgent,Tracking for 51594 hasn't updated in a week,Tracking for 51594 hasn't updated in a week.,neg,open,,,
+TK-20547,2025-12-22 00:00,chat,Product,urgent,The grinder doesn't match the description on you,The grinder doesn't match the description on your site.,neg,resolved,2025-12-22 02:12,2.2,1
+TK-20095,2025-12-22 01:00,email,Billing,high,My invoice INV-7236 shows an amount I don't reco,My invoice INV-7236 shows an amount I don't recognise.,neg,resolved,2025-12-22 08:18,7.3,1
+TK-20556,2025-12-22 06:00,phone,Product,low,The espresso machine I received arrived damaged,The espresso machine I received arrived damaged.,neg,open,,,
+TK-20142,2025-12-22 11:00,chat,Billing,urgent,I was charged twice for order 89448,I was charged twice for order 89448.,neg,resolved,2025-12-22 13:36,2.6,3
+TK-20047,2025-12-22 15:00,phone,Billing,urgent,I was charged twice for order 55045,I was charged twice for order 55045.,neg,open,,,
+TK-20494,2025-12-22 17:00,email,Refund,urgent,How long does a refund for gift card take?,How long does a refund for gift card take?,neg,resolved,2025-12-22 20:54,3.9,2
+TK-20402,2025-12-23 04:00,chat,Account,high,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2025-12-23 07:54,3.9,3
+TK-20026,2025-12-23 21:00,chat,Refund,medium,How long does a refund for milk frother take?,How long does a refund for milk frother take?,neg,open,,,
+TK-20325,2025-12-24 08:00,chat,Delivery,urgent,Tracking for 19728 hasn't updated in a week,Tracking for 19728 hasn't updated in a week.,neg,open,,,
+TK-20536,2025-12-24 21:00,email,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2025-12-25 19:42,22.7,5
+TK-20337,2025-12-25 01:00,phone,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2025-12-26 00:36,23.6,1
+TK-20527,2025-12-25 04:00,phone,Refund,low,How long does a refund for brew kit take?,How long does a refund for brew kit take?,neg,resolved,2025-12-26 23:06,43.1,4
+TK-20011,2025-12-25 14:00,email,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2025-12-25 18:48,4.8,1
+TK-20153,2025-12-25 16:00,email,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2025-12-28 12:30,68.5,3
+TK-20219,2025-12-25 21:00,phone,Product,urgent,Quality of the beans 1kg is not what I expected,Quality of the beans 1kg is not what I expected.,neg,pending,,,
+TK-20060,2025-12-26 04:00,email,Billing,high,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2025-12-26 17:24,13.4,3
+TK-20303,2025-12-26 08:00,phone,Account,low,I can't log into my account,I can't log into my account.,neutral,resolved,2025-12-27 12:00,28.0,5
+TK-20202,2025-12-26 13:00,phone,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,pending,,,
+TK-20372,2025-12-28 00:00,chat,Delivery,low,Tracking for 36058 hasn't updated in a week,Tracking for 36058 hasn't updated in a week.,neg,resolved,2025-12-30 01:06,49.1,3
+TK-20093,2025-12-28 15:00,phone,Account,low,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2025-12-31 04:12,61.2,5
+TK-20146,2025-12-29 01:00,phone,Account,low,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2025-12-30 18:42,41.7,3
+TK-20029,2025-12-29 07:00,email,Billing,high,I was charged twice for order 63328,I was charged twice for order 63328.,neg,resolved,2025-12-29 07:30,0.5,1
+TK-20538,2025-12-29 07:00,phone,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,pending,,,
+TK-20560,2025-12-29 12:00,phone,Billing,high,My invoice INV-1023 shows an amount I don't reco,My invoice INV-1023 shows an amount I don't recognise.,neg,pending,,,
+TK-20201,2025-12-29 15:00,phone,Praise,low,"Really happy with the brew kit, will order again","Really happy with the brew kit, will order again.",pos,resolved,2025-12-31 05:42,38.7,5
+TK-20593,2025-12-29 18:00,email,Product,high,The grinder stopped working after two days,The grinder stopped working after two days.,neg,resolved,2025-12-30 00:36,6.6,2
+TK-20190,2025-12-30 10:00,chat,Billing,high,I was charged twice for order 77428,I was charged twice for order 77428.,neg,resolved,2025-12-31 03:48,17.8,1
+TK-20050,2025-12-30 15:00,chat,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-01-02 01:24,58.4,2
+TK-20077,2025-12-31 09:00,phone,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,pending,,,
+TK-20341,2025-12-31 22:00,email,Praise,low,"Great service from your team on order 21368, tha","Great service from your team on order 21368, thank you!",pos,resolved,2026-01-02 20:12,46.2,3
+TK-20125,2025-12-31 23:00,email,Delivery,low,Tracking for 29312 hasn't updated in a week,Tracking for 29312 hasn't updated in a week.,neg,open,,,
+TK-20342,2026-01-01 00:00,phone,Billing,urgent,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-01-01 06:36,6.6,2
+TK-20038,2026-01-01 12:00,phone,Delivery,high,Order 65982 still hasn't arrived after 11 days,Order 65982 still hasn't arrived after 11 days.,neg,resolved,2026-01-01 21:12,9.2,1
+TK-20437,2026-01-02 01:00,chat,Billing,medium,I was charged twice for order 92039,I was charged twice for order 92039.,neg,pending,,,
+TK-20213,2026-01-02 10:00,email,Product,medium,The beans 1kg stopped working after two days,The beans 1kg stopped working after two days.,neg,resolved,2026-01-03 02:00,16.0,3
+TK-20484,2026-01-02 17:00,email,Account,high,I can't log into my account,I can't log into my account.,neutral,resolved,2026-01-02 22:36,5.6,5
+TK-20174,2026-01-03 01:00,phone,Praise,medium,"Great service from your team on order 40420, tha","Great service from your team on order 40420, thank you!",pos,resolved,2026-01-04 01:24,24.4,4
+TK-20376,2026-01-03 16:00,phone,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-01-04 12:54,20.9,5
+TK-20506,2026-01-03 19:00,email,Delivery,medium,Tracking for 31349 hasn't updated in a week,Tracking for 31349 hasn't updated in a week.,neg,resolved,2026-01-04 16:30,21.5,2
+TK-20583,2026-01-03 22:00,chat,Praise,low,"Really happy with the coffee subscription, will ","Really happy with the coffee subscription, will order again.",pos,resolved,2026-01-06 11:48,61.8,4
+TK-20486,2026-01-03 23:00,email,Account,low,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-01-06 06:48,55.8,1
+TK-20241,2026-01-04 19:00,chat,Delivery,urgent,Wrong item delivered for order 40569,Wrong item delivered for order 40569.,neg,resolved,2026-01-04 22:36,3.6,3
+TK-20463,2026-01-04 20:00,phone,Account,medium,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-01-05 20:42,24.7,3
+TK-20438,2026-01-05 16:00,email,Product,high,The grinder stopped working after two days,The grinder stopped working after two days.,neg,resolved,2026-01-05 18:42,2.7,2
+TK-20294,2026-01-05 18:00,email,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-01-06 23:12,29.2,5
+TK-20352,2026-01-05 18:00,email,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-01-05 22:48,4.8,3
+TK-20218,2026-01-05 19:00,phone,Billing,medium,I cancelled but you charged me again for order 2,I cancelled but you charged me again for order 21949.,neg,resolved,2026-01-05 19:30,0.5,2
+TK-20253,2026-01-07 05:00,chat,Delivery,urgent,Order 83326 still hasn't arrived after 12 days,Order 83326 still hasn't arrived after 12 days.,neg,open,,,
+TK-20292,2026-01-07 09:00,phone,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-01-08 17:54,32.9,3
+TK-20054,2026-01-08 00:00,phone,Product,high,The espresso machine stopped working after two d,The espresso machine stopped working after two days.,neg,resolved,2026-01-08 16:24,16.4,1
+TK-20414,2026-01-08 01:00,email,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-01-10 16:06,63.1,4
+TK-20472,2026-01-08 01:00,email,Product,high,Quality of the milk frother is not what I expect,Quality of the milk frother is not what I expected.,neg,pending,,,
+TK-20288,2026-01-08 20:00,chat,Refund,high,I'd like a refund for order 34366,I'd like a refund for order 34366.,neg,pending,,,
+TK-20570,2026-01-08 21:00,chat,Billing,high,I was charged twice for order 47753,I was charged twice for order 47753.,neg,resolved,2026-01-09 02:24,5.4,3
+TK-20109,2026-01-09 03:00,phone,Delivery,high,Order 56749 still hasn't arrived after 19 days,Order 56749 still hasn't arrived after 19 days.,neg,resolved,2026-01-09 12:54,9.9,3
+TK-20053,2026-01-09 06:00,chat,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,open,,,
+TK-20102,2026-01-09 08:00,chat,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,open,,,
+TK-20359,2026-01-09 10:00,chat,Praise,low,"Great service from your team on order 38100, tha","Great service from your team on order 38100, thank you!",pos,resolved,2026-01-11 01:42,39.7,1
+TK-20374,2026-01-09 18:00,email,Delivery,high,Order 59993 still hasn't arrived after 19 days,Order 59993 still hasn't arrived after 19 days.,neg,resolved,2026-01-10 09:48,15.8,4
+TK-20517,2026-01-09 22:00,chat,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-01-12 16:24,66.4,1
+TK-20257,2026-01-10 12:00,chat,Delivery,high,Tracking for 79715 hasn't updated in a week,Tracking for 79715 hasn't updated in a week.,neg,resolved,2026-01-10 20:36,8.6,2
+TK-20020,2026-01-10 16:00,chat,How-to,high,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-01-11 01:24,9.4,3
+TK-20006,2026-01-10 19:00,phone,Refund,low,I'd like a refund for order 65284,I'd like a refund for order 65284.,neg,resolved,2026-01-12 21:48,50.8,3
+TK-20403,2026-01-10 20:00,chat,Praise,low,"Great service from your team on order 17270, tha","Great service from your team on order 17270, thank you!",pos,pending,,,
+TK-20318,2026-01-10 21:00,phone,Product,medium,The brew kit stopped working after two days,The brew kit stopped working after two days.,neg,resolved,2026-01-11 15:30,18.5,4
+TK-20018,2026-01-11 03:00,chat,Billing,high,I was charged twice for order 61401,I was charged twice for order 61401.,neg,resolved,2026-01-11 16:48,13.8,2
+TK-20247,2026-01-11 03:00,email,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-01-11 08:06,5.1,2
+TK-20314,2026-01-11 05:00,phone,Account,urgent,I can't log into my account,I can't log into my account.,neutral,resolved,2026-01-11 07:12,2.2,5
+TK-20126,2026-01-11 08:00,email,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,open,,,
+TK-20083,2026-01-11 15:00,chat,Product,high,The brew kit stopped working after two days,The brew kit stopped working after two days.,neg,resolved,2026-01-12 01:42,10.7,3
+TK-20535,2026-01-11 15:00,chat,Product,low,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2026-01-14 08:48,65.8,4
+TK-20531,2026-01-12 00:00,phone,Product,urgent,The beans 1kg I received arrived damaged,The beans 1kg I received arrived damaged.,neg,resolved,2026-01-12 04:00,4.0,4
+TK-20565,2026-01-12 04:00,email,Product,medium,The grinder stopped working after two days,The grinder stopped working after two days.,neg,resolved,2026-01-12 22:42,18.7,2
+TK-20313,2026-01-12 05:00,chat,Refund,low,"Please refund order 21871, item was faulty","Please refund order 21871, item was faulty.",neg,resolved,2026-01-14 01:36,44.6,2
+TK-20168,2026-01-12 06:00,email,Account,high,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-01-12 14:06,8.1,5
+TK-20064,2026-01-12 18:00,email,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-01-13 21:42,27.7,5
+TK-20035,2026-01-12 20:00,phone,Product,medium,The espresso machine stopped working after two d,The espresso machine stopped working after two days.,neg,resolved,2026-01-13 20:00,24.0,4
+TK-20482,2026-01-12 23:00,email,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-01-15 07:30,56.5,3
+TK-20599,2026-01-13 01:00,chat,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,pending,,,
+TK-20315,2026-01-13 04:00,email,Praise,medium,"Great service from your team on order 44762, tha","Great service from your team on order 44762, thank you!",pos,resolved,2026-01-13 14:36,10.6,5
+TK-20350,2026-01-13 07:00,email,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,pending,,,
+TK-20358,2026-01-13 21:00,email,Praise,low,"Great service from your team on order 25152, tha","Great service from your team on order 25152, thank you!",pos,resolved,2026-01-16 22:48,73.8,5
+TK-20397,2026-01-14 01:00,chat,Account,urgent,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-01-14 06:12,5.2,3
+TK-20004,2026-01-14 21:00,email,Praise,low,"Really happy with the espresso machine, will ord","Really happy with the espresso machine, will order again.",pos,resolved,2026-01-17 01:42,52.7,5
+TK-20449,2026-01-15 13:00,chat,Account,medium,I can't log into my account,I can't log into my account.,neutral,resolved,2026-01-16 11:42,22.7,1
+TK-20199,2026-01-15 15:00,email,Product,high,The coffee subscription stopped working after tw,The coffee subscription stopped working after two days.,neg,resolved,2026-01-15 21:54,6.9,2
+TK-20575,2026-01-15 17:00,chat,Praise,medium,"Really happy with the gift card, will order agai","Really happy with the gift card, will order again.",pos,resolved,2026-01-16 13:48,20.8,5
+TK-20101,2026-01-16 00:00,chat,Product,high,Quality of the gift card is not what I expected,Quality of the gift card is not what I expected.,neg,pending,,,
+TK-20220,2026-01-16 04:00,email,Delivery,high,Order 76298 still hasn't arrived after 12 days,Order 76298 still hasn't arrived after 12 days.,neg,resolved,2026-01-16 13:48,9.8,1
+TK-20088,2026-01-16 15:00,phone,Praise,low,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-01-17 18:42,27.7,5
+TK-20343,2026-01-16 18:00,phone,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-01-19 10:30,64.5,1
+TK-20492,2026-01-16 22:00,email,Billing,high,I cancelled but you charged me again for order 6,I cancelled but you charged me again for order 69908.,neg,resolved,2026-01-17 18:24,20.4,1
+TK-20267,2026-01-17 06:00,phone,Account,medium,I can't log into my account,I can't log into my account.,neutral,resolved,2026-01-18 16:00,34.0,5
+TK-20540,2026-01-17 07:00,chat,Refund,low,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,pending,,,
+TK-20317,2026-01-17 11:00,email,Account,medium,I can't log into my account,I can't log into my account.,neutral,resolved,2026-01-18 05:00,18.0,3
+TK-20499,2026-01-17 12:00,chat,Refund,high,"Please refund order 28958, item was faulty","Please refund order 28958, item was faulty.",neg,open,,,
+TK-20597,2026-01-17 12:00,chat,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,pending,,,
+TK-20523,2026-01-17 22:00,chat,Account,medium,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-01-19 05:54,31.9,4
+TK-20554,2026-01-18 02:00,email,Product,low,The gift card I received arrived damaged,The gift card I received arrived damaged.,neg,open,,,
+TK-20007,2026-01-18 10:00,chat,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-01-19 02:00,16.0,5
+TK-20545,2026-01-18 12:00,phone,Account,low,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-01-20 20:00,56.0,4
+TK-20423,2026-01-18 16:00,chat,Product,low,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2026-01-20 20:30,52.5,4
+TK-20481,2026-01-18 18:00,email,Delivery,high,Tracking for 60377 hasn't updated in a week,Tracking for 60377 hasn't updated in a week.,neg,pending,,,
+TK-20074,2026-01-18 21:00,phone,Praise,low,Just wanted to say the espresso machine was exce,Just wanted to say the espresso machine was excellent and arrived fast.,pos,resolved,2026-01-21 06:30,57.5,5
+TK-20396,2026-01-18 22:00,email,Product,low,The gift card doesn't match the description on y,The gift card doesn't match the description on your site.,neg,resolved,2026-01-20 21:54,47.9,1
+TK-20238,2026-01-19 18:00,phone,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-01-21 03:48,33.8,3
+TK-20569,2026-01-20 01:00,chat,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-01-22 05:36,52.6,2
+TK-20310,2026-01-20 06:00,email,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,pending,,,
+TK-20576,2026-01-20 07:00,chat,Praise,high,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,open,,,
+TK-20321,2026-01-20 13:00,chat,Delivery,medium,Order 23884 still hasn't arrived after 10 days,Order 23884 still hasn't arrived after 10 days.,neg,resolved,2026-01-21 17:12,28.2,2
+TK-20349,2026-01-20 18:00,email,Product,low,The coffee subscription stopped working after tw,The coffee subscription stopped working after two days.,neg,resolved,2026-01-21 15:42,21.7,2
+TK-20116,2026-01-20 20:00,email,Product,medium,Quality of the espresso machine is not what I ex,Quality of the espresso machine is not what I expected.,neg,open,,,
+TK-20003,2026-01-21 16:00,chat,Refund,medium,I'd like a refund for order 87740,I'd like a refund for order 87740.,neg,open,,,
+TK-20474,2026-01-21 20:00,chat,Billing,high,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-01-22 06:06,10.1,3
+TK-20240,2026-01-21 22:00,email,Account,low,I want to update the email on my account,I want to update the email on my account.,neutral,pending,,,
+TK-20017,2026-01-22 02:00,chat,Billing,high,I was charged twice for order 55272,I was charged twice for order 55272.,neg,pending,,,
+TK-20285,2026-01-22 07:00,email,Delivery,urgent,Wrong item delivered for order 87839,Wrong item delivered for order 87839.,neg,pending,,,
+TK-20513,2026-01-22 07:00,email,Refund,high,I'd like a refund for order 15836,I'd like a refund for order 15836.,neg,resolved,2026-01-22 14:12,7.2,2
+TK-20073,2026-01-22 13:00,email,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,pending,,,
+TK-20057,2026-01-22 14:00,phone,Delivery,high,Wrong item delivered for order 90061,Wrong item delivered for order 90061.,neg,resolved,2026-01-23 01:18,11.3,4
+TK-20552,2026-01-22 14:00,phone,Account,medium,I want to update the email on my account,I want to update the email on my account.,neutral,open,,,
+TK-20365,2026-01-23 02:00,chat,Praise,medium,"Really happy with the gift card, will order agai","Really happy with the gift card, will order again.",pos,resolved,2026-01-24 11:12,33.2,5
+TK-20019,2026-01-23 06:00,phone,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,open,,,
+TK-20503,2026-01-23 15:00,phone,Product,medium,The grinder stopped working after two days,The grinder stopped working after two days.,neg,resolved,2026-01-24 10:30,19.5,4
+TK-20319,2026-01-23 21:00,phone,Product,high,The espresso machine I received arrived damaged,The espresso machine I received arrived damaged.,neg,resolved,2026-01-24 08:54,11.9,1
+TK-20524,2026-01-23 22:00,email,Billing,medium,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-01-26 04:30,54.5,5
+TK-20493,2026-01-24 00:00,phone,Account,low,I can't log into my account,I can't log into my account.,neutral,resolved,2026-01-26 02:42,50.7,2
+TK-20320,2026-01-24 04:00,chat,Product,medium,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,open,,,
+TK-20255,2026-01-24 07:00,phone,Praise,low,"Great service from your team on order 99901, tha","Great service from your team on order 99901, thank you!",pos,resolved,2026-01-25 14:36,31.6,5
+TK-20239,2026-01-24 10:00,chat,Praise,low,"Really happy with the milk frother, will order a","Really happy with the milk frother, will order again.",pos,resolved,2026-01-26 16:12,54.2,1
+TK-20145,2026-01-24 13:00,chat,Billing,medium,My invoice INV-2571 shows an amount I don't reco,My invoice INV-2571 shows an amount I don't recognise.,neg,pending,,,
+TK-20184,2026-01-24 14:00,phone,Product,high,The beans 1kg doesn't match the description on y,The beans 1kg doesn't match the description on your site.,neg,resolved,2026-01-25 08:36,18.6,5
+TK-20419,2026-01-25 03:00,email,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-01-27 04:30,49.5,2
+TK-20298,2026-01-25 11:00,phone,Product,high,The espresso machine stopped working after two d,The espresso machine stopped working after two days.,neg,pending,,,
+TK-20473,2026-01-25 21:00,phone,Account,medium,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-01-26 22:24,25.4,4
+TK-20089,2026-01-26 04:00,email,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-01-28 06:12,50.2,5
+TK-20208,2026-01-26 08:00,phone,Praise,low,"Great service from your team on order 86184, tha","Great service from your team on order 86184, thank you!",pos,pending,,,
+TK-20151,2026-01-26 09:00,email,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-01-26 21:36,12.6,5
+TK-20269,2026-01-26 12:00,phone,Account,urgent,I want to update the email on my account,I want to update the email on my account.,neutral,pending,,,
+TK-20470,2026-01-26 13:00,phone,Product,low,The grinder stopped working after two days,The grinder stopped working after two days.,neg,resolved,2026-01-28 14:24,49.4,1
+TK-20410,2026-01-27 02:00,chat,Account,low,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-01-30 14:18,84.3,5
+TK-20010,2026-01-27 17:00,email,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-01-28 15:06,22.1,5
+TK-20016,2026-01-28 04:00,phone,Billing,medium,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-01-28 18:24,14.4,4
+TK-20416,2026-01-28 04:00,chat,Praise,low,"Great service from your team on order 46215, tha","Great service from your team on order 46215, thank you!",pos,resolved,2026-01-28 21:30,17.5,4
+TK-20442,2026-01-28 05:00,email,Billing,low,My invoice INV-2781 shows an amount I don't reco,My invoice INV-2781 shows an amount I don't recognise.,neg,resolved,2026-01-29 16:36,35.6,5
+TK-20286,2026-01-28 09:00,phone,Account,high,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-01-28 15:24,6.4,5
+TK-20436,2026-01-28 09:00,chat,Account,medium,I can't log into my account,I can't log into my account.,neutral,open,,,
+TK-20183,2026-01-28 19:00,chat,How-to,high,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-01-29 01:48,6.8,4
+TK-20461,2026-01-29 03:00,chat,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-01-29 20:42,17.7,4
+TK-20049,2026-01-29 08:00,email,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-01-29 08:30,0.5,3
+TK-20525,2026-01-29 10:00,phone,Refund,high,How long does a refund for gift card take?,How long does a refund for gift card take?,neg,resolved,2026-01-29 20:36,10.6,4
+TK-20287,2026-01-30 01:00,email,Product,urgent,The milk frother I received arrived damaged,The milk frother I received arrived damaged.,neg,resolved,2026-01-30 05:42,4.7,2
+TK-20591,2026-01-30 13:00,phone,Product,high,Quality of the milk frother is not what I expect,Quality of the milk frother is not what I expected.,neg,resolved,2026-01-30 14:30,1.5,2
+TK-20081,2026-01-30 19:00,chat,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-02-02 09:06,62.1,5
+TK-20354,2026-01-31 00:00,chat,Delivery,urgent,Order 11995 still hasn't arrived after 13 days,Order 11995 still hasn't arrived after 13 days.,neg,resolved,2026-01-31 01:00,1.0,2
+TK-20557,2026-01-31 04:00,email,Refund,urgent,How long does a refund for milk frother take?,How long does a refund for milk frother take?,neg,resolved,2026-01-31 07:00,3.0,3
+TK-20561,2026-01-31 04:00,phone,Product,high,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,resolved,2026-01-31 11:48,7.8,1
+TK-20309,2026-01-31 07:00,chat,Billing,high,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-01-31 16:48,9.8,2
+TK-20544,2026-01-31 10:00,chat,Account,urgent,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-01-31 12:12,2.2,3
+TK-20505,2026-01-31 12:00,chat,Praise,medium,"Great service from your team on order 19265, tha","Great service from your team on order 19265, thank you!",pos,resolved,2026-02-02 00:42,36.7,5
+TK-20331,2026-01-31 15:00,email,How-to,high,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-01-31 15:30,0.5,3
+TK-20244,2026-01-31 20:00,email,Account,high,I can't log into my account,I can't log into my account.,neutral,open,,,
+TK-20399,2026-02-01 01:00,phone,Billing,urgent,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-02-01 07:06,6.1,4
+TK-20033,2026-02-01 03:00,chat,Delivery,high,Order 85845 still hasn't arrived after 13 days,Order 85845 still hasn't arrived after 13 days.,neg,resolved,2026-02-01 11:30,8.5,4
+TK-20326,2026-02-01 07:00,email,Billing,high,I was charged twice for order 37944,I was charged twice for order 37944.,neg,resolved,2026-02-01 19:30,12.5,2
+TK-20455,2026-02-01 07:00,phone,Praise,medium,"Great service from your team on order 14001, tha","Great service from your team on order 14001, thank you!",pos,resolved,2026-02-02 15:54,32.9,4
+TK-20464,2026-02-02 04:00,chat,Refund,urgent,How long does a refund for grinder take?,How long does a refund for grinder take?,neg,resolved,2026-02-02 07:42,3.7,2
+TK-20457,2026-02-02 05:00,chat,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,open,,,
+TK-20421,2026-02-02 09:00,email,Billing,low,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-02-04 10:18,49.3,1
+TK-20542,2026-02-02 13:00,phone,Praise,medium,"Great service from your team on order 35100, tha","Great service from your team on order 35100, thank you!",pos,pending,,,
+TK-20001,2026-02-02 20:00,chat,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-02-04 00:18,28.3,5
+TK-20411,2026-02-02 20:00,email,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-02-05 13:18,65.3,3
+TK-20487,2026-02-03 00:00,email,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-02-03 20:36,20.6,3
+TK-20351,2026-02-03 23:00,chat,Billing,medium,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-02-04 18:18,19.3,5
+TK-20428,2026-02-03 23:00,phone,Product,medium,The gift card stopped working after two days,The gift card stopped working after two days.,neg,resolved,2026-02-05 14:12,39.2,2
+TK-20260,2026-02-04 01:00,email,Product,low,The gift card stopped working after two days,The gift card stopped working after two days.,neg,resolved,2026-02-05 18:54,41.9,5
+TK-20002,2026-02-04 12:00,phone,Praise,low,Just wanted to say the grinder was excellent and,Just wanted to say the grinder was excellent and arrived fast.,pos,resolved,2026-02-07 23:00,83.0,5
+TK-20032,2026-02-04 14:00,chat,Billing,low,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-02-05 03:42,13.7,2
+TK-20111,2026-02-05 04:00,chat,Delivery,medium,Tracking for 60426 hasn't updated in a week,Tracking for 60426 hasn't updated in a week.,neg,resolved,2026-02-05 20:18,16.3,3
+TK-20099,2026-02-05 06:00,chat,Billing,high,Why was I billed 49 EUR this month? My plan is c,Why was I billed 49 EUR this month? My plan is cheaper.,neg,open,,,
+TK-20467,2026-02-05 07:00,email,Product,medium,The coffee subscription doesn't match the descri,The coffee subscription doesn't match the description on your site.,neg,resolved,2026-02-06 07:30,24.5,1
+TK-20327,2026-02-05 14:00,chat,Billing,urgent,My invoice INV-3151 shows an amount I don't reco,My invoice INV-3151 shows an amount I don't recognise.,neg,pending,,,
+TK-20579,2026-02-05 14:00,email,Billing,high,My invoice INV-5996 shows an amount I don't reco,My invoice INV-5996 shows an amount I don't recognise.,neg,resolved,2026-02-05 19:42,5.7,3
+TK-20075,2026-02-06 00:00,chat,Account,low,I can't log into my account,I can't log into my account.,neutral,resolved,2026-02-08 07:48,55.8,4
+TK-20386,2026-02-06 16:00,chat,Product,high,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,open,,,
+TK-20301,2026-02-06 22:00,phone,Praise,medium,"Really happy with the espresso machine, will ord","Really happy with the espresso machine, will order again.",pos,resolved,2026-02-08 07:00,33.0,4
+TK-20382,2026-02-07 07:00,chat,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-02-07 14:24,7.4,2
+TK-20339,2026-02-07 14:00,chat,Product,medium,The brew kit I received arrived damaged,The brew kit I received arrived damaged.,neg,resolved,2026-02-09 00:54,34.9,4
+TK-20030,2026-02-07 19:00,chat,Delivery,medium,Tracking for 43060 hasn't updated in a week,Tracking for 43060 hasn't updated in a week.,neg,resolved,2026-02-09 10:00,39.0,5
+TK-20322,2026-02-07 19:00,phone,Account,medium,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-02-09 06:30,35.5,5
+TK-20171,2026-02-08 11:00,phone,Refund,high,I'd like a refund for order 64850,I'd like a refund for order 64850.,neg,open,,,
+TK-20275,2026-02-08 12:00,email,Delivery,medium,Tracking for 73359 hasn't updated in a week,Tracking for 73359 hasn't updated in a week.,neg,resolved,2026-02-09 09:00,21.0,3
+TK-20041,2026-02-08 13:00,email,Product,medium,Quality of the grinder is not what I expected,Quality of the grinder is not what I expected.,neg,resolved,2026-02-09 11:42,22.7,1
+TK-20452,2026-02-08 13:00,chat,Refund,low,How long does a refund for espresso machine take,How long does a refund for espresso machine take?,neg,resolved,2026-02-09 19:24,30.4,1
+TK-20037,2026-02-09 02:00,chat,Product,urgent,The brew kit I received arrived damaged,The brew kit I received arrived damaged.,neg,resolved,2026-02-09 04:06,2.1,3
+TK-20434,2026-02-09 11:00,email,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,open,,,
+TK-20564,2026-02-09 15:00,phone,Refund,high,"Please refund order 97797, item was faulty","Please refund order 97797, item was faulty.",neg,resolved,2026-02-09 21:30,6.5,3
+TK-20228,2026-02-09 17:00,email,Praise,high,"Really happy with the beans 1kg, will order agai","Really happy with the beans 1kg, will order again.",pos,resolved,2026-02-10 02:24,9.4,3
+TK-20091,2026-02-09 18:00,email,How-to,low,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-02-12 05:42,59.7,5
+TK-20163,2026-02-10 10:00,chat,Product,medium,The coffee subscription doesn't match the descri,The coffee subscription doesn't match the description on your site.,neg,resolved,2026-02-11 00:24,14.4,2
+TK-20451,2026-02-10 10:00,chat,Account,high,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-02-10 15:06,5.1,3
+TK-20302,2026-02-10 14:00,phone,Refund,urgent,I'd like a refund for order 62857,I'd like a refund for order 62857.,neg,resolved,2026-02-10 19:00,5.0,1
+TK-20140,2026-02-10 17:00,email,Billing,high,I cancelled but you charged me again for order 3,I cancelled but you charged me again for order 32664.,neg,resolved,2026-02-11 05:24,12.4,3
+TK-20122,2026-02-10 20:00,email,Praise,low,"Great service from your team on order 92330, tha","Great service from your team on order 92330, thank you!",pos,resolved,2026-02-14 11:42,87.7,5
+TK-20539,2026-02-11 18:00,phone,Refund,urgent,How long does a refund for brew kit take?,How long does a refund for brew kit take?,neg,resolved,2026-02-11 21:00,3.0,3
+TK-20221,2026-02-11 21:00,chat,Delivery,urgent,Wrong item delivered for order 93441,Wrong item delivered for order 93441.,neg,resolved,2026-02-11 23:24,2.4,4
+TK-20468,2026-02-12 00:00,phone,How-to,low,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-02-13 10:12,34.2,4
+TK-20103,2026-02-12 03:00,phone,Praise,low,Just wanted to say the grinder was excellent and,Just wanted to say the grinder was excellent and arrived fast.,pos,resolved,2026-02-14 01:06,46.1,5
+TK-20205,2026-02-12 16:00,chat,Product,high,The coffee subscription doesn't match the descri,The coffee subscription doesn't match the description on your site.,neg,resolved,2026-02-13 04:12,12.2,1
+TK-20114,2026-02-12 19:00,phone,Delivery,high,Tracking for 26301 hasn't updated in a week,Tracking for 26301 hasn't updated in a week.,neg,resolved,2026-02-13 02:06,7.1,2
+TK-20330,2026-02-12 19:00,email,Billing,high,My invoice INV-2884 shows an amount I don't reco,My invoice INV-2884 shows an amount I don't recognise.,neg,open,,,
+TK-20134,2026-02-12 21:00,email,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,open,,,
+TK-20155,2026-02-13 04:00,phone,Refund,low,"Please refund order 17967, item was faulty","Please refund order 17967, item was faulty.",neg,resolved,2026-02-15 02:30,46.5,3
+TK-20215,2026-02-13 05:00,email,Account,urgent,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-02-13 09:42,4.7,1
+TK-20323,2026-02-13 05:00,phone,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-02-15 13:24,56.4,4
+TK-20581,2026-02-13 08:00,chat,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-02-14 14:18,30.3,3
+TK-20548,2026-02-13 10:00,phone,Delivery,urgent,Wrong item delivered for order 35967,Wrong item delivered for order 35967.,neg,resolved,2026-02-13 10:30,0.5,4
+TK-20312,2026-02-13 20:00,chat,Account,urgent,I can't log into my account,I can't log into my account.,neutral,open,,,
+TK-20031,2026-02-14 00:00,email,Refund,high,I'd like a refund for order 62275,I'd like a refund for order 62275.,neg,resolved,2026-02-14 01:30,1.5,3
+TK-20212,2026-02-14 10:00,phone,Billing,low,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-02-17 12:36,74.6,2
+TK-20164,2026-02-14 21:00,email,Praise,low,"Great service from your team on order 50184, tha","Great service from your team on order 50184, thank you!",pos,pending,,,
+TK-20380,2026-02-15 04:00,phone,Refund,low,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-02-16 03:48,23.8,5
+TK-20147,2026-02-15 06:00,phone,Praise,low,"Really happy with the gift card, will order agai","Really happy with the gift card, will order again.",pos,pending,,,
+TK-20014,2026-02-15 21:00,phone,Refund,urgent,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-02-16 02:06,5.1,1
+TK-20046,2026-02-16 03:00,phone,Account,medium,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-02-16 10:54,7.9,4
+TK-20348,2026-02-16 09:00,chat,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-02-18 01:24,40.4,3
+TK-20207,2026-02-16 11:00,phone,Praise,medium,"Really happy with the coffee subscription, will ","Really happy with the coffee subscription, will order again.",pos,resolved,2026-02-17 11:18,24.3,5
+TK-20588,2026-02-16 17:00,chat,Refund,low,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-02-17 19:30,26.5,3
+TK-20435,2026-02-17 03:00,email,Billing,medium,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-02-18 22:00,43.0,1
+TK-20063,2026-02-17 06:00,email,How-to,urgent,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,open,,,
+TK-20141,2026-02-17 07:00,phone,Billing,high,My invoice INV-5451 shows an amount I don't reco,My invoice INV-5451 shows an amount I don't recognise.,neg,resolved,2026-02-17 19:36,12.6,2
+TK-20167,2026-02-17 14:00,chat,Refund,high,How long does a refund for grinder take?,How long does a refund for grinder take?,neg,resolved,2026-02-17 22:00,8.0,4
+TK-20566,2026-02-17 21:00,phone,Billing,urgent,My invoice INV-6371 shows an amount I don't reco,My invoice INV-6371 shows an amount I don't recognise.,neg,resolved,2026-02-18 02:00,5.0,5
+TK-20401,2026-02-18 08:00,phone,Billing,high,I was charged twice for order 56297,I was charged twice for order 56297.,neg,resolved,2026-02-19 02:00,18.0,4
+TK-20254,2026-02-19 05:00,chat,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-02-19 10:00,5.0,4
+TK-20412,2026-02-19 12:00,chat,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-02-22 07:48,67.8,2
+TK-20276,2026-02-19 22:00,phone,Praise,low,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-02-21 15:06,41.1,1
+TK-20448,2026-02-20 01:00,phone,Delivery,medium,Wrong item delivered for order 86383,Wrong item delivered for order 86383.,neg,open,,,
+TK-20051,2026-02-20 15:00,email,Account,urgent,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-02-20 20:18,5.3,2
+TK-20086,2026-02-20 23:00,chat,How-to,high,How do I add a second user to my account?,How do I add a second user to my account?,neutral,open,,,
+TK-20519,2026-02-21 07:00,phone,Product,high,Quality of the milk frother is not what I expect,Quality of the milk frother is not what I expected.,neg,open,,,
+TK-20084,2026-02-21 08:00,chat,Billing,high,My invoice INV-2765 shows an amount I don't reco,My invoice INV-2765 shows an amount I don't recognise.,neg,resolved,2026-02-21 20:30,12.5,5
+TK-20107,2026-02-21 08:00,email,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-02-22 01:24,17.4,2
+TK-20123,2026-02-21 08:00,email,Billing,high,My invoice INV-9622 shows an amount I don't reco,My invoice INV-9622 shows an amount I don't recognise.,neg,resolved,2026-02-21 17:30,9.5,3
+TK-20080,2026-02-21 09:00,email,Praise,low,"Great service from your team on order 63956, tha","Great service from your team on order 63956, thank you!",pos,resolved,2026-02-22 13:42,28.7,4
+TK-20005,2026-02-21 12:00,email,Product,low,The milk frother stopped working after two days,The milk frother stopped working after two days.,neg,resolved,2026-02-24 08:24,68.4,5
+TK-20415,2026-02-21 17:00,chat,Product,high,The gift card I received arrived damaged,The gift card I received arrived damaged.,neg,resolved,2026-02-22 06:48,13.8,1
+TK-20268,2026-02-22 10:00,email,Praise,low,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-02-24 04:00,42.0,5
+TK-20324,2026-02-23 00:00,email,Delivery,medium,Tracking for 88308 hasn't updated in a week,Tracking for 88308 hasn't updated in a week.,neg,pending,,,
+TK-20592,2026-02-23 03:00,phone,Billing,high,I cancelled but you charged me again for order 5,I cancelled but you charged me again for order 50743.,neg,resolved,2026-02-23 09:30,6.5,3
+TK-20061,2026-02-23 10:00,chat,Refund,urgent,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-02-23 11:54,1.9,3
+TK-20515,2026-02-23 21:00,email,Delivery,urgent,Tracking for 12700 hasn't updated in a week,Tracking for 12700 hasn't updated in a week.,neg,resolved,2026-02-24 01:48,4.8,1
+TK-20256,2026-02-23 22:00,phone,Praise,medium,Just wanted to say the beans 1kg was excellent a,Just wanted to say the beans 1kg was excellent and arrived fast.,pos,resolved,2026-02-24 12:30,14.5,4
+TK-20152,2026-02-23 23:00,phone,Billing,urgent,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,open,,,
+TK-20070,2026-02-24 00:00,phone,Account,medium,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-02-24 11:30,11.5,4
+TK-20379,2026-02-24 00:00,chat,How-to,high,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-02-24 11:30,11.5,5
+TK-20264,2026-02-24 01:00,phone,Billing,medium,I was charged twice for order 21302,I was charged twice for order 21302.,neg,resolved,2026-02-25 12:54,35.9,5
+TK-20279,2026-02-24 03:00,phone,Refund,medium,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,pending,,,
+TK-20040,2026-02-24 08:00,chat,Product,medium,The milk frother doesn't match the description o,The milk frother doesn't match the description on your site.,neg,open,,,
+TK-20456,2026-02-24 14:00,phone,Delivery,high,Order 73979 still hasn't arrived after 14 days,Order 73979 still hasn't arrived after 14 days.,neg,resolved,2026-02-25 02:36,12.6,2
+TK-20422,2026-02-24 15:00,chat,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-02-28 01:54,82.9,4
+TK-20270,2026-02-24 18:00,phone,Product,high,The grinder doesn't match the description on you,The grinder doesn't match the description on your site.,neg,open,,,
+TK-20334,2026-02-24 22:00,phone,Delivery,urgent,Wrong item delivered for order 13910,Wrong item delivered for order 13910.,neg,resolved,2026-02-25 01:24,3.4,2
+TK-20598,2026-02-24 22:00,chat,Product,urgent,The gift card stopped working after two days,The gift card stopped working after two days.,neg,pending,,,
+TK-20182,2026-02-25 05:00,phone,Product,low,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2026-02-28 02:42,69.7,3
+TK-20307,2026-02-25 12:00,phone,Refund,high,"Please refund order 36855, item was faulty","Please refund order 36855, item was faulty.",neg,resolved,2026-02-26 00:42,12.7,1
+TK-20112,2026-02-25 18:00,chat,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-02-25 23:00,5.0,3
+TK-20357,2026-02-25 18:00,phone,Product,urgent,The milk frother doesn't match the description o,The milk frother doesn't match the description on your site.,neg,resolved,2026-02-25 20:42,2.7,1
+TK-20124,2026-02-25 19:00,chat,Billing,urgent,I cancelled but you charged me again for order 4,I cancelled but you charged me again for order 44314.,neg,open,,,
+TK-20520,2026-02-25 19:00,chat,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-02-27 05:12,34.2,3
+TK-20131,2026-02-26 03:00,chat,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-02-27 01:36,22.6,4
+TK-20375,2026-02-26 04:00,chat,Product,medium,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,resolved,2026-02-27 09:36,29.6,1
+TK-20198,2026-02-26 05:00,chat,Account,high,I can't log into my account,I can't log into my account.,neutral,resolved,2026-02-26 11:18,6.3,2
+TK-20444,2026-02-26 09:00,email,Billing,urgent,My invoice INV-2416 shows an amount I don't reco,My invoice INV-2416 shows an amount I don't recognise.,neg,resolved,2026-02-26 13:00,4.0,2
+TK-20424,2026-02-26 19:00,email,Product,low,The coffee subscription stopped working after tw,The coffee subscription stopped working after two days.,neg,resolved,2026-03-01 12:48,65.8,2
+TK-20407,2026-02-26 22:00,chat,Refund,high,I'd like a refund for order 54111,I'd like a refund for order 54111.,neg,resolved,2026-02-27 12:24,14.4,4
+TK-20485,2026-02-27 03:00,email,Billing,high,I was charged twice for order 73911,I was charged twice for order 73911.,neg,resolved,2026-02-27 08:12,5.2,3
+TK-20290,2026-02-27 05:00,chat,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-02-28 05:36,24.6,5
+TK-20106,2026-02-27 12:00,chat,How-to,high,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-02-27 19:36,7.6,1
+TK-20431,2026-02-28 05:00,chat,Refund,low,How long does a refund for gift card take?,How long does a refund for gift card take?,neg,resolved,2026-03-02 11:18,54.3,5
+TK-20316,2026-02-28 06:00,chat,Refund,high,"Please refund order 14219, item was faulty","Please refund order 14219, item was faulty.",neg,resolved,2026-02-28 18:48,12.8,2
+TK-20529,2026-02-28 09:00,chat,Praise,medium,Just wanted to say the espresso machine was exce,Just wanted to say the espresso machine was excellent and arrived fast.,pos,resolved,2026-03-01 10:36,25.6,4
+TK-20185,2026-02-28 11:00,chat,Product,high,Quality of the beans 1kg is not what I expected,Quality of the beans 1kg is not what I expected.,neg,resolved,2026-02-28 11:30,0.5,5
+TK-20216,2026-02-28 15:00,chat,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-03-01 03:24,12.4,1
+TK-20420,2026-02-28 16:00,email,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-02-28 18:06,2.1,3
+TK-20296,2026-02-28 17:00,chat,Praise,medium,"Really happy with the milk frother, will order a","Really happy with the milk frother, will order again.",pos,resolved,2026-03-01 02:12,9.2,4
+TK-20384,2026-02-28 21:00,chat,Delivery,urgent,Order 42463 still hasn't arrived after 14 days,Order 42463 still hasn't arrived after 14 days.,neg,resolved,2026-03-01 01:06,4.1,1
+TK-20594,2026-03-01 03:00,chat,Product,high,The gift card stopped working after two days,The gift card stopped working after two days.,neg,resolved,2026-03-01 16:48,13.8,2
+TK-20225,2026-03-01 09:00,chat,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,open,,,
+TK-20197,2026-03-01 19:00,chat,Account,high,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-03-01 22:06,3.1,3
+TK-20265,2026-03-01 20:00,email,Billing,high,I was charged twice for order 95410,I was charged twice for order 95410.,neg,open,,,
+TK-20222,2026-03-01 21:00,phone,Product,high,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2026-03-02 08:54,11.9,1
+TK-20395,2026-03-01 22:00,chat,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-02 15:48,17.8,1
+TK-20383,2026-03-02 03:00,email,Delivery,urgent,Order 73181 still hasn't arrived after 16 days,Order 73181 still hasn't arrived after 16 days.,neg,resolved,2026-03-02 06:00,3.0,2
+TK-20150,2026-03-02 09:00,email,Delivery,medium,Order 41189 still hasn't arrived after 16 days,Order 41189 still hasn't arrived after 16 days.,neg,resolved,2026-03-03 07:18,22.3,2
+TK-20541,2026-03-02 10:00,chat,Account,urgent,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-03-02 16:36,6.6,2
+TK-20165,2026-03-02 13:00,phone,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-03-03 04:18,15.3,5
+TK-20429,2026-03-03 02:00,email,Product,high,Quality of the gift card is not what I expected,Quality of the gift card is not what I expected.,neg,open,,,
+TK-20345,2026-03-03 04:00,email,Billing,low,Why was I billed 49 EUR this month? My plan is c,Why was I billed 49 EUR this month? My plan is cheaper.,neg,resolved,2026-03-04 20:30,40.5,3
+TK-20521,2026-03-03 05:00,phone,Praise,medium,Just wanted to say the espresso machine was exce,Just wanted to say the espresso machine was excellent and arrived fast.,pos,resolved,2026-03-04 17:36,36.6,1
+TK-20117,2026-03-03 15:00,chat,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-03-06 16:12,73.2,1
+TK-20021,2026-03-03 23:00,chat,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-04 16:06,17.1,2
+TK-20042,2026-03-03 23:00,email,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-05 05:06,30.1,5
+TK-20364,2026-03-04 00:00,email,Account,high,I can't log into my account,I can't log into my account.,neutral,pending,,,
+TK-20589,2026-03-04 20:00,phone,Refund,high,"Please refund order 61195, item was faulty","Please refund order 61195, item was faulty.",neg,resolved,2026-03-05 11:42,15.7,1
+TK-20230,2026-03-04 21:00,email,Billing,low,My invoice INV-6830 shows an amount I don't reco,My invoice INV-6830 shows an amount I don't recognise.,neg,resolved,2026-03-06 21:18,48.3,4
+TK-20308,2026-03-04 23:00,phone,Product,high,The coffee subscription I received arrived damag,The coffee subscription I received arrived damaged.,neg,resolved,2026-03-05 09:48,10.8,5
+TK-20210,2026-03-05 22:00,email,Delivery,low,Wrong item delivered for order 63362,Wrong item delivered for order 63362.,neg,open,,,
+TK-20299,2026-03-06 05:00,phone,Product,urgent,The milk frother doesn't match the description o,The milk frother doesn't match the description on your site.,neg,resolved,2026-03-06 08:00,3.0,3
+TK-20189,2026-03-06 06:00,phone,Refund,medium,I'd like a refund for order 62285,I'd like a refund for order 62285.,neg,resolved,2026-03-07 04:36,22.6,1
+TK-20172,2026-03-06 11:00,chat,Refund,low,I'd like a refund for order 57799,I'd like a refund for order 57799.,neg,resolved,2026-03-09 07:00,68.0,4
+TK-20471,2026-03-06 15:00,phone,Praise,medium,"Really happy with the grinder, will order again","Really happy with the grinder, will order again.",pos,resolved,2026-03-07 13:48,22.8,5
+TK-20369,2026-03-06 17:00,chat,Product,high,Quality of the brew kit is not what I expected,Quality of the brew kit is not what I expected.,neg,resolved,2026-03-07 06:12,13.2,1
+TK-20280,2026-03-06 23:00,email,Refund,medium,"Please refund order 70095, item was faulty","Please refund order 70095, item was faulty.",neg,pending,,,
+TK-20245,2026-03-07 04:00,email,Product,medium,The beans 1kg I received arrived damaged,The beans 1kg I received arrived damaged.,neg,resolved,2026-03-07 23:06,19.1,5
+TK-20119,2026-03-07 05:00,phone,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-03-08 23:06,42.1,4
+TK-20024,2026-03-07 19:00,phone,Product,low,The milk frother doesn't match the description o,The milk frother doesn't match the description on your site.,neg,resolved,2026-03-09 02:18,31.3,2
+TK-20427,2026-03-08 10:00,chat,Account,low,I can't log into my account,I can't log into my account.,neutral,resolved,2026-03-09 22:18,36.3,5
+TK-20281,2026-03-08 21:00,phone,Billing,low,I was charged twice for order 82168,I was charged twice for order 82168.,neg,resolved,2026-03-11 11:48,62.8,2
+TK-20586,2026-03-08 22:00,phone,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-09 12:06,14.1,3
+TK-20203,2026-03-09 08:00,email,Praise,medium,Just wanted to say the brew kit was excellent an,Just wanted to say the brew kit was excellent and arrived fast.,pos,resolved,2026-03-10 21:54,37.9,3
+TK-20311,2026-03-09 09:00,email,Billing,low,Why was I billed 49 EUR this month? My plan is c,Why was I billed 49 EUR this month? My plan is cheaper.,neg,resolved,2026-03-10 20:24,35.4,1
+TK-20504,2026-03-09 22:00,phone,Billing,urgent,I cancelled but you charged me again for order 5,I cancelled but you charged me again for order 59146.,neg,resolved,2026-03-09 23:42,1.7,2
+TK-20096,2026-03-10 08:00,phone,Billing,medium,I cancelled but you charged me again for order 2,I cancelled but you charged me again for order 22126.,neg,resolved,2026-03-11 07:54,23.9,3
+TK-20232,2026-03-10 13:00,chat,Praise,low,"Really happy with the gift card, will order agai","Really happy with the gift card, will order again.",pos,resolved,2026-03-13 11:24,70.4,4
+TK-20278,2026-03-10 18:00,email,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,open,,,
+TK-20329,2026-03-10 22:00,email,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-03-11 14:54,16.9,3
+TK-20478,2026-03-11 02:00,phone,How-to,urgent,How do I add a second user to my account?,How do I add a second user to my account?,neutral,open,,,
+TK-20488,2026-03-11 03:00,chat,Refund,medium,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-03-12 11:48,32.8,5
+TK-20000,2026-03-11 06:00,phone,Delivery,high,Tracking for 52240 hasn't updated in a week,Tracking for 52240 hasn't updated in a week.,neg,open,,,
+TK-20159,2026-03-11 13:00,phone,Refund,high,I'd like a refund for order 94547,I'd like a refund for order 94547.,neg,resolved,2026-03-11 13:30,0.5,4
+TK-20398,2026-03-11 14:00,chat,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-03-12 02:12,12.2,4
+TK-20166,2026-03-11 15:00,email,Product,low,The milk frother doesn't match the description o,The milk frother doesn't match the description on your site.,neg,resolved,2026-03-12 13:18,22.3,1
+TK-20082,2026-03-11 18:00,chat,Delivery,low,Wrong item delivered for order 42629,Wrong item delivered for order 42629.,neg,open,,,
+TK-20178,2026-03-13 02:00,email,Account,urgent,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-03-13 06:30,4.5,2
+TK-20507,2026-03-13 03:00,chat,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-03-13 21:54,18.9,5
+TK-20079,2026-03-13 11:00,chat,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-03-14 13:54,26.9,4
+TK-20177,2026-03-13 14:00,email,Billing,high,My invoice INV-6068 shows an amount I don't reco,My invoice INV-6068 shows an amount I don't recognise.,neg,resolved,2026-03-13 23:18,9.3,1
+TK-20194,2026-03-13 14:00,email,Product,high,Quality of the brew kit is not what I expected,Quality of the brew kit is not what I expected.,neg,resolved,2026-03-14 00:00,10.0,4
+TK-20392,2026-03-13 16:00,email,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-13 19:24,3.4,1
+TK-20439,2026-03-14 06:00,chat,Refund,high,"Please refund order 15664, item was faulty","Please refund order 15664, item was faulty.",neg,resolved,2026-03-14 21:12,15.2,4
+TK-20344,2026-03-14 12:00,phone,Delivery,high,Tracking for 41745 hasn't updated in a week,Tracking for 41745 hasn't updated in a week.,neg,resolved,2026-03-15 00:18,12.3,3
+TK-20580,2026-03-14 17:00,email,How-to,urgent,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-03-15 00:24,7.4,2
+TK-20335,2026-03-15 03:00,email,Delivery,low,Wrong item delivered for order 84907,Wrong item delivered for order 84907.,neg,resolved,2026-03-16 09:30,30.5,3
+TK-20338,2026-03-15 05:00,phone,Refund,medium,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-03-16 22:06,41.1,4
+TK-20196,2026-03-15 21:00,phone,Billing,medium,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-03-17 03:30,30.5,3
+TK-20138,2026-03-15 23:00,phone,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-17 03:36,28.6,3
+TK-20180,2026-03-17 05:00,phone,Product,low,The coffee subscription doesn't match the descri,The coffee subscription doesn't match the description on your site.,neg,open,,,
+TK-20491,2026-03-17 20:00,phone,Billing,high,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-03-18 05:06,9.1,2
+TK-20558,2026-03-17 23:00,chat,Product,high,Quality of the grinder is not what I expected,Quality of the grinder is not what I expected.,neg,open,,,
+TK-20574,2026-03-17 23:00,email,Product,high,The beans 1kg stopped working after two days,The beans 1kg stopped working after two days.,neg,resolved,2026-03-18 00:48,1.8,2
+TK-20274,2026-03-18 02:00,phone,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-03-19 10:00,32.0,3
+TK-20162,2026-03-18 06:00,chat,Praise,medium,"Really happy with the coffee subscription, will ","Really happy with the coffee subscription, will order again.",pos,resolved,2026-03-19 07:18,25.3,3
+TK-20501,2026-03-18 06:00,email,Billing,urgent,My invoice INV-4124 shows an amount I don't reco,My invoice INV-4124 shows an amount I don't recognise.,neg,resolved,2026-03-18 12:00,6.0,2
+TK-20388,2026-03-18 13:00,chat,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,open,,,
+TK-20373,2026-03-18 15:00,chat,Billing,medium,I cancelled but you charged me again for order 4,I cancelled but you charged me again for order 42779.,neg,resolved,2026-03-19 16:12,25.2,1
+TK-20078,2026-03-19 05:00,phone,Product,high,The grinder I received arrived damaged,The grinder I received arrived damaged.,neg,resolved,2026-03-19 14:18,9.3,3
+TK-20389,2026-03-19 12:00,email,Billing,high,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,pending,,,
+TK-20092,2026-03-19 16:00,chat,Delivery,medium,Tracking for 73936 hasn't updated in a week,Tracking for 73936 hasn't updated in a week.,neg,resolved,2026-03-20 13:00,21.0,1
+TK-20231,2026-03-19 20:00,chat,Product,low,The grinder stopped working after two days,The grinder stopped working after two days.,neg,resolved,2026-03-21 23:00,51.0,2
+TK-20129,2026-03-20 14:00,chat,Product,medium,The brew kit I received arrived damaged,The brew kit I received arrived damaged.,neg,resolved,2026-03-21 17:00,27.0,2
+TK-20176,2026-03-21 03:00,email,Praise,low,Just wanted to say the beans 1kg was excellent a,Just wanted to say the beans 1kg was excellent and arrived fast.,pos,resolved,2026-03-23 13:42,58.7,5
+TK-20052,2026-03-21 19:00,email,How-to,high,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-03-22 03:36,8.6,5
+TK-20067,2026-03-21 20:00,chat,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,pending,,,
+TK-20425,2026-03-21 23:00,phone,Refund,urgent,"Please refund order 50233, item was faulty","Please refund order 50233, item was faulty.",neg,resolved,2026-03-22 05:30,6.5,4
+TK-20224,2026-03-22 03:00,chat,Product,high,The beans 1kg doesn't match the description on y,The beans 1kg doesn't match the description on your site.,neg,resolved,2026-03-22 03:48,0.8,5
+TK-20460,2026-03-22 03:00,email,Refund,high,I'd like a refund for order 89477,I'd like a refund for order 89477.,neg,resolved,2026-03-22 06:24,3.4,2
+TK-20370,2026-03-22 16:00,phone,Praise,low,Just wanted to say the milk frother was excellen,Just wanted to say the milk frother was excellent and arrived fast.,pos,resolved,2026-03-23 22:00,30.0,5
+TK-20027,2026-03-22 23:00,email,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,open,,,
+TK-20120,2026-03-23 03:00,phone,Billing,medium,I was charged twice for order 40276,I was charged twice for order 40276.,neg,open,,,
+TK-20390,2026-03-23 04:00,email,Product,urgent,The brew kit doesn't match the description on yo,The brew kit doesn't match the description on your site.,neg,open,,,
+TK-20273,2026-03-23 07:00,email,Billing,high,I was charged twice for order 70964,I was charged twice for order 70964.,neg,resolved,2026-03-23 22:24,15.4,3
+TK-20181,2026-03-24 00:00,email,Praise,medium,Just wanted to say the gift card was excellent a,Just wanted to say the gift card was excellent and arrived fast.,pos,resolved,2026-03-24 20:24,20.4,1
+TK-20271,2026-03-24 08:00,chat,How-to,medium,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-03-25 22:12,38.2,5
+TK-20417,2026-03-24 13:00,phone,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,pending,,,
+TK-20555,2026-03-25 01:00,phone,Product,high,The brew kit I received arrived damaged,The brew kit I received arrived damaged.,neg,resolved,2026-03-25 09:24,8.4,2
+TK-20549,2026-03-25 09:00,email,Delivery,medium,Order 67718 still hasn't arrived after 9 days,Order 67718 still hasn't arrived after 9 days.,neg,resolved,2026-03-25 14:54,5.9,1
+TK-20596,2026-03-25 10:00,email,Delivery,high,Order 20352 still hasn't arrived after 21 days,Order 20352 still hasn't arrived after 21 days.,neg,resolved,2026-03-25 16:30,6.5,2
+TK-20008,2026-03-25 21:00,chat,Billing,urgent,I cancelled but you charged me again for order 8,I cancelled but you charged me again for order 85275.,neg,resolved,2026-03-25 23:24,2.4,2
+TK-20546,2026-03-25 22:00,phone,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-03-27 03:54,29.9,3
+TK-20361,2026-03-26 01:00,phone,Delivery,low,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-28 13:18,60.3,1
+TK-20133,2026-03-26 14:00,email,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,pending,,,
+TK-20304,2026-03-26 19:00,chat,Refund,low,How long does a refund for milk frother take?,How long does a refund for milk frother take?,neg,pending,,,
+TK-20572,2026-03-27 04:00,phone,Refund,urgent,"Please refund order 68868, item was faulty","Please refund order 68868, item was faulty.",neg,open,,,
+TK-20039,2026-03-27 13:00,chat,Product,urgent,The grinder doesn't match the description on you,The grinder doesn't match the description on your site.,neg,resolved,2026-03-27 17:06,4.1,1
+TK-20347,2026-03-27 13:00,chat,Praise,low,Just wanted to say the brew kit was excellent an,Just wanted to say the brew kit was excellent and arrived fast.,pos,resolved,2026-03-30 04:18,63.3,1
+TK-20009,2026-03-27 16:00,email,Billing,urgent,I was charged twice for order 62596,I was charged twice for order 62596.,neg,resolved,2026-03-27 17:36,1.6,4
+TK-20568,2026-03-27 20:00,email,Billing,urgent,I cancelled but you charged me again for order 7,I cancelled but you charged me again for order 74700.,neg,resolved,2026-03-28 01:30,5.5,2
+TK-20426,2026-03-27 21:00,chat,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-03-30 09:00,60.0,5
+TK-20127,2026-03-28 00:00,phone,Praise,medium,"Really happy with the coffee subscription, will ","Really happy with the coffee subscription, will order again.",pos,resolved,2026-03-28 14:54,14.9,1
+TK-20062,2026-03-28 01:00,email,Praise,medium,"Really happy with the grinder, will order again","Really happy with the grinder, will order again.",pos,resolved,2026-03-28 23:30,22.5,3
+TK-20076,2026-03-28 05:00,chat,Praise,low,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-03-28 05:30,0.5,3
+TK-20551,2026-03-28 08:00,chat,Praise,low,"Really happy with the grinder, will order again","Really happy with the grinder, will order again.",pos,open,,,
+TK-20528,2026-03-28 18:00,email,Delivery,high,Order 26357 still hasn't arrived after 17 days,Order 26357 still hasn't arrived after 17 days.,neg,pending,,,
+TK-20069,2026-03-28 20:00,email,Billing,urgent,My invoice INV-1349 shows an amount I don't reco,My invoice INV-1349 shows an amount I don't recognise.,neg,pending,,,
+TK-20187,2026-03-29 02:00,phone,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-30 04:42,26.7,5
+TK-20300,2026-03-29 16:00,chat,Praise,low,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-04-01 16:36,72.6,2
+TK-20115,2026-03-30 08:00,chat,Billing,medium,I was charged twice for order 60932,I was charged twice for order 60932.,neg,resolved,2026-03-31 00:48,16.8,4
+TK-20462,2026-03-30 09:00,phone,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-04-01 22:30,61.5,4
+TK-20526,2026-03-30 13:00,email,Delivery,medium,Wrong item delivered for order 14720,Wrong item delivered for order 14720.,neg,pending,,,
+TK-20587,2026-03-30 13:00,phone,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,pending,,,
+TK-20191,2026-03-30 16:00,chat,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-03-30 22:24,6.4,3
+TK-20497,2026-03-30 22:00,email,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-03-31 17:48,19.8,5
+TK-20108,2026-03-31 09:00,chat,Product,medium,The milk frother I received arrived damaged,The milk frother I received arrived damaged.,neg,resolved,2026-04-01 19:24,34.4,5
+TK-20453,2026-03-31 10:00,email,Billing,medium,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-04-01 15:30,29.5,3
+TK-20098,2026-03-31 11:00,chat,Billing,high,I was charged twice for order 50901,I was charged twice for order 50901.,neg,resolved,2026-04-01 03:06,16.1,2
+TK-20149,2026-03-31 12:00,chat,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-04-01 15:24,27.4,5
+TK-20584,2026-04-01 03:00,phone,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,pending,,,
+TK-20223,2026-04-01 08:00,chat,Refund,high,How long does a refund for coffee subscription t,How long does a refund for coffee subscription take?,neg,resolved,2026-04-02 03:18,19.3,5
+TK-20553,2026-04-01 10:00,email,Product,medium,The beans 1kg I received arrived damaged,The beans 1kg I received arrived damaged.,neg,open,,,
+TK-20233,2026-04-01 12:00,chat,Billing,high,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-04-01 21:06,9.1,2
+TK-20409,2026-04-01 19:00,chat,How-to,low,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-04-02 22:06,27.1,4
+TK-20130,2026-04-02 01:00,phone,Praise,medium,Just wanted to say the espresso machine was exce,Just wanted to say the espresso machine was excellent and arrived fast.,pos,resolved,2026-04-03 14:12,37.2,5
+TK-20289,2026-04-02 11:00,chat,Billing,medium,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-04-02 21:42,10.7,4
+TK-20480,2026-04-02 15:00,chat,Delivery,urgent,Wrong item delivered for order 75902,Wrong item delivered for order 75902.,neg,resolved,2026-04-02 18:30,3.5,1
+TK-20059,2026-04-03 03:00,phone,Refund,high,"Please refund order 40969, item was faulty","Please refund order 40969, item was faulty.",neg,resolved,2026-04-03 09:00,6.0,1
+TK-20229,2026-04-03 10:00,chat,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,open,,,
+TK-20445,2026-04-03 21:00,chat,How-to,low,Where do I download my invoices?,Where do I download my invoices?,neutral,open,,,
+TK-20500,2026-04-03 21:00,phone,Refund,medium,How long does a refund for brew kit take?,How long does a refund for brew kit take?,neg,resolved,2026-04-05 00:18,27.3,1
+TK-20577,2026-04-04 02:00,chat,Product,urgent,The gift card stopped working after two days,The gift card stopped working after two days.,neg,pending,,,
+TK-20144,2026-04-04 17:00,phone,Billing,high,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-04-05 01:24,8.4,3
+TK-20204,2026-04-04 17:00,email,Refund,high,How long does a refund for milk frother take?,How long does a refund for milk frother take?,neg,resolved,2026-04-05 00:30,7.5,5
+TK-20441,2026-04-05 04:00,email,Praise,medium,"Great service from your team on order 15865, tha","Great service from your team on order 15865, thank you!",pos,resolved,2026-04-06 02:48,22.8,5
+TK-20496,2026-04-05 05:00,phone,How-to,urgent,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-04-05 11:12,6.2,4
+TK-20272,2026-04-05 07:00,email,Refund,high,"Please refund order 37899, item was faulty","Please refund order 37899, item was faulty.",neg,open,,,
+TK-20393,2026-04-06 00:00,phone,Product,medium,The gift card doesn't match the description on y,The gift card doesn't match the description on your site.,neg,resolved,2026-04-07 04:42,28.7,2
+TK-20367,2026-04-06 07:00,chat,Account,medium,I can't log into my account,I can't log into my account.,neutral,resolved,2026-04-06 09:12,2.2,5
+TK-20234,2026-04-06 11:00,phone,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,pending,,,
+TK-20459,2026-04-06 13:00,email,Product,low,The brew kit stopped working after two days,The brew kit stopped working after two days.,neg,resolved,2026-04-09 03:36,62.6,2
+TK-20156,2026-04-06 16:00,phone,Account,high,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-04-07 04:48,12.8,4
+TK-20563,2026-04-06 23:00,email,Billing,high,My invoice INV-8804 shows an amount I don't reco,My invoice INV-8804 shows an amount I don't recognise.,neg,open,,,
+TK-20071,2026-04-07 11:00,phone,Billing,urgent,Why was I billed 19 EUR this month? My plan is c,Why was I billed 19 EUR this month? My plan is cheaper.,neg,resolved,2026-04-07 16:48,5.8,3
+TK-20226,2026-04-07 16:00,email,Account,high,I want to update the email on my account,I want to update the email on my account.,neutral,pending,,,
+TK-20559,2026-04-07 16:00,email,Delivery,high,Tracking for 67732 hasn't updated in a week,Tracking for 67732 hasn't updated in a week.,neg,pending,,,
+TK-20261,2026-04-08 01:00,chat,How-to,high,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-04-08 10:30,9.5,4
+TK-20433,2026-04-08 02:00,chat,Billing,high,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-04-08 17:12,15.2,5
+TK-20293,2026-04-08 11:00,chat,Delivery,high,Tracking for 38719 hasn't updated in a week,Tracking for 38719 hasn't updated in a week.,neg,resolved,2026-04-08 20:12,9.2,1
+TK-20262,2026-04-08 20:00,chat,Praise,medium,"Really happy with the milk frother, will order a","Really happy with the milk frother, will order again.",pos,resolved,2026-04-10 01:36,29.6,4
+TK-20346,2026-04-09 09:00,phone,Refund,urgent,"Please refund order 73139, item was faulty","Please refund order 73139, item was faulty.",neg,resolved,2026-04-09 11:12,2.2,1
+TK-20378,2026-04-09 09:00,chat,Product,high,Quality of the espresso machine is not what I ex,Quality of the espresso machine is not what I expected.,neg,resolved,2026-04-09 09:36,0.6,5
+TK-20154,2026-04-09 10:00,chat,Praise,low,Just wanted to say the brew kit was excellent an,Just wanted to say the brew kit was excellent and arrived fast.,pos,resolved,2026-04-12 01:24,63.4,5
+TK-20366,2026-04-09 13:00,chat,Delivery,low,Order 60960 still hasn't arrived after 7 days,Order 60960 still hasn't arrived after 7 days.,neg,open,,,
+TK-20495,2026-04-09 15:00,email,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-04-11 03:12,36.2,4
+TK-20214,2026-04-09 17:00,chat,Account,medium,I can't log into my account,I can't log into my account.,neutral,open,,,
+TK-20391,2026-04-10 03:00,chat,Praise,medium,"Really happy with the grinder, will order again","Really happy with the grinder, will order again.",pos,open,,,
+TK-20188,2026-04-10 04:00,phone,How-to,low,How do I change my subscription plan?,How do I change my subscription plan?,neutral,pending,,,
+TK-20518,2026-04-10 18:00,chat,Billing,urgent,I was charged twice for order 74110,I was charged twice for order 74110.,neg,resolved,2026-04-10 23:54,5.9,5
+TK-20170,2026-04-11 01:00,chat,Delivery,high,Wrong item delivered for order 83872,Wrong item delivered for order 83872.,neg,resolved,2026-04-11 11:00,10.0,3
+TK-20295,2026-04-11 01:00,phone,Refund,low,How long does a refund for gift card take?,How long does a refund for gift card take?,neg,resolved,2026-04-14 02:42,73.7,4
+TK-20258,2026-04-11 04:00,chat,Product,high,Quality of the beans 1kg is not what I expected,Quality of the beans 1kg is not what I expected.,neg,resolved,2026-04-11 14:36,10.6,1
+TK-20161,2026-04-11 12:00,email,Product,high,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,resolved,2026-04-11 21:00,9.0,3
+TK-20502,2026-04-12 07:00,phone,Product,low,The beans 1kg I received arrived damaged,The beans 1kg I received arrived damaged.,neg,resolved,2026-04-13 20:00,37.0,4
+TK-20450,2026-04-12 13:00,email,Refund,low,I'd like a refund for order 28701,I'd like a refund for order 28701.,neg,resolved,2026-04-14 10:30,45.5,2
+TK-20036,2026-04-12 17:00,phone,Praise,low,"Really happy with the milk frother, will order a","Really happy with the milk frother, will order again.",pos,resolved,2026-04-15 07:06,62.1,5
+TK-20532,2026-04-12 17:00,chat,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,open,,,
+TK-20110,2026-04-12 19:00,email,Product,medium,The beans 1kg doesn't match the description on y,The beans 1kg doesn't match the description on your site.,neg,pending,,,
+TK-20305,2026-04-13 05:00,chat,Billing,high,Why was I billed 99 EUR this month? My plan is c,Why was I billed 99 EUR this month? My plan is cheaper.,neg,resolved,2026-04-13 11:36,6.6,1
+TK-20072,2026-04-13 07:00,phone,Refund,high,"Please refund order 41122, item was faulty","Please refund order 41122, item was faulty.",neg,resolved,2026-04-13 18:00,11.0,2
+TK-20128,2026-04-13 23:00,phone,Product,low,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,resolved,2026-04-15 22:54,47.9,1
+TK-20028,2026-04-14 08:00,chat,Product,urgent,Quality of the gift card is not what I expected,Quality of the gift card is not what I expected.,neg,resolved,2026-04-14 12:18,4.3,3
+TK-20056,2026-04-14 19:00,email,Delivery,high,Order 43898 still hasn't arrived after 18 days,Order 43898 still hasn't arrived after 18 days.,neg,pending,,,
+TK-20236,2026-04-15 01:00,chat,Product,low,The espresso machine doesn't match the descripti,The espresso machine doesn't match the description on your site.,neg,open,,,
+TK-20514,2026-04-15 14:00,email,Product,low,Quality of the gift card is not what I expected,Quality of the gift card is not what I expected.,neg,resolved,2026-04-18 18:48,76.8,4
+TK-20043,2026-04-16 02:00,email,Praise,low,"Great service from your team on order 62153, tha","Great service from your team on order 62153, thank you!",pos,resolved,2026-04-19 07:54,77.9,4
+TK-20360,2026-04-16 10:00,email,Billing,high,I cancelled but you charged me again for order 3,I cancelled but you charged me again for order 37097.,neg,resolved,2026-04-16 13:48,3.8,1
+TK-20408,2026-04-16 17:00,phone,How-to,medium,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,resolved,2026-04-17 20:00,27.0,3
+TK-20160,2026-04-16 20:00,phone,Refund,high,Still waiting on my refund from two weeks ago,Still waiting on my refund from two weeks ago.,neg,resolved,2026-04-17 10:18,14.3,4
+TK-20443,2026-04-16 20:00,email,Billing,high,My invoice INV-3068 shows an amount I don't reco,My invoice INV-3068 shows an amount I don't recognise.,neg,resolved,2026-04-17 06:48,10.8,2
+TK-20034,2026-04-16 23:00,phone,Delivery,high,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-04-17 13:06,14.1,5
+TK-20284,2026-04-16 23:00,email,Refund,medium,"Please refund order 66969, item was faulty","Please refund order 66969, item was faulty.",neg,open,,,
+TK-20477,2026-04-17 04:00,chat,Delivery,urgent,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-04-17 06:24,2.4,1
+TK-20447,2026-04-17 10:00,chat,Product,high,The milk frother stopped working after two days,The milk frother stopped working after two days.,neg,resolved,2026-04-17 10:30,0.5,3
+TK-20333,2026-04-17 14:00,chat,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-04-18 08:06,18.1,4
+TK-20543,2026-04-17 20:00,email,Praise,low,"Really happy with the espresso machine, will ord","Really happy with the espresso machine, will order again.",pos,resolved,2026-04-19 21:48,49.8,3
+TK-20306,2026-04-18 00:00,chat,Delivery,medium,Order 29610 still hasn't arrived after 9 days,Order 29610 still hasn't arrived after 9 days.,neg,resolved,2026-04-18 18:36,18.6,5
+TK-20100,2026-04-18 02:00,email,Account,urgent,I can't log into my account,I can't log into my account.,neutral,pending,,,
+TK-20562,2026-04-18 13:00,email,Account,low,Password reset email never arrives,Password reset email never arrives.,neutral,resolved,2026-04-20 02:54,37.9,4
+TK-20113,2026-04-18 22:00,email,How-to,low,How do I add a second user to my account?,How do I add a second user to my account?,neutral,resolved,2026-04-20 20:06,46.1,3
+TK-20512,2026-04-19 06:00,chat,Billing,low,I cancelled but you charged me again for order 5,I cancelled but you charged me again for order 53821.,neg,resolved,2026-04-21 14:54,56.9,2
+TK-20534,2026-04-19 06:00,chat,Billing,high,I cancelled but you charged me again for order 4,I cancelled but you charged me again for order 47802.,neg,resolved,2026-04-19 13:12,7.2,1
+TK-20192,2026-04-19 11:00,chat,Praise,medium,Just wanted to say the espresso machine was exce,Just wanted to say the espresso machine was excellent and arrived fast.,pos,resolved,2026-04-20 02:12,15.2,5
+TK-20489,2026-04-19 12:00,phone,Product,high,The grinder doesn't match the description on you,The grinder doesn't match the description on your site.,neg,resolved,2026-04-20 00:00,12.0,5
+TK-20065,2026-04-20 02:00,email,Billing,high,I cancelled but you charged me again for order 4,I cancelled but you charged me again for order 43226.,neg,resolved,2026-04-20 14:24,12.4,1
+TK-20590,2026-04-20 03:00,phone,How-to,low,Can I pause my subscription for a month?,Can I pause my subscription for a month?,neutral,open,,,
+TK-20242,2026-04-20 04:00,phone,Product,urgent,Quality of the coffee subscription is not what I,Quality of the coffee subscription is not what I expected.,neg,resolved,2026-04-20 09:36,5.6,4
+TK-20432,2026-04-20 04:00,email,Delivery,medium,My delivery is late and I need it urgently,My delivery is late and I need it urgently.,neg,resolved,2026-04-20 17:00,13.0,3
+TK-20510,2026-04-20 11:00,chat,How-to,urgent,Where do I download my invoices?,Where do I download my invoices?,neutral,resolved,2026-04-20 13:42,2.7,5
+TK-20387,2026-04-20 15:00,email,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-04-22 22:36,55.6,5
+TK-20400,2026-04-20 17:00,email,Praise,medium,Your support sorted my issue in minutes — brilli,Your support sorted my issue in minutes — brilliant.,pos,resolved,2026-04-21 02:06,9.1,1
+TK-20404,2026-04-21 01:00,email,Account,low,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,pending,,,
+TK-20550,2026-04-21 04:00,phone,Refund,high,I'd like a refund for order 38522,I'd like a refund for order 38522.,neg,resolved,2026-04-21 12:06,8.1,3
+TK-20249,2026-04-21 05:00,email,Product,urgent,The espresso machine stopped working after two d,The espresso machine stopped working after two days.,neg,resolved,2026-04-21 07:30,2.5,1
+TK-20509,2026-04-21 05:00,phone,Product,high,Quality of the gift card is not what I expected,Quality of the gift card is not what I expected.,neg,resolved,2026-04-21 14:00,9.0,1
+TK-20362,2026-04-21 19:00,chat,How-to,medium,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-04-22 00:12,5.2,4
+TK-20048,2026-04-22 01:00,email,Product,low,The coffee subscription doesn't match the descri,The coffee subscription doesn't match the description on your site.,neg,pending,,,
+TK-20132,2026-04-22 02:00,email,Refund,high,"Please refund order 71395, item was faulty","Please refund order 71395, item was faulty.",neg,resolved,2026-04-22 06:00,4.0,5
+TK-20328,2026-04-22 05:00,phone,Delivery,medium,Order 32022 still hasn't arrived after 18 days,Order 32022 still hasn't arrived after 18 days.,neg,resolved,2026-04-23 19:24,38.4,3
+TK-20498,2026-04-22 10:00,phone,Product,high,The grinder doesn't match the description on you,The grinder doesn't match the description on your site.,neg,resolved,2026-04-22 22:00,12.0,3
+TK-20104,2026-04-23 02:00,email,Account,high,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-04-23 08:00,6.0,4
+TK-20377,2026-04-23 03:00,chat,Billing,low,I cancelled but you charged me again for order 9,I cancelled but you charged me again for order 98595.,neg,pending,,,
+TK-20291,2026-04-23 09:00,chat,Refund,low,How long does a refund for brew kit take?,How long does a refund for brew kit take?,neg,pending,,,
+TK-20206,2026-04-23 12:00,chat,Product,urgent,The brew kit stopped working after two days,The brew kit stopped working after two days.,neg,resolved,2026-04-23 13:48,1.8,2
+TK-20340,2026-04-23 13:00,chat,Product,high,The grinder I received arrived damaged,The grinder I received arrived damaged.,neg,resolved,2026-04-23 22:30,9.5,2
+TK-20209,2026-04-23 17:00,phone,Account,urgent,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-04-23 19:36,2.6,5
+TK-20353,2026-04-23 22:00,chat,Product,urgent,The beans 1kg stopped working after two days,The beans 1kg stopped working after two days.,neg,resolved,2026-04-24 05:24,7.4,4
+TK-20013,2026-04-24 05:00,email,Account,low,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-04-25 22:00,41.0,5
+TK-20297,2026-04-24 09:00,email,Account,low,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-04-28 00:06,87.1,3
+TK-20413,2026-04-24 14:00,chat,Account,low,I want to update the email on my account,I want to update the email on my account.,neutral,resolved,2026-04-27 00:30,58.5,3
+TK-20263,2026-04-24 23:00,email,How-to,medium,Where do I download my invoices?,Where do I download my invoices?,neutral,open,,,
+TK-20479,2026-04-24 23:00,chat,Account,medium,Two-factor codes aren't being sent,Two-factor codes aren't being sent.,neutral,resolved,2026-04-26 01:12,26.2,1
+TK-20336,2026-04-25 01:00,phone,Delivery,urgent,Wrong item delivered for order 69546,Wrong item delivered for order 69546.,neg,resolved,2026-04-25 03:18,2.3,3
+TK-20363,2026-04-25 11:00,chat,Refund,high,How long does a refund for grinder take?,How long does a refund for grinder take?,neg,resolved,2026-04-25 20:48,9.8,3
+TK-20355,2026-04-25 14:00,phone,Praise,low,"Great service from your team on order 19060, tha","Great service from your team on order 19060, thank you!",pos,resolved,2026-04-26 14:18,24.3,5
+TK-20578,2026-04-25 20:00,phone,Billing,high,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-04-26 06:48,10.8,3
+TK-20090,2026-04-25 22:00,email,Delivery,medium,Wrong item delivered for order 15105,Wrong item delivered for order 15105.,neg,resolved,2026-04-27 01:42,27.7,3
+TK-20368,2026-04-25 22:00,chat,Billing,urgent,My invoice INV-4233 shows an amount I don't reco,My invoice INV-4233 shows an amount I don't recognise.,neg,resolved,2026-04-26 00:24,2.4,2
+TK-20157,2026-04-26 11:00,phone,Billing,low,I was charged twice for order 93021,I was charged twice for order 93021.,neg,resolved,2026-04-27 14:48,27.8,3
+TK-20025,2026-04-26 19:00,chat,Billing,high,My invoice INV-1170 shows an amount I don't reco,My invoice INV-1170 shows an amount I don't recognise.,neg,open,,,
+TK-20237,2026-04-26 19:00,chat,Delivery,urgent,Tracking for 49345 hasn't updated in a week,Tracking for 49345 hasn't updated in a week.,neg,resolved,2026-04-26 21:00,2.0,1
+TK-20243,2026-04-26 23:00,email,Delivery,high,Order 39332 still hasn't arrived after 14 days,Order 39332 still hasn't arrived after 14 days.,neg,resolved,2026-04-27 14:36,15.6,5
+TK-20251,2026-04-27 13:00,phone,How-to,low,How do I change my subscription plan?,How do I change my subscription plan?,neutral,resolved,2026-04-29 08:00,43.0,5
+TK-20381,2026-04-27 17:00,chat,Billing,high,Why was I billed 49 EUR this month? My plan is c,Why was I billed 49 EUR this month? My plan is cheaper.,neg,resolved,2026-04-27 22:00,5.0,1
+TK-20571,2026-04-28 18:00,phone,Billing,high,I cancelled but you charged me again for order 6,I cancelled but you charged me again for order 60602.,neg,resolved,2026-04-28 20:30,2.5,2
+TK-20148,2026-04-28 21:00,email,Billing,high,Why was I billed 29 EUR this month? My plan is c,Why was I billed 29 EUR this month? My plan is cheaper.,neg,resolved,2026-04-29 08:48,11.8,2
+TK-20012,2026-04-29 14:00,email,Praise,low,"Great service from your team on order 18779, tha","Great service from your team on order 18779, thank you!",pos,resolved,2026-05-01 21:18,55.3,4
+TK-20522,2026-04-29 21:00,phone,Product,high,The coffee subscription doesn't match the descri,The coffee subscription doesn't match the description on your site.,neg,resolved,2026-04-30 05:42,8.7,4

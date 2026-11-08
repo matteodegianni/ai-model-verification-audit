@@ -1,0 +1,501 @@
+review_id,product,rating,title,review_text,date,verified_purchase,helpful_votes
+RV-30166,Signature Espresso Blend 1kg,5,Excellent,Beautifully packaged.,2025-06-02,yes,12
+RV-30180,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged.,2025-06-03,yes,14
+RV-30392,Decaf House Blend 250g,5,Excellent,Arrived quickly.,2025-06-03,no,11
+RV-30447,Cold Brew Concentrate,3,It's okay,Good coffee but slow delivery.,2025-06-03,yes,17
+RV-30050,Ceramic Pour-Over Set,5,Excellent,Rich and balanced.,2025-06-05,yes,11
+RV-30115,Signature Espresso Blend 1kg,5,Excellent,Arrived quickly.,2025-06-06,yes,5
+RV-30423,Single Origin Ethiopia 250g,3,It's okay,Good coffee but slow delivery.,2025-06-06,yes,39
+RV-30017,Gift Subscription Box,5,Excellent,Great value.,2025-06-07,yes,6
+RV-30308,Ceramic Pour-Over Set,3,It's okay,"Nice flavour, packaging could be better.",2025-06-07,yes,4
+RV-30012,Single Origin Ethiopia 250g,4,Really good,Beautifully packaged.,2025-06-08,yes,31
+RV-30291,Gift Subscription Box,4,Really good,My new daily favourite.,2025-06-08,no,37
+RV-30316,Gift Subscription Box,5,Excellent,Excellent customer service. smooth with no bitterness.,2025-06-08,yes,10
+RV-30370,Signature Espresso Blend 1kg,4,Really good,Arrived quickly. great value.,2025-06-08,yes,13
+RV-30386,Hand Grinder Pro,5,Excellent,Smooth with no bitterness.,2025-06-08,yes,10
+RV-30055,Single Origin Ethiopia 250g,5,Excellent,Rich and balanced.,2025-06-09,yes,12
+RV-30499,Single Origin Ethiopia 250g,5,Excellent,Great value.,2025-06-10,yes,34
+RV-30323,Decaf House Blend 250g,3,It's okay,Good coffee but slow delivery.,2025-06-11,yes,32
+RV-30460,Signature Espresso Blend 1kg,4,Really good,Smooth with no bitterness.,2025-06-11,yes,10
+RV-30219,Decaf House Blend 250g,3,It's okay,Tasty though a bit pricey.,2025-06-12,yes,16
+RV-30042,Signature Espresso Blend 1kg,4,Really good,My new daily favourite. smooth with no bitterness.,2025-06-15,yes,17
+RV-30077,Gift Subscription Box,5,Excellent,Great value.,2025-06-15,yes,37
+RV-30116,Gift Subscription Box,5,Excellent,Beautifully packaged.,2025-06-15,yes,12
+RV-30473,Hand Grinder Pro,1,Would not buy again,Packaging was damaged.,2025-06-16,yes,30
+RV-30431,Single Origin Ethiopia 250g,4,Really good,Excellent customer service.,2025-06-17,yes,16
+RV-30437,Single Origin Ethiopia 250g,5,Excellent,Rich and balanced.,2025-06-17,yes,21
+RV-30472,Decaf House Blend 250g,3,It's okay,Tasty though a bit pricey.,2025-06-17,yes,11
+RV-30479,Ceramic Pour-Over Set,2,Disappointed,Overpriced for the quantity.,2025-06-17,no,28
+RV-30085,Single Origin Ethiopia 250g,5,Excellent,My new daily favourite. arrived quickly.,2025-06-18,no,11
+RV-30428,Decaf House Blend 250g,2,Disappointed,Not as described. took two weeks to arrive.,2025-06-19,yes,37
+RV-30039,Ceramic Pour-Over Set,3,It's okay,Good coffee but slow delivery.,2025-06-21,yes,37
+RV-30179,Cold Brew Concentrate,3,It's okay,Good coffee but slow delivery.,2025-06-21,yes,13
+RV-30494,Single Origin Ethiopia 250g,2,Disappointed,Not as described. took two weeks to arrive.,2025-06-21,yes,32
+RV-30306,Single Origin Ethiopia 250g,5,Excellent,Excellent customer service. great value.,2025-06-25,yes,36
+RV-30014,Single Origin Ethiopia 250g,2,Disappointed,Over-roasted for my taste. packaging was damaged.,2025-06-26,yes,23
+RV-30110,Ceramic Pour-Over Set,5,Excellent,Great value. my new daily favourite.,2025-06-26,yes,35
+RV-30024,Decaf House Blend 250g,2,Disappointed,Over-roasted for my taste. took two weeks to arrive.,2025-06-27,no,4
+RV-30167,Signature Espresso Blend 1kg,5,Excellent,Beautifully packaged.,2025-06-27,yes,30
+RV-30059,Decaf House Blend 250g,4,Really good,Arrived quickly. great value.,2025-06-28,no,29
+RV-30209,Decaf House Blend 250g,3,It's okay,Tasty though a bit pricey.,2025-06-28,yes,1
+RV-30304,Ceramic Pour-Over Set,1,Would not buy again,Overpriced for the quantity. arrived stale.,2025-06-30,no,21
+RV-30405,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged.,2025-06-30,yes,17
+RV-30141,Hand Grinder Pro,4,Really good,Beautifully packaged.,2025-07-01,yes,8
+RV-30196,Decaf House Blend 250g,2,Disappointed,Over-roasted for my taste.,2025-07-01,no,33
+RV-30109,Single Origin Ethiopia 250g,4,Really good,My new daily favourite. excellent customer service.,2025-07-02,yes,31
+RV-30123,Single Origin Ethiopia 250g,4,Really good,Great value.,2025-07-02,no,6
+RV-30171,Gift Subscription Box,1,Would not buy again,Over-roasted for my taste. arrived stale.,2025-07-02,yes,18
+RV-30163,Cold Brew Concentrate,4,Really good,Excellent customer service.,2025-07-03,yes,31
+RV-30397,Cold Brew Concentrate,3,It's okay,"Nice flavour, packaging could be better.",2025-07-03,yes,38
+RV-30078,Decaf House Blend 250g,5,Excellent,My new daily favourite. great value.,2025-07-05,no,13
+RV-30211,Ceramic Pour-Over Set,5,Excellent,Smooth with no bitterness.,2025-07-05,yes,15
+RV-30267,Cold Brew Concentrate,4,Really good,Arrived quickly. smooth with no bitterness.,2025-07-05,yes,12
+RV-30278,Ceramic Pour-Over Set,4,Really good,My new daily favourite.,2025-07-05,yes,25
+RV-30429,Ceramic Pour-Over Set,5,Excellent,My new daily favourite. great value.,2025-07-05,yes,23
+RV-30435,Gift Subscription Box,5,Excellent,Smooth with no bitterness. my new daily favourite.,2025-07-05,yes,27
+RV-30468,Hand Grinder Pro,4,Really good,Great value.,2025-07-05,yes,19
+RV-30127,Gift Subscription Box,5,Excellent,Beautifully packaged. excellent customer service.,2025-07-09,no,30
+RV-30054,Single Origin Ethiopia 250g,5,Excellent,Rich and balanced. great value.,2025-07-10,yes,31
+RV-30138,Single Origin Ethiopia 250g,3,It's okay,"Nice flavour, packaging could be better.",2025-07-10,yes,35
+RV-30146,Cold Brew Concentrate,2,Disappointed,Arrived stale.,2025-07-10,yes,21
+RV-30287,Hand Grinder Pro,4,Really good,Excellent customer service. my new daily favourite.,2025-07-10,yes,15
+RV-30378,Decaf House Blend 250g,5,Excellent,Great value. my new daily favourite.,2025-07-11,yes,26
+RV-30372,Gift Subscription Box,2,Disappointed,Packaging was damaged. overpriced for the quantity.,2025-07-12,yes,27
+RV-30165,Gift Subscription Box,3,It's okay,Tasty though a bit pricey.,2025-07-13,yes,0
+RV-30206,Cold Brew Concentrate,5,Excellent,My new daily favourite.,2025-07-14,no,24
+RV-30252,Decaf House Blend 250g,4,Really good,Smooth with no bitterness. arrived quickly.,2025-07-14,yes,14
+RV-30426,Single Origin Ethiopia 250g,5,Excellent,Rich and balanced.,2025-07-14,yes,38
+RV-30071,Ceramic Pour-Over Set,3,It's okay,Tasty though a bit pricey.,2025-07-15,yes,24
+RV-30487,Decaf House Blend 250g,5,Excellent,Rich and balanced. beautifully packaged.,2025-07-15,yes,37
+RV-30098,Single Origin Ethiopia 250g,4,Really good,Arrived quickly.,2025-07-16,yes,6
+RV-30100,Single Origin Ethiopia 250g,2,Disappointed,Grinder feels flimsy. arrived stale.,2025-07-22,yes,5
+RV-30268,Decaf House Blend 250g,1,Would not buy again,Grinder feels flimsy.,2025-07-23,yes,10
+RV-30312,Ceramic Pour-Over Set,4,Really good,Arrived quickly.,2025-07-25,yes,20
+RV-30284,Single Origin Ethiopia 250g,3,It's okay,Tasty though a bit pricey.,2025-07-26,no,20
+RV-30215,Signature Espresso Blend 1kg,4,Really good,Arrived quickly. beautifully packaged.,2025-07-27,yes,3
+RV-30433,Signature Espresso Blend 1kg,1,Would not buy again,Packaging was damaged.,2025-07-27,yes,31
+RV-30339,Decaf House Blend 250g,2,Disappointed,Grinder feels flimsy.,2025-07-28,no,23
+RV-30340,Signature Espresso Blend 1kg,3,It's okay,Good coffee but slow delivery.,2025-07-28,yes,27
+RV-30255,Hand Grinder Pro,5,Excellent,Rich and balanced.,2025-08-01,yes,18
+RV-30281,Single Origin Ethiopia 250g,2,Disappointed,Packaging was damaged.,2025-08-01,yes,29
+RV-30000,Decaf House Blend 250g,5,Excellent,Smooth with no bitterness.,2025-08-02,yes,37
+RV-30326,Single Origin Ethiopia 250g,4,Really good,My new daily favourite.,2025-08-02,yes,19
+RV-30409,Ceramic Pour-Over Set,5,Excellent,My new daily favourite.,2025-08-03,yes,16
+RV-30275,Decaf House Blend 250g,5,Excellent,Smooth with no bitterness. beautifully packaged.,2025-08-04,no,28
+RV-30484,Ceramic Pour-Over Set,4,Really good,Beautifully packaged. rich and balanced.,2025-08-04,yes,21
+RV-30007,Gift Subscription Box,5,Excellent,Arrived quickly. rich and balanced.,2025-08-05,yes,23
+RV-30236,Hand Grinder Pro,4,Really good,Rich and balanced. smooth with no bitterness.,2025-08-05,no,1
+RV-30264,Single Origin Ethiopia 250g,3,It's okay,Tasty though a bit pricey.,2025-08-05,yes,14
+RV-30404,Cold Brew Concentrate,4,Really good,Excellent customer service.,2025-08-05,yes,2
+RV-30011,Signature Espresso Blend 1kg,4,Really good,Arrived quickly. smooth with no bitterness.,2025-08-07,yes,20
+RV-30028,Single Origin Ethiopia 250g,5,Excellent,Excellent customer service.,2025-08-07,yes,38
+RV-30285,Decaf House Blend 250g,5,Excellent,Excellent customer service.,2025-08-07,yes,35
+RV-30481,Hand Grinder Pro,5,Excellent,Excellent customer service. beautifully packaged.,2025-08-08,yes,20
+RV-30329,Gift Subscription Box,4,Really good,Great value.,2025-08-09,no,35
+RV-30114,Decaf House Blend 250g,4,Really good,Arrived quickly. smooth with no bitterness.,2025-08-10,yes,36
+RV-30185,Ceramic Pour-Over Set,5,Excellent,Arrived quickly. smooth with no bitterness.,2025-08-10,yes,18
+RV-30283,Hand Grinder Pro,2,Disappointed,Took two weeks to arrive. packaging was damaged.,2025-08-10,yes,10
+RV-30040,Signature Espresso Blend 1kg,2,Disappointed,Over-roasted for my taste. grinder feels flimsy.,2025-08-11,yes,27
+RV-30158,Signature Espresso Blend 1kg,3,It's okay,Good coffee but slow delivery.,2025-08-11,yes,19
+RV-30053,Hand Grinder Pro,5,Excellent,Rich and balanced. beautifully packaged.,2025-08-13,no,19
+RV-30439,Decaf House Blend 250g,5,Excellent,Great value.,2025-08-13,no,37
+RV-30438,Hand Grinder Pro,1,Would not buy again,Took two weeks to arrive. arrived stale.,2025-08-14,yes,30
+RV-30383,Ceramic Pour-Over Set,5,Excellent,Excellent customer service. arrived quickly.,2025-08-15,no,27
+RV-30414,Gift Subscription Box,2,Disappointed,Packaging was damaged. arrived stale.,2025-08-15,yes,6
+RV-30082,Decaf House Blend 250g,5,Excellent,Beautifully packaged.,2025-08-17,yes,12
+RV-30361,Signature Espresso Blend 1kg,5,Excellent,Great value.,2025-08-17,yes,12
+RV-30128,Gift Subscription Box,1,Would not buy again,Over-roasted for my taste.,2025-08-18,yes,35
+RV-30191,Gift Subscription Box,5,Excellent,Smooth with no bitterness. excellent customer service.,2025-08-19,yes,10
+RV-30232,Signature Espresso Blend 1kg,1,Would not buy again,Packaging was damaged.,2025-08-19,no,33
+RV-30026,Decaf House Blend 250g,5,Excellent,My new daily favourite.,2025-08-20,yes,34
+RV-30193,Signature Espresso Blend 1kg,4,Really good,Excellent customer service. arrived quickly.,2025-08-20,no,37
+RV-30470,Hand Grinder Pro,3,It's okay,"Nice flavour, packaging could be better.",2025-08-20,no,2
+RV-30080,Signature Espresso Blend 1kg,3,It's okay,Good coffee but slow delivery.,2025-08-21,no,1
+RV-30113,Decaf House Blend 250g,2,Disappointed,Took two weeks to arrive.,2025-08-23,yes,29
+RV-30099,Hand Grinder Pro,4,Really good,Smooth with no bitterness. beautifully packaged.,2025-08-24,yes,13
+RV-30084,Gift Subscription Box,5,Excellent,Rich and balanced.,2025-08-25,yes,11
+RV-30225,Cold Brew Concentrate,2,Disappointed,Packaging was damaged.,2025-08-25,yes,10
+RV-30477,Ceramic Pour-Over Set,5,Excellent,Arrived quickly. smooth with no bitterness.,2025-08-25,no,32
+RV-30002,Ceramic Pour-Over Set,5,Excellent,My new daily favourite. smooth with no bitterness.,2025-08-26,yes,25
+RV-30103,Signature Espresso Blend 1kg,5,Excellent,Excellent customer service. beautifully packaged.,2025-08-26,yes,14
+RV-30184,Signature Espresso Blend 1kg,2,Disappointed,Not as described. arrived stale.,2025-08-27,yes,5
+RV-30305,Single Origin Ethiopia 250g,1,Would not buy again,Overpriced for the quantity.,2025-08-30,yes,26
+RV-30204,Hand Grinder Pro,5,Excellent,Great value.,2025-08-31,yes,22
+RV-30241,Gift Subscription Box,5,Excellent,Beautifully packaged. smooth with no bitterness.,2025-08-31,yes,12
+RV-30375,Single Origin Ethiopia 250g,3,It's okay,Tasty though a bit pricey.,2025-08-31,no,9
+RV-30064,Decaf House Blend 250g,5,Excellent,Beautifully packaged. great value.,2025-09-01,yes,40
+RV-30317,Decaf House Blend 250g,4,Really good,Excellent customer service.,2025-09-01,yes,28
+RV-30325,Ceramic Pour-Over Set,2,Disappointed,Grinder feels flimsy. arrived stale.,2025-09-01,yes,24
+RV-30009,Single Origin Ethiopia 250g,2,Disappointed,Took two weeks to arrive. grinder feels flimsy.,2025-09-02,yes,6
+RV-30043,Gift Subscription Box,4,Really good,Arrived quickly.,2025-09-03,yes,24
+RV-30354,Hand Grinder Pro,4,Really good,Excellent customer service. smooth with no bitterness.,2025-09-03,yes,6
+RV-30248,Single Origin Ethiopia 250g,5,Excellent,My new daily favourite. arrived quickly.,2025-09-04,yes,23
+RV-30033,Signature Espresso Blend 1kg,5,Excellent,Excellent customer service. beautifully packaged.,2025-09-06,yes,13
+RV-30130,Hand Grinder Pro,4,Really good,Beautifully packaged.,2025-09-06,yes,3
+RV-30349,Decaf House Blend 250g,4,Really good,My new daily favourite.,2025-09-07,yes,0
+RV-30135,Single Origin Ethiopia 250g,4,Really good,Smooth with no bitterness. my new daily favourite.,2025-09-09,yes,33
+RV-30420,Single Origin Ethiopia 250g,4,Really good,My new daily favourite.,2025-09-09,yes,33
+RV-30106,Cold Brew Concentrate,1,Would not buy again,Packaging was damaged.,2025-09-10,yes,33
+RV-30272,Ceramic Pour-Over Set,4,Really good,Rich and balanced. arrived quickly.,2025-09-11,no,31
+RV-30410,Gift Subscription Box,3,It's okay,Good coffee but slow delivery.,2025-09-11,yes,22
+RV-30301,Signature Espresso Blend 1kg,5,Excellent,Excellent customer service. my new daily favourite.,2025-09-12,yes,4
+RV-30262,Single Origin Ethiopia 250g,2,Disappointed,Took two weeks to arrive.,2025-09-13,yes,8
+RV-30105,Hand Grinder Pro,3,It's okay,Tasty though a bit pricey.,2025-09-15,yes,1
+RV-30290,Decaf House Blend 250g,4,Really good,Arrived quickly.,2025-09-15,yes,23
+RV-30309,Ceramic Pour-Over Set,4,Really good,My new daily favourite.,2025-09-16,yes,20
+RV-30415,Ceramic Pour-Over Set,5,Excellent,Great value. excellent customer service.,2025-09-16,yes,9
+RV-30023,Cold Brew Concentrate,2,Disappointed,Overpriced for the quantity.,2025-09-20,yes,36
+RV-30083,Single Origin Ethiopia 250g,2,Disappointed,Grinder feels flimsy. not as described.,2025-09-20,yes,18
+RV-30205,Ceramic Pour-Over Set,2,Disappointed,Grinder feels flimsy.,2025-09-20,yes,2
+RV-30489,Single Origin Ethiopia 250g,4,Really good,Great value. beautifully packaged.,2025-09-20,yes,11
+RV-30313,Ceramic Pour-Over Set,5,Excellent,Great value.,2025-09-21,yes,12
+RV-30062,Hand Grinder Pro,5,Excellent,Smooth with no bitterness. great value.,2025-09-22,yes,0
+RV-30210,Decaf House Blend 250g,4,Really good,Rich and balanced.,2025-09-22,yes,35
+RV-30373,Gift Subscription Box,1,Would not buy again,Not as described. grinder feels flimsy.,2025-09-22,no,2
+RV-30327,Ceramic Pour-Over Set,5,Excellent,Rich and balanced. arrived quickly.,2025-09-23,no,6
+RV-30356,Cold Brew Concentrate,5,Excellent,Smooth with no bitterness.,2025-09-23,yes,0
+RV-30168,Single Origin Ethiopia 250g,4,Really good,Excellent customer service. great value.,2025-09-25,yes,7
+RV-30330,Ceramic Pour-Over Set,4,Really good,Excellent customer service.,2025-09-25,yes,9
+RV-30396,Signature Espresso Blend 1kg,2,Disappointed,Took two weeks to arrive.,2025-09-25,no,8
+RV-30400,Gift Subscription Box,5,Excellent,Great value.,2025-09-26,yes,18
+RV-30360,Signature Espresso Blend 1kg,5,Excellent,Rich and balanced.,2025-09-27,yes,14
+RV-30010,Hand Grinder Pro,5,Excellent,Arrived quickly. smooth with no bitterness.,2025-09-29,yes,22
+RV-30156,Hand Grinder Pro,2,Disappointed,Grinder feels flimsy.,2025-09-29,yes,29
+RV-30332,Ceramic Pour-Over Set,3,It's okay,Good coffee but slow delivery.,2025-09-30,yes,0
+RV-30069,Single Origin Ethiopia 250g,3,It's okay,"Nice flavour, packaging could be better.",2025-10-02,yes,16
+RV-30357,Gift Subscription Box,1,Would not buy again,Over-roasted for my taste. packaging was damaged.,2025-10-02,yes,16
+RV-30387,Ceramic Pour-Over Set,4,Really good,Arrived quickly.,2025-10-03,yes,1
+RV-30086,Ceramic Pour-Over Set,5,Excellent,Excellent customer service.,2025-10-04,yes,29
+RV-30188,Single Origin Ethiopia 250g,3,It's okay,"Nice flavour, packaging could be better.",2025-10-04,yes,29
+RV-30282,Hand Grinder Pro,4,Really good,Great value. rich and balanced.,2025-10-04,yes,5
+RV-30200,Decaf House Blend 250g,1,Would not buy again,Took two weeks to arrive. grinder feels flimsy.,2025-10-05,yes,39
+RV-30271,Cold Brew Concentrate,4,Really good,Smooth with no bitterness.,2025-10-05,yes,20
+RV-30417,Decaf House Blend 250g,5,Excellent,Arrived quickly. great value.,2025-10-05,yes,7
+RV-30277,Gift Subscription Box,3,It's okay,"Nice flavour, packaging could be better.",2025-10-06,yes,25
+RV-30493,Signature Espresso Blend 1kg,5,Excellent,Excellent customer service. beautifully packaged.,2025-10-06,yes,9
+RV-30214,Cold Brew Concentrate,5,Excellent,Arrived quickly.,2025-10-07,no,32
+RV-30246,Ceramic Pour-Over Set,5,Excellent,My new daily favourite.,2025-10-07,yes,0
+RV-30352,Gift Subscription Box,5,Excellent,Great value. my new daily favourite.,2025-10-07,yes,11
+RV-30490,Hand Grinder Pro,3,It's okay,Tasty though a bit pricey.,2025-10-07,no,21
+RV-30025,Cold Brew Concentrate,5,Excellent,Arrived quickly.,2025-10-09,no,14
+RV-30134,Decaf House Blend 250g,4,Really good,Smooth with no bitterness.,2025-10-09,yes,39
+RV-30446,Hand Grinder Pro,3,It's okay,Tasty though a bit pricey.,2025-10-09,yes,6
+RV-30286,Gift Subscription Box,5,Excellent,Arrived quickly. smooth with no bitterness.,2025-10-10,yes,20
+RV-30058,Ceramic Pour-Over Set,5,Excellent,Great value.,2025-10-12,yes,27
+RV-30253,Signature Espresso Blend 1kg,5,Excellent,Smooth with no bitterness. rich and balanced.,2025-10-12,yes,24
+RV-30380,Hand Grinder Pro,4,Really good,My new daily favourite.,2025-10-13,yes,21
+RV-30016,Single Origin Ethiopia 250g,4,Really good,Rich and balanced. arrived quickly.,2025-10-14,yes,19
+RV-30096,Signature Espresso Blend 1kg,5,Excellent,Arrived quickly.,2025-10-14,yes,34
+RV-30385,Gift Subscription Box,4,Really good,Beautifully packaged.,2025-10-15,yes,0
+RV-30131,Ceramic Pour-Over Set,1,Would not buy again,Overpriced for the quantity.,2025-10-16,yes,35
+RV-30240,Ceramic Pour-Over Set,4,Really good,My new daily favourite.,2025-10-16,yes,20
+RV-30331,Ceramic Pour-Over Set,1,Would not buy again,Packaging was damaged. took two weeks to arrive.,2025-10-17,yes,32
+RV-30495,Signature Espresso Blend 1kg,1,Would not buy again,Arrived stale.,2025-10-17,yes,6
+RV-30073,Decaf House Blend 250g,4,Really good,Great value. arrived quickly.,2025-10-18,no,38
+RV-30427,Hand Grinder Pro,2,Disappointed,Took two weeks to arrive. packaging was damaged.,2025-10-18,yes,12
+RV-30008,Decaf House Blend 250g,5,Excellent,Smooth with no bitterness.,2025-10-19,no,24
+RV-30013,Cold Brew Concentrate,5,Excellent,Rich and balanced. smooth with no bitterness.,2025-10-19,no,3
+RV-30194,Gift Subscription Box,4,Really good,Great value.,2025-10-19,yes,27
+RV-30384,Cold Brew Concentrate,5,Excellent,Smooth with no bitterness.,2025-10-19,yes,13
+RV-30144,Single Origin Ethiopia 250g,5,Excellent,Beautifully packaged.,2025-10-20,yes,23
+RV-30186,Signature Espresso Blend 1kg,4,Really good,Excellent customer service.,2025-10-21,yes,18
+RV-30198,Cold Brew Concentrate,4,Really good,Arrived quickly.,2025-10-23,yes,36
+RV-30224,Hand Grinder Pro,5,Excellent,Great value.,2025-10-23,yes,36
+RV-30044,Cold Brew Concentrate,4,Really good,Excellent customer service. great value.,2025-10-24,no,4
+RV-30222,Hand Grinder Pro,4,Really good,My new daily favourite.,2025-10-25,yes,15
+RV-30027,Ceramic Pour-Over Set,4,Really good,Great value. arrived quickly.,2025-10-26,no,30
+RV-30151,Decaf House Blend 250g,4,Really good,Smooth with no bitterness. my new daily favourite.,2025-10-26,yes,38
+RV-30260,Hand Grinder Pro,4,Really good,Great value. smooth with no bitterness.,2025-10-27,yes,38
+RV-30376,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged. rich and balanced.,2025-10-27,yes,34
+RV-30419,Cold Brew Concentrate,5,Excellent,My new daily favourite. great value.,2025-10-27,no,3
+RV-30307,Cold Brew Concentrate,4,Really good,Rich and balanced. excellent customer service.,2025-10-29,yes,20
+RV-30461,Cold Brew Concentrate,5,Excellent,Rich and balanced.,2025-10-29,yes,6
+RV-30221,Cold Brew Concentrate,4,Really good,Smooth with no bitterness.,2025-10-31,yes,32
+RV-30261,Ceramic Pour-Over Set,5,Excellent,Rich and balanced.,2025-10-31,no,2
+RV-30347,Gift Subscription Box,5,Excellent,Arrived quickly.,2025-11-01,yes,23
+RV-30497,Gift Subscription Box,2,Disappointed,Over-roasted for my taste. took two weeks to arrive.,2025-11-02,yes,7
+RV-30183,Gift Subscription Box,4,Really good,Beautifully packaged.,2025-11-05,yes,25
+RV-30089,Gift Subscription Box,3,It's okay,Tasty though a bit pricey.,2025-11-06,yes,16
+RV-30310,Cold Brew Concentrate,5,Excellent,Smooth with no bitterness.,2025-11-06,yes,18
+RV-30321,Gift Subscription Box,5,Excellent,Excellent customer service.,2025-11-06,yes,13
+RV-30336,Hand Grinder Pro,1,Would not buy again,Arrived stale. grinder feels flimsy.,2025-11-06,yes,28
+RV-30061,Signature Espresso Blend 1kg,5,Excellent,Great value. arrived quickly.,2025-11-07,yes,27
+RV-30250,Signature Espresso Blend 1kg,1,Would not buy again,Overpriced for the quantity. took two weeks to arrive.,2025-11-07,yes,24
+RV-30118,Signature Espresso Blend 1kg,5,Excellent,My new daily favourite.,2025-11-09,yes,30
+RV-30154,Single Origin Ethiopia 250g,2,Disappointed,Took two weeks to arrive.,2025-11-09,no,16
+RV-30216,Single Origin Ethiopia 250g,5,Excellent,Great value.,2025-11-09,yes,15
+RV-30485,Decaf House Blend 250g,4,Really good,Smooth with no bitterness. arrived quickly.,2025-11-10,yes,38
+RV-30021,Hand Grinder Pro,5,Excellent,Beautifully packaged.,2025-11-12,yes,6
+RV-30075,Cold Brew Concentrate,5,Excellent,Great value. smooth with no bitterness.,2025-11-13,yes,5
+RV-30338,Decaf House Blend 250g,2,Disappointed,Not as described.,2025-11-13,yes,26
+RV-30157,Gift Subscription Box,2,Disappointed,Packaging was damaged.,2025-11-14,yes,4
+RV-30244,Signature Espresso Blend 1kg,5,Excellent,Rich and balanced. smooth with no bitterness.,2025-11-14,yes,26
+RV-30464,Signature Espresso Blend 1kg,4,Really good,Smooth with no bitterness.,2025-11-14,yes,18
+RV-30066,Single Origin Ethiopia 250g,3,It's okay,Good coffee but slow delivery.,2025-11-15,yes,10
+RV-30018,Decaf House Blend 250g,4,Really good,Smooth with no bitterness.,2025-11-16,yes,15
+RV-30411,Hand Grinder Pro,4,Really good,Great value. my new daily favourite.,2025-11-16,yes,31
+RV-30418,Hand Grinder Pro,5,Excellent,Great value. smooth with no bitterness.,2025-11-16,yes,28
+RV-30189,Gift Subscription Box,3,It's okay,"Nice flavour, packaging could be better.",2025-11-17,yes,28
+RV-30045,Cold Brew Concentrate,5,Excellent,Smooth with no bitterness. arrived quickly.,2025-11-18,yes,20
+RV-30147,Cold Brew Concentrate,2,Disappointed,Packaging was damaged. overpriced for the quantity.,2025-11-18,yes,18
+RV-30406,Decaf House Blend 250g,4,Really good,Smooth with no bitterness. rich and balanced.,2025-11-19,yes,20
+RV-30125,Hand Grinder Pro,4,Really good,Great value.,2025-11-21,yes,36
+RV-30164,Ceramic Pour-Over Set,1,Would not buy again,Took two weeks to arrive.,2025-11-21,yes,4
+RV-30348,Single Origin Ethiopia 250g,5,Excellent,My new daily favourite. rich and balanced.,2025-11-21,yes,21
+RV-30288,Ceramic Pour-Over Set,4,Really good,Beautifully packaged. smooth with no bitterness.,2025-11-22,yes,2
+RV-30302,Hand Grinder Pro,5,Excellent,Great value.,2025-11-22,yes,27
+RV-30341,Hand Grinder Pro,2,Disappointed,Overpriced for the quantity.,2025-11-24,yes,29
+RV-30346,Single Origin Ethiopia 250g,1,Would not buy again,Grinder feels flimsy. not as described.,2025-11-24,yes,15
+RV-30234,Ceramic Pour-Over Set,4,Really good,Great value. smooth with no bitterness.,2025-11-25,yes,7
+RV-30254,Ceramic Pour-Over Set,2,Disappointed,Over-roasted for my taste.,2025-11-25,no,5
+RV-30467,Gift Subscription Box,5,Excellent,Rich and balanced. arrived quickly.,2025-11-26,yes,4
+RV-30482,Signature Espresso Blend 1kg,5,Excellent,Smooth with no bitterness.,2025-11-26,yes,31
+RV-30070,Hand Grinder Pro,5,Excellent,Rich and balanced.,2025-11-28,yes,19
+RV-30120,Hand Grinder Pro,5,Excellent,Beautifully packaged. great value.,2025-11-28,no,28
+RV-30358,Gift Subscription Box,3,It's okay,"Nice flavour, packaging could be better.",2025-12-02,yes,23
+RV-30367,Single Origin Ethiopia 250g,5,Excellent,Excellent customer service.,2025-12-03,yes,11
+RV-30488,Gift Subscription Box,3,It's okay,"Nice flavour, packaging could be better.",2025-12-03,yes,37
+RV-30081,Signature Espresso Blend 1kg,5,Excellent,Great value.,2025-12-05,yes,0
+RV-30364,Decaf House Blend 250g,5,Excellent,Arrived quickly.,2025-12-05,yes,26
+RV-30424,Gift Subscription Box,1,Would not buy again,Overpriced for the quantity.,2025-12-05,yes,25
+RV-30455,Gift Subscription Box,5,Excellent,Beautifully packaged. my new daily favourite.,2025-12-05,yes,29
+RV-30289,Decaf House Blend 250g,2,Disappointed,Grinder feels flimsy.,2025-12-06,yes,25
+RV-30227,Hand Grinder Pro,3,It's okay,Good coffee but slow delivery.,2025-12-09,yes,34
+RV-30483,Signature Espresso Blend 1kg,5,Excellent,Great value.,2025-12-09,yes,25
+RV-30088,Decaf House Blend 250g,5,Excellent,My new daily favourite.,2025-12-10,no,13
+RV-30065,Hand Grinder Pro,5,Excellent,Excellent customer service. arrived quickly.,2025-12-11,yes,9
+RV-30213,Cold Brew Concentrate,3,It's okay,Tasty though a bit pricey.,2025-12-11,yes,22
+RV-30413,Signature Espresso Blend 1kg,4,Really good,My new daily favourite.,2025-12-11,yes,18
+RV-30095,Single Origin Ethiopia 250g,2,Disappointed,Arrived stale.,2025-12-12,yes,0
+RV-30170,Single Origin Ethiopia 250g,5,Excellent,Great value. my new daily favourite.,2025-12-12,yes,40
+RV-30381,Single Origin Ethiopia 250g,4,Really good,Excellent customer service.,2025-12-12,no,8
+RV-30182,Ceramic Pour-Over Set,5,Excellent,Great value. smooth with no bitterness.,2025-12-14,yes,0
+RV-30365,Single Origin Ethiopia 250g,2,Disappointed,Overpriced for the quantity. packaging was damaged.,2025-12-15,yes,40
+RV-30258,Cold Brew Concentrate,4,Really good,Excellent customer service.,2025-12-16,yes,9
+RV-30022,Cold Brew Concentrate,4,Really good,Arrived quickly.,2025-12-17,yes,6
+RV-30379,Decaf House Blend 250g,5,Excellent,Arrived quickly.,2025-12-17,no,18
+RV-30382,Cold Brew Concentrate,5,Excellent,My new daily favourite.,2025-12-17,yes,34
+RV-30172,Signature Espresso Blend 1kg,5,Excellent,Arrived quickly. beautifully packaged.,2025-12-18,yes,30
+RV-30243,Cold Brew Concentrate,3,It's okay,Tasty though a bit pricey.,2025-12-18,yes,32
+RV-30137,Decaf House Blend 250g,4,Really good,Beautifully packaged.,2025-12-19,yes,22
+RV-30270,Gift Subscription Box,1,Would not buy again,Took two weeks to arrive. not as described.,2025-12-19,yes,39
+RV-30020,Hand Grinder Pro,4,Really good,Beautifully packaged. my new daily favourite.,2025-12-21,yes,8
+RV-30202,Cold Brew Concentrate,5,Excellent,Arrived quickly. rich and balanced.,2025-12-21,yes,13
+RV-30492,Signature Espresso Blend 1kg,5,Excellent,My new daily favourite. rich and balanced.,2025-12-21,yes,24
+RV-30459,Hand Grinder Pro,5,Excellent,Arrived quickly. smooth with no bitterness.,2025-12-23,yes,40
+RV-30041,Decaf House Blend 250g,1,Would not buy again,Packaging was damaged. not as described.,2025-12-24,yes,26
+RV-30060,Ceramic Pour-Over Set,1,Would not buy again,Not as described. took two weeks to arrive.,2025-12-24,yes,39
+RV-30249,Signature Espresso Blend 1kg,4,Really good,My new daily favourite. great value.,2025-12-24,yes,8
+RV-30187,Signature Espresso Blend 1kg,4,Really good,Beautifully packaged.,2025-12-25,yes,21
+RV-30299,Signature Espresso Blend 1kg,4,Really good,Beautifully packaged.,2025-12-25,yes,20
+RV-30335,Hand Grinder Pro,5,Excellent,Rich and balanced. arrived quickly.,2025-12-25,yes,26
+RV-30150,Signature Espresso Blend 1kg,5,Excellent,Rich and balanced.,2025-12-26,yes,31
+RV-30466,Single Origin Ethiopia 250g,4,Really good,My new daily favourite.,2025-12-26,yes,8
+RV-30063,Decaf House Blend 250g,1,Would not buy again,Over-roasted for my taste. overpriced for the quantity.,2025-12-27,yes,22
+RV-30293,Signature Espresso Blend 1kg,4,Really good,Smooth with no bitterness. arrived quickly.,2025-12-27,yes,33
+RV-30403,Signature Espresso Blend 1kg,5,Excellent,Great value.,2025-12-28,yes,6
+RV-30448,Signature Espresso Blend 1kg,3,It's okay,Tasty though a bit pricey.,2025-12-28,yes,15
+RV-30259,Single Origin Ethiopia 250g,5,Excellent,Arrived quickly. beautifully packaged.,2025-12-31,yes,22
+RV-30469,Hand Grinder Pro,5,Excellent,Arrived quickly. beautifully packaged.,2026-01-01,yes,18
+RV-30449,Gift Subscription Box,2,Disappointed,Arrived stale.,2026-01-03,yes,2
+RV-30388,Cold Brew Concentrate,4,Really good,Excellent customer service.,2026-01-04,yes,6
+RV-30266,Signature Espresso Blend 1kg,1,Would not buy again,Grinder feels flimsy.,2026-01-06,no,37
+RV-30296,Single Origin Ethiopia 250g,5,Excellent,My new daily favourite. excellent customer service.,2026-01-06,no,28
+RV-30458,Cold Brew Concentrate,4,Really good,Excellent customer service.,2026-01-07,yes,31
+RV-30486,Single Origin Ethiopia 250g,2,Disappointed,Packaging was damaged.,2026-01-07,yes,24
+RV-30001,Signature Espresso Blend 1kg,3,It's okay,"Nice flavour, packaging could be better.",2026-01-08,yes,27
+RV-30101,Hand Grinder Pro,4,Really good,Rich and balanced.,2026-01-08,no,29
+RV-30181,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged.,2026-01-09,yes,8
+RV-30201,Cold Brew Concentrate,5,Excellent,Arrived quickly. smooth with no bitterness.,2026-01-09,yes,1
+RV-30344,Signature Espresso Blend 1kg,2,Disappointed,Packaging was damaged.,2026-01-09,yes,3
+RV-30328,Signature Espresso Blend 1kg,2,Disappointed,Arrived stale. packaging was damaged.,2026-01-11,no,25
+RV-30152,Ceramic Pour-Over Set,1,Would not buy again,Packaging was damaged.,2026-01-12,yes,20
+RV-30220,Signature Espresso Blend 1kg,4,Really good,Rich and balanced. my new daily favourite.,2026-01-12,yes,6
+RV-30394,Ceramic Pour-Over Set,2,Disappointed,Over-roasted for my taste. arrived stale.,2026-01-12,no,35
+RV-30036,Decaf House Blend 250g,5,Excellent,Arrived quickly.,2026-01-13,yes,32
+RV-30178,Decaf House Blend 250g,4,Really good,My new daily favourite.,2026-01-14,yes,30
+RV-30263,Cold Brew Concentrate,3,It's okay,Good coffee but slow delivery.,2026-01-14,yes,24
+RV-30297,Single Origin Ethiopia 250g,1,Would not buy again,Grinder feels flimsy.,2026-01-14,yes,16
+RV-30337,Cold Brew Concentrate,3,It's okay,Tasty though a bit pricey.,2026-01-14,yes,19
+RV-30480,Single Origin Ethiopia 250g,5,Excellent,My new daily favourite.,2026-01-14,no,35
+RV-30362,Cold Brew Concentrate,4,Really good,Beautifully packaged.,2026-01-15,yes,34
+RV-30463,Gift Subscription Box,1,Would not buy again,Arrived stale. over-roasted for my taste.,2026-01-16,yes,29
+RV-30097,Single Origin Ethiopia 250g,5,Excellent,Arrived quickly. smooth with no bitterness.,2026-01-17,yes,23
+RV-30129,Signature Espresso Blend 1kg,5,Excellent,Arrived quickly. beautifully packaged.,2026-01-18,yes,10
+RV-30452,Decaf House Blend 250g,3,It's okay,Good coffee but slow delivery.,2026-01-19,no,17
+RV-30390,Hand Grinder Pro,3,It's okay,Tasty though a bit pricey.,2026-01-20,yes,20
+RV-30444,Decaf House Blend 250g,3,It's okay,Good coffee but slow delivery.,2026-01-20,no,13
+RV-30190,Decaf House Blend 250g,2,Disappointed,Not as described. packaging was damaged.,2026-01-21,no,31
+RV-30292,Gift Subscription Box,5,Excellent,Smooth with no bitterness.,2026-01-22,yes,24
+RV-30436,Ceramic Pour-Over Set,4,Really good,Beautifully packaged. great value.,2026-01-23,yes,26
+RV-30212,Hand Grinder Pro,4,Really good,My new daily favourite. excellent customer service.,2026-01-24,yes,26
+RV-30443,Decaf House Blend 250g,1,Would not buy again,Packaging was damaged. over-roasted for my taste.,2026-01-25,yes,3
+RV-30462,Hand Grinder Pro,3,It's okay,Tasty though a bit pricey.,2026-01-25,yes,30
+RV-30319,Single Origin Ethiopia 250g,4,Really good,Smooth with no bitterness. my new daily favourite.,2026-01-26,yes,27
+RV-30177,Signature Espresso Blend 1kg,5,Excellent,My new daily favourite. great value.,2026-01-27,yes,38
+RV-30408,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged. excellent customer service.,2026-01-27,yes,14
+RV-30334,Gift Subscription Box,4,Really good,Excellent customer service. great value.,2026-01-28,yes,11
+RV-30139,Hand Grinder Pro,4,Really good,Arrived quickly. excellent customer service.,2026-01-29,yes,14
+RV-30434,Cold Brew Concentrate,4,Really good,Arrived quickly. rich and balanced.,2026-01-29,no,10
+RV-30019,Single Origin Ethiopia 250g,3,It's okay,Tasty though a bit pricey.,2026-01-30,yes,14
+RV-30119,Decaf House Blend 250g,3,It's okay,Tasty though a bit pricey.,2026-01-30,no,5
+RV-30051,Single Origin Ethiopia 250g,5,Excellent,Beautifully packaged. excellent customer service.,2026-02-01,no,40
+RV-30004,Hand Grinder Pro,1,Would not buy again,Over-roasted for my taste. took two weeks to arrive.,2026-02-02,yes,38
+RV-30090,Single Origin Ethiopia 250g,3,It's okay,"Nice flavour, packaging could be better.",2026-02-02,yes,4
+RV-30092,Decaf House Blend 250g,5,Excellent,Rich and balanced. arrived quickly.,2026-02-03,yes,11
+RV-30126,Hand Grinder Pro,3,It's okay,Good coffee but slow delivery.,2026-02-03,yes,9
+RV-30298,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged. my new daily favourite.,2026-02-03,yes,40
+RV-30456,Gift Subscription Box,4,Really good,Smooth with no bitterness.,2026-02-03,no,3
+RV-30269,Ceramic Pour-Over Set,3,It's okay,Tasty though a bit pricey.,2026-02-04,yes,1
+RV-30450,Hand Grinder Pro,3,It's okay,"Nice flavour, packaging could be better.",2026-02-04,yes,26
+RV-30256,Hand Grinder Pro,4,Really good,Rich and balanced.,2026-02-05,yes,6
+RV-30399,Signature Espresso Blend 1kg,3,It's okay,Good coffee but slow delivery.,2026-02-05,yes,25
+RV-30407,Signature Espresso Blend 1kg,4,Really good,My new daily favourite.,2026-02-05,yes,3
+RV-30498,Gift Subscription Box,5,Excellent,Great value. rich and balanced.,2026-02-05,yes,38
+RV-30233,Hand Grinder Pro,4,Really good,Beautifully packaged. excellent customer service.,2026-02-08,no,4
+RV-30445,Signature Espresso Blend 1kg,4,Really good,Great value. my new daily favourite.,2026-02-08,yes,7
+RV-30491,Ceramic Pour-Over Set,4,Really good,Great value.,2026-02-08,yes,10
+RV-30132,Hand Grinder Pro,3,It's okay,Tasty though a bit pricey.,2026-02-13,yes,29
+RV-30176,Single Origin Ethiopia 250g,2,Disappointed,Grinder feels flimsy. overpriced for the quantity.,2026-02-13,yes,14
+RV-30242,Gift Subscription Box,5,Excellent,My new daily favourite. smooth with no bitterness.,2026-02-13,yes,5
+RV-30363,Hand Grinder Pro,5,Excellent,My new daily favourite.,2026-02-13,yes,27
+RV-30149,Single Origin Ethiopia 250g,2,Disappointed,Took two weeks to arrive. over-roasted for my taste.,2026-02-14,yes,23
+RV-30280,Single Origin Ethiopia 250g,3,It's okay,"Nice flavour, packaging could be better.",2026-02-14,yes,32
+RV-30226,Single Origin Ethiopia 250g,3,It's okay,Tasty though a bit pricey.,2026-02-15,yes,29
+RV-30345,Single Origin Ethiopia 250g,3,It's okay,Tasty though a bit pricey.,2026-02-16,no,3
+RV-30112,Decaf House Blend 250g,5,Excellent,Beautifully packaged.,2026-02-17,yes,20
+RV-30046,Hand Grinder Pro,5,Excellent,Excellent customer service.,2026-02-19,yes,31
+RV-30371,Decaf House Blend 250g,2,Disappointed,Overpriced for the quantity. arrived stale.,2026-02-19,no,18
+RV-30003,Gift Subscription Box,2,Disappointed,Over-roasted for my taste. took two weeks to arrive.,2026-02-24,no,7
+RV-30320,Signature Espresso Blend 1kg,1,Would not buy again,Not as described. over-roasted for my taste.,2026-02-24,yes,20
+RV-30351,Hand Grinder Pro,5,Excellent,Smooth with no bitterness.,2026-02-24,yes,24
+RV-30203,Cold Brew Concentrate,2,Disappointed,Arrived stale.,2026-02-25,yes,33
+RV-30108,Cold Brew Concentrate,3,It's okay,Good coffee but slow delivery.,2026-02-26,yes,20
+RV-30155,Cold Brew Concentrate,1,Would not buy again,Not as described.,2026-02-26,yes,17
+RV-30333,Single Origin Ethiopia 250g,5,Excellent,My new daily favourite. excellent customer service.,2026-02-27,yes,38
+RV-30442,Signature Espresso Blend 1kg,4,Really good,Rich and balanced. smooth with no bitterness.,2026-02-27,yes,22
+RV-30136,Cold Brew Concentrate,3,It's okay,Tasty though a bit pricey.,2026-03-01,yes,8
+RV-30173,Single Origin Ethiopia 250g,2,Disappointed,Over-roasted for my taste.,2026-03-01,no,4
+RV-30322,Ceramic Pour-Over Set,4,Really good,Great value. arrived quickly.,2026-03-01,yes,18
+RV-30416,Cold Brew Concentrate,2,Disappointed,Not as described.,2026-03-01,yes,37
+RV-30359,Cold Brew Concentrate,5,Excellent,Beautifully packaged.,2026-03-03,no,15
+RV-30067,Hand Grinder Pro,5,Excellent,Smooth with no bitterness. my new daily favourite.,2026-03-04,no,38
+RV-30076,Single Origin Ethiopia 250g,4,Really good,Rich and balanced. great value.,2026-03-04,yes,15
+RV-30314,Signature Espresso Blend 1kg,5,Excellent,Smooth with no bitterness.,2026-03-05,yes,11
+RV-30432,Signature Espresso Blend 1kg,5,Excellent,My new daily favourite.,2026-03-05,no,37
+RV-30199,Decaf House Blend 250g,5,Excellent,Arrived quickly. smooth with no bitterness.,2026-03-06,yes,12
+RV-30343,Gift Subscription Box,2,Disappointed,Overpriced for the quantity.,2026-03-06,yes,13
+RV-30072,Gift Subscription Box,4,Really good,Great value.,2026-03-09,yes,33
+RV-30295,Decaf House Blend 250g,3,It's okay,"Nice flavour, packaging could be better.",2026-03-09,yes,4
+RV-30478,Decaf House Blend 250g,4,Really good,My new daily favourite.,2026-03-09,yes,23
+RV-30369,Signature Espresso Blend 1kg,5,Excellent,Rich and balanced.,2026-03-11,yes,2
+RV-30143,Gift Subscription Box,5,Excellent,Arrived quickly. great value.,2026-03-12,yes,13
+RV-30265,Gift Subscription Box,5,Excellent,Rich and balanced. excellent customer service.,2026-03-13,yes,9
+RV-30496,Single Origin Ethiopia 250g,4,Really good,Rich and balanced. great value.,2026-03-13,yes,2
+RV-30197,Cold Brew Concentrate,5,Excellent,Rich and balanced. excellent customer service.,2026-03-14,yes,5
+RV-30402,Single Origin Ethiopia 250g,4,Really good,Arrived quickly. smooth with no bitterness.,2026-03-15,yes,33
+RV-30451,Ceramic Pour-Over Set,3,It's okay,Good coffee but slow delivery.,2026-03-15,yes,21
+RV-30034,Hand Grinder Pro,5,Excellent,Arrived quickly. excellent customer service.,2026-03-16,no,26
+RV-30391,Cold Brew Concentrate,5,Excellent,Arrived quickly.,2026-03-16,no,35
+RV-30047,Hand Grinder Pro,4,Really good,Beautifully packaged. smooth with no bitterness.,2026-03-17,yes,37
+RV-30049,Decaf House Blend 250g,5,Excellent,Arrived quickly. excellent customer service.,2026-03-19,no,17
+RV-30153,Single Origin Ethiopia 250g,4,Really good,Beautifully packaged. smooth with no bitterness.,2026-03-19,no,23
+RV-30324,Single Origin Ethiopia 250g,5,Excellent,Smooth with no bitterness.,2026-03-19,yes,40
+RV-30251,Ceramic Pour-Over Set,4,Really good,Great value. my new daily favourite.,2026-03-20,yes,32
+RV-30311,Single Origin Ethiopia 250g,2,Disappointed,Not as described.,2026-03-21,yes,2
+RV-30377,Decaf House Blend 250g,5,Excellent,Arrived quickly. excellent customer service.,2026-03-22,yes,6
+RV-30430,Gift Subscription Box,3,It's okay,Tasty though a bit pricey.,2026-03-22,yes,28
+RV-30441,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged.,2026-03-23,no,37
+RV-30245,Decaf House Blend 250g,5,Excellent,My new daily favourite. great value.,2026-03-26,no,2
+RV-30276,Decaf House Blend 250g,5,Excellent,Excellent customer service. rich and balanced.,2026-03-26,yes,3
+RV-30315,Cold Brew Concentrate,4,Really good,Rich and balanced.,2026-03-26,yes,12
+RV-30231,Hand Grinder Pro,5,Excellent,Arrived quickly. excellent customer service.,2026-03-27,yes,16
+RV-30457,Gift Subscription Box,3,It's okay,Good coffee but slow delivery.,2026-03-28,yes,9
+RV-30300,Hand Grinder Pro,3,It's okay,Good coffee but slow delivery.,2026-03-29,yes,30
+RV-30161,Decaf House Blend 250g,5,Excellent,My new daily favourite. smooth with no bitterness.,2026-03-30,yes,1
+RV-30192,Single Origin Ethiopia 250g,1,Would not buy again,Took two weeks to arrive. not as described.,2026-03-31,no,3
+RV-30454,Signature Espresso Blend 1kg,3,It's okay,"Nice flavour, packaging could be better.",2026-04-02,yes,12
+RV-30102,Gift Subscription Box,2,Disappointed,Grinder feels flimsy. over-roasted for my taste.,2026-04-03,yes,20
+RV-30412,Gift Subscription Box,5,Excellent,Excellent customer service. beautifully packaged.,2026-04-03,yes,24
+RV-30453,Cold Brew Concentrate,1,Would not buy again,Overpriced for the quantity. grinder feels flimsy.,2026-04-03,yes,23
+RV-30015,Signature Espresso Blend 1kg,3,It's okay,"Nice flavour, packaging could be better.",2026-04-04,yes,15
+RV-30029,Gift Subscription Box,5,Excellent,Rich and balanced. smooth with no bitterness.,2026-04-04,yes,28
+RV-30425,Signature Espresso Blend 1kg,4,Really good,Arrived quickly. excellent customer service.,2026-04-04,no,29
+RV-30038,Ceramic Pour-Over Set,5,Excellent,Rich and balanced. excellent customer service.,2026-04-05,no,12
+RV-30279,Cold Brew Concentrate,5,Excellent,Excellent customer service. great value.,2026-04-06,yes,22
+RV-30395,Signature Espresso Blend 1kg,5,Excellent,My new daily favourite.,2026-04-07,yes,21
+RV-30465,Single Origin Ethiopia 250g,1,Would not buy again,Over-roasted for my taste. overpriced for the quantity.,2026-04-08,no,18
+RV-30079,Hand Grinder Pro,1,Would not buy again,Grinder feels flimsy.,2026-04-09,yes,0
+RV-30355,Ceramic Pour-Over Set,1,Would not buy again,Arrived stale.,2026-04-09,yes,36
+RV-30422,Cold Brew Concentrate,5,Excellent,Beautifully packaged. arrived quickly.,2026-04-09,no,32
+RV-30104,Gift Subscription Box,5,Excellent,Rich and balanced.,2026-04-11,yes,5
+RV-30235,Decaf House Blend 250g,5,Excellent,Rich and balanced. smooth with no bitterness.,2026-04-12,yes,14
+RV-30091,Cold Brew Concentrate,5,Excellent,Beautifully packaged. my new daily favourite.,2026-04-13,yes,29
+RV-30117,Gift Subscription Box,5,Excellent,Rich and balanced.,2026-04-13,yes,23
+RV-30006,Gift Subscription Box,5,Excellent,Smooth with no bitterness.,2026-04-14,yes,8
+RV-30093,Signature Espresso Blend 1kg,2,Disappointed,Arrived stale.,2026-04-16,yes,33
+RV-30195,Cold Brew Concentrate,2,Disappointed,Not as described.,2026-04-16,yes,16
+RV-30440,Gift Subscription Box,5,Excellent,Excellent customer service. great value.,2026-04-16,yes,34
+RV-30162,Hand Grinder Pro,3,It's okay,"Nice flavour, packaging could be better.",2026-04-17,yes,28
+RV-30037,Single Origin Ethiopia 250g,5,Excellent,Great value. rich and balanced.,2026-04-18,yes,28
+RV-30094,Signature Espresso Blend 1kg,2,Disappointed,Packaging was damaged.,2026-04-18,yes,7
+RV-30133,Single Origin Ethiopia 250g,4,Really good,Arrived quickly.,2026-04-18,yes,30
+RV-30140,Gift Subscription Box,5,Excellent,Rich and balanced. my new daily favourite.,2026-04-19,yes,6
+RV-30148,Single Origin Ethiopia 250g,3,It's okay,Good coffee but slow delivery.,2026-04-20,yes,19
+RV-30122,Gift Subscription Box,5,Excellent,Beautifully packaged.,2026-04-21,yes,5
+RV-30274,Gift Subscription Box,5,Excellent,Arrived quickly. beautifully packaged.,2026-04-21,yes,6
+RV-30160,Single Origin Ethiopia 250g,5,Excellent,Excellent customer service.,2026-04-22,yes,17
+RV-30048,Hand Grinder Pro,5,Excellent,Rich and balanced. excellent customer service.,2026-04-24,no,14
+RV-30159,Single Origin Ethiopia 250g,3,It's okay,"Nice flavour, packaging could be better.",2026-04-24,yes,24
+RV-30052,Cold Brew Concentrate,2,Disappointed,Took two weeks to arrive.,2026-04-25,yes,31
+RV-30401,Cold Brew Concentrate,5,Excellent,My new daily favourite.,2026-04-25,yes,16
+RV-30421,Signature Espresso Blend 1kg,4,Really good,Beautifully packaged.,2026-04-28,yes,15
+RV-30074,Cold Brew Concentrate,2,Disappointed,Grinder feels flimsy.,2026-04-29,yes,39
+RV-30208,Gift Subscription Box,5,Excellent,Rich and balanced. great value.,2026-04-29,yes,26
+RV-30342,Hand Grinder Pro,5,Excellent,My new daily favourite. rich and balanced.,2026-04-29,yes,26
+RV-30111,Decaf House Blend 250g,3,It's okay,Good coffee but slow delivery.,2026-04-30,yes,17
+RV-30476,Decaf House Blend 250g,4,Really good,Arrived quickly. smooth with no bitterness.,2026-04-30,yes,26
+RV-30145,Gift Subscription Box,3,It's okay,"Nice flavour, packaging could be better.",2026-05-01,no,13
+RV-30393,Ceramic Pour-Over Set,1,Would not buy again,Packaging was damaged.,2026-05-01,yes,32
+RV-30005,Signature Espresso Blend 1kg,5,Excellent,Arrived quickly.,2026-05-02,no,31
+RV-30218,Single Origin Ethiopia 250g,5,Excellent,Beautifully packaged.,2026-05-02,yes,21
+RV-30475,Hand Grinder Pro,4,Really good,Beautifully packaged. excellent customer service.,2026-05-02,yes,14
+RV-30121,Ceramic Pour-Over Set,4,Really good,Arrived quickly. smooth with no bitterness.,2026-05-03,yes,16
+RV-30230,Ceramic Pour-Over Set,5,Excellent,Beautifully packaged. my new daily favourite.,2026-05-03,no,19
+RV-30389,Cold Brew Concentrate,4,Really good,Arrived quickly.,2026-05-03,yes,7
+RV-30175,Decaf House Blend 250g,4,Really good,My new daily favourite. beautifully packaged.,2026-05-04,yes,27
+RV-30303,Ceramic Pour-Over Set,4,Really good,Smooth with no bitterness. arrived quickly.,2026-05-05,yes,22
+RV-30239,Decaf House Blend 250g,5,Excellent,Rich and balanced. arrived quickly.,2026-05-06,yes,31
+RV-30273,Ceramic Pour-Over Set,5,Excellent,Smooth with no bitterness.,2026-05-06,yes,1
+RV-30107,Cold Brew Concentrate,3,It's okay,Good coffee but slow delivery.,2026-05-07,yes,28
+RV-30368,Ceramic Pour-Over Set,4,Really good,My new daily favourite. excellent customer service.,2026-05-07,yes,13
+RV-30030,Cold Brew Concentrate,4,Really good,Beautifully packaged. my new daily favourite.,2026-05-08,no,18
+RV-30237,Signature Espresso Blend 1kg,3,It's okay,Tasty though a bit pricey.,2026-05-08,yes,30
+RV-30228,Cold Brew Concentrate,4,Really good,Great value.,2026-05-09,no,37
+RV-30294,Hand Grinder Pro,4,Really good,Arrived quickly. rich and balanced.,2026-05-09,yes,14
+RV-30056,Cold Brew Concentrate,4,Really good,Beautifully packaged.,2026-05-10,yes,9
+RV-30031,Gift Subscription Box,5,Excellent,My new daily favourite.,2026-05-11,yes,11
+RV-30032,Signature Espresso Blend 1kg,2,Disappointed,Not as described. grinder feels flimsy.,2026-05-11,yes,5
+RV-30057,Single Origin Ethiopia 250g,4,Really good,Rich and balanced. excellent customer service.,2026-05-11,yes,19
+RV-30474,Single Origin Ethiopia 250g,5,Excellent,Arrived quickly.,2026-05-11,yes,27
+RV-30207,Signature Espresso Blend 1kg,1,Would not buy again,Not as described.,2026-05-13,yes,32
+RV-30350,Gift Subscription Box,4,Really good,Beautifully packaged.,2026-05-13,yes,9
+RV-30229,Cold Brew Concentrate,2,Disappointed,Arrived stale. took two weeks to arrive.,2026-05-14,yes,39
+RV-30366,Single Origin Ethiopia 250g,5,Excellent,Rich and balanced. smooth with no bitterness.,2026-05-15,yes,34
+RV-30068,Decaf House Blend 250g,5,Excellent,Smooth with no bitterness.,2026-05-16,yes,11
+RV-30257,Gift Subscription Box,4,Really good,Arrived quickly. my new daily favourite.,2026-05-16,yes,33
+RV-30318,Ceramic Pour-Over Set,4,Really good,Smooth with no bitterness.,2026-05-16,yes,8
+RV-30353,Single Origin Ethiopia 250g,4,Really good,Arrived quickly.,2026-05-17,yes,17
+RV-30087,Hand Grinder Pro,4,Really good,Great value. smooth with no bitterness.,2026-05-19,yes,0
+RV-30142,Signature Espresso Blend 1kg,5,Excellent,Beautifully packaged.,2026-05-19,no,11
+RV-30398,Cold Brew Concentrate,5,Excellent,Excellent customer service.,2026-05-19,yes,23
+RV-30035,Ceramic Pour-Over Set,5,Excellent,Arrived quickly.,2026-05-20,yes,0
+RV-30217,Gift Subscription Box,5,Excellent,Arrived quickly.,2026-05-20,yes,5
+RV-30374,Single Origin Ethiopia 250g,1,Would not buy again,Grinder feels flimsy.,2026-05-20,yes,26
+RV-30471,Decaf House Blend 250g,5,Excellent,My new daily favourite.,2026-05-22,no,20
+RV-30223,Decaf House Blend 250g,1,Would not buy again,Took two weeks to arrive.,2026-05-23,no,37
+RV-30247,Cold Brew Concentrate,4,Really good,Beautifully packaged. rich and balanced.,2026-05-23,yes,4
+RV-30124,Gift Subscription Box,1,Would not buy again,Not as described. packaging was damaged.,2026-05-24,yes,25
+RV-30238,Decaf House Blend 250g,5,Excellent,Arrived quickly. beautifully packaged.,2026-05-25,no,2
+RV-30169,Single Origin Ethiopia 250g,5,Excellent,Rich and balanced. beautifully packaged.,2026-05-26,yes,18
+RV-30174,Decaf House Blend 250g,1,Would not buy again,Over-roasted for my taste. overpriced for the quantity.,2026-05-27,no,20

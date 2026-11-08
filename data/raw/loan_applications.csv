@@ -1,0 +1,801 @@
+application_id,application_date,applicant_age,region,employment_status,annual_income_eur,loan_amount_eur,term_months,existing_monthly_debt_eur,credit_score,debt_to_income,decision,interest_rate_pct,underwriter_note
+LN-40000,2025-09-18,58,Central,full-time,52448,12250,12,227,654,0.286,approved,11.67,Adequate buffer after expenses.
+LN-40001,2025-09-20,56,Harbour,full-time,43100,23145,36,150,796,0.221,approved,11.2,Strong repayment capacity.
+LN-40002,2026-01-27,61,North,full-time,34466,10806,60,332,654,0.178,approved,10.05,Score and affordability within policy.
+LN-40003,2026-03-23,48,Harbour,self-employed,36790,22582,60,447,742,0.269,approved,6.85,Score and affordability within policy.
+LN-40004,2025-11-28,31,North,self-employed,32169,16700,36,410,554,0.326,declined,,DTI above policy threshold.
+LN-40005,2026-03-01,45,North,part-time,23113,2693,12,177,598,0.208,declined,,Recent missed payments on file.
+LN-40006,2025-09-30,52,Central,self-employed,34788,11402,60,170,622,0.124,approved,9.88,Adequate buffer after expenses.
+LN-40007,2025-11-13,40,North,full-time,26901,22030,36,152,595,0.341,declined,,Recent missed payments on file.
+LN-40008,2026-03-17,67,Central,part-time,22981,5537,24,382,850,0.32,approved,10.15,Strong repayment capacity.
+LN-40009,2026-03-23,37,North,full-time,40717,3471,60,188,775,0.072,approved,7.67,Adequate buffer after expenses.
+LN-40010,2025-11-12,28,Central,full-time,26667,13472,12,349,583,0.662,declined,,Affordability below required margin.
+LN-40011,2025-12-10,64,Central,full-time,32477,8206,60,322,694,0.17,approved,7.62,Strong repayment capacity.
+LN-40012,2026-04-29,32,North,unemployed,8200,9742,24,102,713,0.743,declined,,Insufficient credit history.
+LN-40013,2025-09-17,42,North,full-time,45091,13235,60,242,362,0.123,declined,,Recent missed payments on file.
+LN-40014,2026-03-05,31,Harbour,self-employed,45789,12106,48,173,539,0.111,approved,7.15,Adequate buffer after expenses.
+LN-40015,2026-01-05,22,North,full-time,34379,25713,36,86,698,0.279,approved,6.74,Adequate buffer after expenses.
+LN-40016,2025-09-26,60,North,self-employed,38026,16989,60,398,552,0.215,declined,,Recent missed payments on file.
+LN-40017,2025-10-11,48,Central,full-time,42652,18056,48,315,625,0.194,declined,,DTI above policy threshold.
+LN-40018,2026-02-25,63,Harbour,full-time,18155,5483,60,105,667,0.13,approved,8.58,Strong repayment capacity.
+LN-40019,2026-01-14,62,North,self-employed,36354,23459,24,358,700,0.441,approved,9.43,Score and affordability within policy.
+LN-40020,2026-05-25,29,North,self-employed,10251,9824,36,115,591,0.454,declined,,DTI above policy threshold.
+LN-40021,2026-03-22,54,Harbour,full-time,38247,3522,36,192,645,0.091,approved,6.57,Score and affordability within policy.
+LN-40022,2026-03-08,66,Central,full-time,48047,5622,12,188,667,0.164,approved,7.48,Score and affordability within policy.
+LN-40023,2025-11-30,63,Central,part-time,9076,11011,12,190,588,1.464,declined,,Insufficient credit history.
+LN-40024,2026-03-30,54,North,full-time,28868,7393,12,188,735,0.334,approved,7.94,Adequate buffer after expenses.
+LN-40025,2025-12-20,68,Harbour,part-time,16290,15987,12,0,643,0.981,declined,,Recent missed payments on file.
+LN-40026,2025-10-04,66,Central,unemployed,16124,8378,36,0,673,0.173,declined,,Insufficient credit history.
+LN-40027,2026-05-08,28,Central,full-time,21741,8691,36,219,653,0.254,approved,8.66,Strong repayment capacity.
+LN-40028,2026-04-26,57,Central,full-time,44223,14274,36,620,606,0.276,declined,,Recent missed payments on file.
+LN-40029,2025-10-20,57,North,full-time,68280,21053,24,719,672,0.281,approved,4.97,"Stable income, low DTI, clean history."
+LN-40030,2026-03-23,68,North,full-time,21844,2874,36,250,739,0.181,approved,4.97,"Stable income, low DTI, clean history."
+LN-40031,2026-05-22,49,North,part-time,42322,23927,12,344,651,0.663,declined,,Affordability below required margin.
+LN-40032,2025-11-05,65,Central,full-time,38799,26733,36,385,751,0.349,approved,7.14,Adequate buffer after expenses.
+LN-40033,2025-10-03,60,North,full-time,18345,20448,36,199,687,0.502,declined,,Affordability below required margin.
+LN-40034,2026-04-16,32,Central,self-employed,33107,4655,48,478,543,0.208,declined,,Recent missed payments on file.
+LN-40035,2025-09-05,34,North,self-employed,38801,21300,36,188,641,0.241,declined,,DTI above policy threshold.
+LN-40036,2026-03-31,40,Central,part-time,25245,11649,12,156,576,0.536,declined,,DTI above policy threshold.
+LN-40037,2026-05-13,26,Harbour,retired,12959,12211,36,227,658,0.524,declined,,Recent missed payments on file.
+LN-40038,2025-09-26,63,North,full-time,51489,2951,24,207,645,0.077,approved,9.05,Score and affordability within policy.
+LN-40039,2026-05-09,34,North,self-employed,43813,11720,60,318,692,0.141,approved,8.84,Strong repayment capacity.
+LN-40040,2026-03-17,34,North,full-time,57196,16443,48,438,714,0.164,approved,6.74,Strong repayment capacity.
+LN-40041,2026-03-27,38,Harbour,full-time,53105,23721,12,490,731,0.557,declined,,Insufficient credit history.
+LN-40042,2026-02-20,63,Harbour,full-time,26190,9334,36,185,656,0.204,declined,,DTI above policy threshold.
+LN-40043,2026-03-03,46,Harbour,full-time,52431,2473,48,457,702,0.116,approved,10.82,"Stable income, low DTI, clean history."
+LN-40044,2025-12-14,64,North,full-time,19315,23720,12,205,765,1.355,declined,,DTI above policy threshold.
+LN-40045,2026-03-06,68,Central,self-employed,14612,21954,48,118,405,0.473,declined,,Recent missed payments on file.
+LN-40046,2026-03-04,31,Central,part-time,47068,8258,60,576,590,0.182,declined,,Affordability below required margin.
+LN-40047,2025-10-20,40,Central,part-time,43724,20369,12,548,648,0.616,declined,,Recent missed payments on file.
+LN-40048,2025-12-18,41,North,full-time,66841,2459,24,510,609,0.11,declined,,DTI above policy threshold.
+LN-40049,2025-10-09,29,North,part-time,29617,11261,48,290,663,0.213,approved,9.23,Adequate buffer after expenses.
+LN-40050,2025-10-14,44,Central,full-time,46625,3031,24,511,624,0.164,approved,9.98,Strong repayment capacity.
+LN-40051,2026-05-10,51,Central,retired,10354,7475,60,133,706,0.299,approved,11.5,Adequate buffer after expenses.
+LN-40052,2025-12-30,63,North,retired,22829,17210,24,195,505,0.479,declined,,Insufficient credit history.
+LN-40053,2026-02-01,43,Harbour,full-time,25783,10108,48,368,738,0.269,approved,10.54,Strong repayment capacity.
+LN-40054,2025-10-23,52,Harbour,full-time,19986,9064,36,0,628,0.151,declined,,Insufficient credit history.
+LN-40055,2026-03-26,21,Harbour,full-time,22993,17695,12,154,655,0.85,declined,,Affordability below required margin.
+LN-40056,2026-05-08,68,North,unemployed,9635,18707,12,102,618,2.069,approved,5.33,Strong repayment capacity.
+LN-40057,2026-03-12,59,Central,retired,16819,7998,12,29,614,0.496,declined,,Recent missed payments on file.
+LN-40058,2026-05-04,33,Harbour,self-employed,27277,5872,24,422,633,0.293,approved,12.96,Score and affordability within policy.
+LN-40059,2025-12-21,57,Harbour,full-time,48421,28653,48,467,636,0.264,approved,7.9,Score and affordability within policy.
+LN-40060,2026-05-01,52,North,full-time,27251,6560,24,158,709,0.19,approved,9.48,Adequate buffer after expenses.
+LN-40061,2026-04-19,29,Central,full-time,41675,11457,60,202,707,0.113,approved,12.03,Strong repayment capacity.
+LN-40062,2026-03-19,36,Harbour,full-time,51179,23486,60,441,736,0.195,approved,6.52,Score and affordability within policy.
+LN-40063,2026-03-05,48,North,part-time,45796,20229,36,166,638,0.191,approved,9.88,Adequate buffer after expenses.
+LN-40064,2025-12-02,49,North,full-time,22275,7244,60,76,686,0.106,approved,11.39,Adequate buffer after expenses.
+LN-40065,2026-04-16,42,Central,full-time,31901,9110,48,234,634,0.159,approved,7.35,Strong repayment capacity.
+LN-40066,2025-11-04,44,North,self-employed,40907,3513,60,79,704,0.04,approved,9.2,Score and affordability within policy.
+LN-40067,2026-04-13,67,North,part-time,20320,22231,12,160,671,1.189,declined,,DTI above policy threshold.
+LN-40068,2025-10-23,35,North,part-time,31351,12402,24,364,628,0.337,approved,6.23,Strong repayment capacity.
+LN-40069,2026-04-30,29,North,full-time,65444,3329,48,503,706,0.105,approved,6.0,Adequate buffer after expenses.
+LN-40070,2025-09-01,41,Harbour,self-employed,32648,11990,24,250,530,0.276,declined,,Recent missed payments on file.
+LN-40071,2025-12-07,54,Central,full-time,33463,18601,48,41,655,0.154,approved,10.56,Strong repayment capacity.
+LN-40072,2026-05-14,50,Harbour,full-time,65030,8877,60,623,634,0.142,declined,,Recent missed payments on file.
+LN-40073,2026-04-16,53,Harbour,unemployed,2400,3349,12,0,598,1.395,declined,,DTI above policy threshold.
+LN-40074,2025-12-03,66,North,full-time,61959,23916,12,430,654,0.469,declined,,Insufficient credit history.
+LN-40075,2025-10-11,65,Harbour,full-time,31597,4897,24,196,725,0.152,declined,,Affordability below required margin.
+LN-40076,2025-09-18,68,North,full-time,47777,5168,48,451,733,0.14,approved,4.89,Strong repayment capacity.
+LN-40077,2025-12-10,53,Central,full-time,55638,9317,36,480,537,0.159,declined,,Affordability below required margin.
+LN-40078,2025-12-07,68,North,part-time,19138,5740,36,177,746,0.211,approved,4.23,"Stable income, low DTI, clean history."
+LN-40079,2025-12-03,23,Central,full-time,37190,4129,24,207,644,0.122,approved,9.48,"Stable income, low DTI, clean history."
+LN-40080,2026-02-06,51,Harbour,full-time,26325,25567,24,332,829,0.637,declined,,Insufficient credit history.
+LN-40081,2025-12-20,26,North,full-time,59039,4005,48,433,564,0.105,declined,,Affordability below required margin.
+LN-40082,2026-02-20,23,Central,full-time,42329,24250,60,314,735,0.204,approved,8.44,Strong repayment capacity.
+LN-40083,2026-01-27,63,Central,unemployed,8295,9922,36,0,625,0.399,declined,,Affordability below required margin.
+LN-40084,2025-09-14,27,Harbour,full-time,33378,9925,24,106,652,0.187,approved,11.58,"Stable income, low DTI, clean history."
+LN-40085,2025-11-16,61,Central,full-time,35724,8091,24,331,749,0.224,approved,6.89,Strong repayment capacity.
+LN-40086,2025-10-30,23,Central,full-time,36375,6674,12,295,691,0.281,approved,7.01,Score and affordability within policy.
+LN-40087,2025-10-16,46,North,full-time,11868,2913,12,245,718,0.493,declined,,Recent missed payments on file.
+LN-40088,2025-11-06,35,Central,full-time,30704,6544,12,430,707,0.381,approved,4.7,Score and affordability within policy.
+LN-40089,2026-01-02,61,Central,full-time,25263,15737,12,316,625,0.773,declined,,Affordability below required margin.
+LN-40090,2025-12-21,42,Central,full-time,24096,25062,12,0,710,1.04,declined,,Insufficient credit history.
+LN-40091,2026-05-27,46,North,full-time,29198,4608,36,278,483,0.167,declined,,DTI above policy threshold.
+LN-40092,2026-03-25,67,North,full-time,38864,26428,24,121,652,0.377,approved,9.88,Strong repayment capacity.
+LN-40093,2026-01-18,65,North,part-time,54155,20406,12,446,715,0.476,declined,,DTI above policy threshold.
+LN-40094,2026-03-12,65,Harbour,unemployed,3447,27366,48,0,556,1.985,declined,,DTI above policy threshold.
+LN-40095,2026-03-23,28,Central,full-time,14163,15011,48,152,751,0.394,declined,,DTI above policy threshold.
+LN-40096,2025-09-28,47,Harbour,unemployed,17300,5715,60,296,630,0.271,declined,,Affordability below required margin.
+LN-40097,2025-10-26,27,North,full-time,52298,9540,24,376,702,0.177,approved,7.27,Strong repayment capacity.
+LN-40098,2026-05-09,29,Central,part-time,25774,21618,60,236,602,0.278,declined,,Affordability below required margin.
+LN-40099,2025-12-22,38,North,part-time,47012,20512,60,294,601,0.162,declined,,Insufficient credit history.
+LN-40100,2026-02-18,26,Central,self-employed,46217,6951,12,455,643,0.269,approved,5.77,Strong repayment capacity.
+LN-40101,2026-04-01,23,Harbour,full-time,64461,2843,48,514,850,0.107,approved,7.0,Score and affordability within policy.
+LN-40102,2026-01-09,68,Central,self-employed,29952,22714,12,286,754,0.873,declined,,DTI above policy threshold.
+LN-40103,2026-02-14,59,Central,self-employed,8000,4041,24,147,525,0.473,declined,,Recent missed payments on file.
+LN-40104,2026-01-17,68,North,unemployed,12747,3246,48,0,636,0.064,declined,,Affordability below required margin.
+LN-40105,2025-11-13,21,Central,full-time,54609,2628,24,433,729,0.119,approved,4.9,Score and affordability within policy.
+LN-40106,2026-01-18,48,Central,self-employed,36818,3435,36,395,573,0.16,declined,,Affordability below required margin.
+LN-40107,2026-05-20,29,Harbour,part-time,56292,21413,48,407,724,0.182,approved,8.29,"Stable income, low DTI, clean history."
+LN-40108,2026-05-09,38,Central,full-time,35077,4941,24,309,617,0.176,approved,10.64,Score and affordability within policy.
+LN-40109,2026-04-17,54,Harbour,self-employed,39993,4302,48,382,710,0.142,approved,7.68,Strong repayment capacity.
+LN-40110,2026-04-23,67,Central,full-time,43344,16760,12,287,525,0.466,declined,,Recent missed payments on file.
+LN-40111,2026-02-25,39,Central,full-time,20892,13737,60,11,569,0.138,declined,,Recent missed payments on file.
+LN-40112,2025-12-27,61,Harbour,full-time,49074,9635,36,264,632,0.13,declined,,Affordability below required margin.
+LN-40113,2025-10-25,46,Central,unemployed,4672,20011,24,85,666,2.36,declined,,Insufficient credit history.
+LN-40114,2026-05-21,51,Central,full-time,34170,5109,60,319,669,0.142,approved,11.17,"Stable income, low DTI, clean history."
+LN-40115,2025-12-23,22,North,full-time,43196,16906,24,360,703,0.296,declined,,DTI above policy threshold.
+LN-40116,2025-10-19,53,Central,part-time,51294,9456,12,339,709,0.264,approved,11.56,Strong repayment capacity.
+LN-40117,2025-12-03,44,Central,full-time,41191,3432,60,351,644,0.119,approved,8.47,Strong repayment capacity.
+LN-40118,2025-11-14,36,Central,full-time,33039,4820,24,307,685,0.184,approved,9.07,Score and affordability within policy.
+LN-40119,2026-04-01,42,North,self-employed,22758,17171,48,242,651,0.316,approved,6.95,"Stable income, low DTI, clean history."
+LN-40120,2025-09-20,29,North,full-time,46100,11377,60,406,543,0.155,declined,,DTI above policy threshold.
+LN-40121,2026-03-20,57,Harbour,full-time,34457,6988,48,164,643,0.108,approved,6.79,"Stable income, low DTI, clean history."
+LN-40122,2025-12-11,56,Harbour,part-time,39974,11815,48,418,686,0.199,approved,8.27,Adequate buffer after expenses.
+LN-40123,2025-11-30,58,North,part-time,33579,17361,24,318,664,0.372,approved,10.77,Strong repayment capacity.
+LN-40124,2025-10-03,46,Central,full-time,8000,7975,60,0,737,0.199,approved,8.32,Score and affordability within policy.
+LN-40125,2026-04-21,35,North,full-time,8000,3467,24,187,774,0.497,declined,,Insufficient credit history.
+LN-40126,2026-03-08,63,Central,retired,22530,8296,24,216,473,0.299,declined,,Recent missed payments on file.
+LN-40127,2026-01-17,39,North,full-time,23247,14410,36,132,708,0.275,approved,4.88,Score and affordability within policy.
+LN-40128,2026-01-03,48,North,full-time,20129,11369,36,82,774,0.237,approved,6.0,Adequate buffer after expenses.
+LN-40129,2025-10-30,55,Central,full-time,31215,27416,48,423,638,0.382,declined,,Insufficient credit history.
+LN-40130,2026-04-04,49,Central,full-time,52002,23625,60,286,658,0.157,approved,6.81,Adequate buffer after expenses.
+LN-40131,2026-02-15,58,Central,full-time,33072,2500,48,521,692,0.208,approved,12.49,Score and affordability within policy.
+LN-40132,2026-03-17,32,North,unemployed,11502,8218,60,160,724,0.31,declined,,Insufficient credit history.
+LN-40133,2026-05-02,46,Harbour,full-time,74816,2854,36,766,692,0.136,approved,5.42,"Stable income, low DTI, clean history."
+LN-40134,2025-09-15,26,Central,full-time,37192,11684,36,213,789,0.173,approved,8.7,Adequate buffer after expenses.
+LN-40135,2025-11-20,56,North,unemployed,12237,2406,36,0,704,0.066,declined,,Affordability below required margin.
+LN-40136,2026-05-28,47,Harbour,full-time,23238,8954,24,293,654,0.344,declined,,Insufficient credit history.
+LN-40137,2026-04-14,45,Central,full-time,44328,9656,48,468,669,0.181,approved,6.36,Strong repayment capacity.
+LN-40138,2026-02-26,49,North,part-time,22262,2998,24,130,733,0.137,approved,9.16,Strong repayment capacity.
+LN-40139,2026-03-25,31,North,full-time,51999,14787,60,246,536,0.114,declined,,DTI above policy threshold.
+LN-40140,2026-01-28,67,Central,full-time,27443,29571,12,236,703,1.181,declined,,Insufficient credit history.
+LN-40141,2026-04-29,65,Harbour,full-time,37392,9237,48,267,671,0.147,declined,,DTI above policy threshold.
+LN-40142,2026-05-02,66,North,part-time,52711,10388,36,353,717,0.146,declined,,Affordability below required margin.
+LN-40143,2025-10-24,68,Harbour,full-time,27102,3471,12,337,626,0.277,declined,,Recent missed payments on file.
+LN-40144,2026-04-21,34,Central,full-time,39775,5064,12,369,610,0.239,declined,,DTI above policy threshold.
+LN-40145,2026-02-10,31,North,full-time,19369,7904,48,17,779,0.113,approved,3.96,"Stable income, low DTI, clean history."
+LN-40146,2026-02-03,39,Harbour,self-employed,30255,24376,24,66,678,0.429,approved,6.89,Score and affordability within policy.
+LN-40147,2026-05-29,63,Central,self-employed,29560,21221,48,205,720,0.263,approved,7.79,Adequate buffer after expenses.
+LN-40148,2026-05-24,30,North,retired,33332,6804,12,326,684,0.321,approved,7.86,Score and affordability within policy.
+LN-40149,2025-11-15,59,Harbour,full-time,19948,18703,24,186,839,0.581,declined,,Affordability below required margin.
+LN-40150,2025-09-05,25,Harbour,full-time,22956,29254,12,239,786,1.399,declined,,Affordability below required margin.
+LN-40151,2025-12-24,48,North,full-time,26296,22879,12,189,608,0.956,declined,,DTI above policy threshold.
+LN-40152,2026-05-06,62,Central,part-time,32886,16841,12,62,754,0.535,declined,,DTI above policy threshold.
+LN-40153,2026-01-19,55,Central,self-employed,28216,18569,48,379,693,0.326,approved,6.39,"Stable income, low DTI, clean history."
+LN-40154,2026-01-06,27,Central,full-time,41134,7963,48,267,663,0.126,approved,12.76,Strong repayment capacity.
+LN-40155,2025-10-10,48,Central,full-time,45025,3197,60,384,613,0.117,declined,,Insufficient credit history.
+LN-40156,2026-03-23,63,Harbour,self-employed,37578,9547,60,212,663,0.119,declined,,Affordability below required margin.
+LN-40157,2025-09-17,56,Central,full-time,36640,16142,60,207,740,0.156,approved,10.4,Adequate buffer after expenses.
+LN-40158,2025-11-28,59,North,unemployed,11096,7830,24,129,586,0.492,declined,,Insufficient credit history.
+LN-40159,2025-11-30,39,North,unemployed,13362,2508,36,132,643,0.181,declined,,Recent missed payments on file.
+LN-40160,2025-11-16,68,Central,part-time,36503,17981,12,286,547,0.587,declined,,DTI above policy threshold.
+LN-40161,2025-10-12,63,Harbour,full-time,49527,13993,24,461,628,0.253,declined,,Insufficient credit history.
+LN-40162,2025-11-03,32,North,full-time,34620,21667,24,294,587,0.415,declined,,Recent missed payments on file.
+LN-40163,2025-12-06,48,North,full-time,32460,3549,36,351,695,0.166,approved,9.77,Strong repayment capacity.
+LN-40164,2025-09-18,30,North,part-time,35780,6975,12,436,629,0.341,approved,10.08,Score and affordability within policy.
+LN-40165,2026-02-23,49,Central,unemployed,6966,6758,60,0,690,0.194,declined,,Insufficient credit history.
+LN-40166,2026-03-03,24,Harbour,part-time,41566,27935,24,344,825,0.435,approved,3.27,Adequate buffer after expenses.
+LN-40167,2026-02-26,65,Harbour,part-time,25059,9977,60,225,726,0.187,approved,8.15,Strong repayment capacity.
+LN-40168,2025-10-23,50,North,full-time,23750,22279,12,108,691,0.993,declined,,DTI above policy threshold.
+LN-40169,2025-12-01,63,Harbour,full-time,39708,17659,12,436,673,0.576,declined,,DTI above policy threshold.
+LN-40170,2025-12-26,37,Central,part-time,59390,22883,12,431,680,0.472,declined,,Insufficient credit history.
+LN-40171,2025-12-16,31,Harbour,part-time,40735,22492,36,519,556,0.337,declined,,Affordability below required margin.
+LN-40172,2026-04-06,58,Harbour,full-time,8000,8197,48,109,712,0.42,approved,5.37,"Stable income, low DTI, clean history."
+LN-40173,2026-03-10,68,Central,full-time,31571,16432,12,101,562,0.559,declined,,DTI above policy threshold.
+LN-40174,2025-12-11,27,Central,full-time,17356,8685,60,191,531,0.232,declined,,DTI above policy threshold.
+LN-40175,2026-01-15,49,Central,retired,17678,11551,24,95,650,0.391,approved,8.56,Adequate buffer after expenses.
+LN-40176,2026-05-18,46,North,self-employed,32638,24882,12,299,836,0.872,declined,,Affordability below required margin.
+LN-40177,2025-12-28,54,North,full-time,37016,8165,12,204,539,0.287,approved,10.55,Score and affordability within policy.
+LN-40178,2026-05-22,54,Harbour,full-time,54503,13681,48,372,574,0.145,declined,,Affordability below required margin.
+LN-40179,2025-12-20,52,Central,full-time,24329,3590,48,209,623,0.14,approved,11.72,Score and affordability within policy.
+LN-40180,2026-04-09,68,North,self-employed,23331,8243,48,278,699,0.231,approved,9.09,"Stable income, low DTI, clean history."
+LN-40181,2026-01-09,65,North,full-time,63594,13994,24,618,669,0.227,approved,5.72,Score and affordability within policy.
+LN-40182,2025-10-20,64,North,full-time,8000,3328,24,0,547,0.208,declined,,Recent missed payments on file.
+LN-40183,2026-01-17,55,Central,self-employed,35780,2744,36,261,657,0.113,approved,5.7,Score and affordability within policy.
+LN-40184,2025-11-08,49,Harbour,full-time,28619,8975,36,384,790,0.266,approved,7.0,Adequate buffer after expenses.
+LN-40185,2025-11-06,57,Central,full-time,12274,23128,48,202,482,0.669,declined,,DTI above policy threshold.
+LN-40186,2026-02-08,22,Harbour,retired,37345,3145,48,200,547,0.085,declined,,Insufficient credit history.
+LN-40187,2026-01-21,65,Harbour,full-time,27789,12592,60,236,518,0.193,declined,,Affordability below required margin.
+LN-40188,2025-09-18,41,Central,retired,5600,21754,12,180,699,4.27,declined,,Insufficient credit history.
+LN-40189,2026-04-03,41,North,unemployed,6116,18892,12,317,630,3.711,declined,,Affordability below required margin.
+LN-40190,2025-10-07,51,Central,full-time,26026,3275,48,187,692,0.118,approved,6.52,"Stable income, low DTI, clean history."
+LN-40191,2025-09-10,35,Harbour,self-employed,15900,2763,12,33,751,0.199,declined,,Recent missed payments on file.
+LN-40192,2025-09-20,57,North,full-time,41605,7389,36,56,685,0.075,declined,,Affordability below required margin.
+LN-40193,2026-02-27,22,North,full-time,34154,23587,60,141,683,0.188,approved,10.52,Strong repayment capacity.
+LN-40194,2025-09-21,31,North,full-time,51716,12851,36,424,625,0.181,approved,5.73,Score and affordability within policy.
+LN-40195,2025-11-30,65,Central,full-time,38563,2507,60,457,736,0.155,approved,10.66,Adequate buffer after expenses.
+LN-40196,2026-05-13,64,Central,full-time,27912,8325,36,130,664,0.155,declined,,DTI above policy threshold.
+LN-40197,2025-10-22,37,North,full-time,46696,7939,48,587,493,0.193,declined,,Insufficient credit history.
+LN-40198,2026-03-12,61,North,retired,26233,17980,60,439,572,0.338,declined,,Affordability below required margin.
+LN-40199,2026-01-07,27,Central,full-time,38071,7289,60,217,697,0.107,approved,8.57,Score and affordability within policy.
+LN-40200,2026-01-18,64,North,unemployed,7605,20673,12,43,748,2.786,declined,,Insufficient credit history.
+LN-40201,2025-10-18,68,Central,full-time,14414,11734,60,148,617,0.286,declined,,Affordability below required margin.
+LN-40202,2026-01-09,66,Harbour,unemployed,8624,17954,12,212,740,2.377,declined,,Affordability below required margin.
+LN-40203,2026-05-03,46,North,retired,15576,12928,36,0,603,0.277,declined,,DTI above policy threshold.
+LN-40204,2026-01-06,36,Central,part-time,26632,22546,60,100,606,0.214,declined,,Affordability below required margin.
+LN-40205,2026-04-15,38,Harbour,full-time,35779,12597,60,177,683,0.13,approved,9.24,Adequate buffer after expenses.
+LN-40206,2026-03-14,48,Harbour,full-time,29137,3230,12,128,567,0.164,declined,,Insufficient credit history.
+LN-40207,2026-03-01,37,North,part-time,23994,20889,12,0,711,0.871,declined,,DTI above policy threshold.
+LN-40208,2026-05-07,47,Central,full-time,31129,9106,48,246,654,0.168,approved,9.69,Strong repayment capacity.
+LN-40209,2026-04-19,23,Central,self-employed,24372,24453,48,537,531,0.515,declined,,Affordability below required margin.
+LN-40210,2025-09-19,50,Harbour,full-time,79681,16146,12,587,529,0.291,declined,,Affordability below required margin.
+LN-40211,2026-01-15,61,Harbour,part-time,61670,17268,36,411,678,0.173,approved,6.45,Adequate buffer after expenses.
+LN-40212,2026-02-18,68,Central,full-time,31593,19787,48,75,696,0.185,approved,12.31,"Stable income, low DTI, clean history."
+LN-40213,2026-05-02,22,Harbour,unemployed,17840,5560,48,295,815,0.276,declined,,Insufficient credit history.
+LN-40214,2026-03-26,45,Central,part-time,46032,20442,36,287,746,0.223,approved,9.2,Strong repayment capacity.
+LN-40215,2026-01-14,22,North,unemployed,3167,26101,12,44,609,8.408,declined,,Affordability below required margin.
+LN-40216,2025-10-23,55,North,unemployed,3870,7028,36,0,850,0.605,declined,,Recent missed payments on file.
+LN-40217,2025-10-28,48,North,full-time,44183,27809,60,364,724,0.225,approved,12.21,"Stable income, low DTI, clean history."
+LN-40218,2026-02-26,45,North,part-time,31447,26865,24,249,632,0.522,approved,8.29,"Stable income, low DTI, clean history."
+LN-40219,2025-12-10,48,Central,full-time,41261,10499,24,379,748,0.237,declined,,DTI above policy threshold.
+LN-40220,2026-01-21,34,Central,self-employed,42348,4417,48,212,644,0.086,approved,9.65,Score and affordability within policy.
+LN-40221,2025-11-29,60,North,part-time,42338,3236,60,184,526,0.067,declined,,DTI above policy threshold.
+LN-40222,2026-03-02,57,Harbour,full-time,33149,3050,60,366,554,0.151,declined,,Recent missed payments on file.
+LN-40223,2026-03-08,58,North,retired,26923,17160,24,295,568,0.45,declined,,DTI above policy threshold.
+LN-40224,2026-03-02,59,Harbour,retired,17782,6893,60,0,722,0.078,approved,9.69,Strong repayment capacity.
+LN-40225,2025-09-28,64,Central,retired,21169,5059,36,74,720,0.122,approved,6.75,Adequate buffer after expenses.
+LN-40226,2025-09-24,68,North,self-employed,30610,11161,12,12,764,0.369,approved,7.07,Adequate buffer after expenses.
+LN-40227,2026-04-27,42,North,full-time,33475,10469,24,238,811,0.242,approved,8.79,Score and affordability within policy.
+LN-40228,2025-11-27,30,North,part-time,12694,17310,60,151,731,0.415,approved,11.07,"Stable income, low DTI, clean history."
+LN-40229,2025-09-10,54,Harbour,full-time,22256,14925,36,36,661,0.243,declined,,Affordability below required margin.
+LN-40230,2026-05-07,49,North,self-employed,38037,26204,48,158,601,0.222,declined,,Affordability below required margin.
+LN-40231,2025-10-06,35,North,full-time,58483,4036,12,471,784,0.166,declined,,DTI above policy threshold.
+LN-40232,2026-03-22,29,Central,self-employed,34087,8224,24,467,584,0.285,declined,,Affordability below required margin.
+LN-40233,2026-05-20,35,Harbour,full-time,41044,3098,36,353,687,0.128,approved,11.69,Adequate buffer after expenses.
+LN-40234,2026-01-19,40,North,full-time,38424,22188,12,562,616,0.753,declined,,Recent missed payments on file.
+LN-40235,2025-12-19,57,North,unemployed,3868,9437,12,174,379,2.98,approved,15.26,Strong repayment capacity.
+LN-40236,2025-10-10,50,North,self-employed,14300,2500,12,139,794,0.291,approved,4.93,Score and affordability within policy.
+LN-40237,2026-01-17,56,Central,full-time,50644,21592,36,423,660,0.242,approved,9.09,Adequate buffer after expenses.
+LN-40238,2025-10-13,65,Central,unemployed,19024,9136,36,245,660,0.315,approved,7.11,Strong repayment capacity.
+LN-40239,2025-10-28,25,Harbour,self-employed,51507,3592,12,534,640,0.194,approved,7.04,"Stable income, low DTI, clean history."
+LN-40240,2026-01-19,57,Harbour,part-time,64398,26271,12,374,682,0.478,declined,,Insufficient credit history.
+LN-40241,2026-04-30,52,Harbour,part-time,26990,8198,36,218,754,0.198,approved,6.97,Adequate buffer after expenses.
+LN-40242,2025-10-27,43,North,full-time,40075,8822,48,443,607,0.188,declined,,Recent missed payments on file.
+LN-40243,2026-03-15,67,Central,full-time,28095,9215,60,346,776,0.213,approved,4.67,"Stable income, low DTI, clean history."
+LN-40244,2026-05-10,24,North,part-time,51140,22285,36,375,603,0.233,declined,,Recent missed payments on file.
+LN-40245,2025-11-10,68,Central,self-employed,46894,9240,36,377,725,0.162,approved,11.5,Adequate buffer after expenses.
+LN-40246,2026-02-16,60,Harbour,full-time,42738,26291,60,452,539,0.25,declined,,DTI above policy threshold.
+LN-40247,2026-01-29,28,North,part-time,28753,19320,24,162,692,0.404,approved,12.53,"Stable income, low DTI, clean history."
+LN-40248,2025-09-06,30,North,full-time,18700,6879,12,100,586,0.432,declined,,Recent missed payments on file.
+LN-40249,2026-03-20,23,Central,full-time,38630,7103,36,260,638,0.142,approved,9.89,Strong repayment capacity.
+LN-40250,2026-02-26,47,Central,part-time,31256,11133,36,316,798,0.24,approved,4.16,Strong repayment capacity.
+LN-40251,2026-03-08,28,Central,full-time,39871,2406,48,462,606,0.154,declined,,Affordability below required margin.
+LN-40252,2025-12-29,44,Central,full-time,11714,11196,48,0,621,0.239,approved,11.1,Score and affordability within policy.
+LN-40253,2026-05-07,40,Central,full-time,37251,4021,60,326,622,0.127,approved,12.9,Adequate buffer after expenses.
+LN-40254,2026-02-24,55,North,full-time,48643,8912,12,172,755,0.226,approved,9.45,"Stable income, low DTI, clean history."
+LN-40255,2025-10-17,58,Central,full-time,21116,8601,48,0,576,0.102,declined,,DTI above policy threshold.
+LN-40256,2026-05-10,32,Central,full-time,34839,3038,48,75,671,0.048,approved,5.1,Adequate buffer after expenses.
+LN-40257,2026-04-23,63,North,full-time,35360,11499,24,255,532,0.249,declined,,Insufficient credit history.
+LN-40258,2026-03-31,24,North,full-time,27220,12633,12,322,527,0.606,declined,,Recent missed payments on file.
+LN-40259,2025-09-28,30,Harbour,full-time,52901,29682,60,613,519,0.251,declined,,Recent missed payments on file.
+LN-40260,2026-03-18,29,Central,full-time,44851,5852,12,263,623,0.201,approved,8.15,"Stable income, low DTI, clean history."
+LN-40261,2025-10-20,60,North,part-time,28050,16804,48,327,525,0.29,declined,,Recent missed payments on file.
+LN-40262,2026-01-02,55,Harbour,part-time,32367,3578,12,328,594,0.232,declined,,Affordability below required margin.
+LN-40263,2025-09-01,66,Central,self-employed,38763,5909,12,315,688,0.25,approved,7.13,Strong repayment capacity.
+LN-40264,2026-01-24,66,Central,part-time,49652,2860,60,371,738,0.101,approved,9.11,"Stable income, low DTI, clean history."
+LN-40265,2026-05-09,39,Central,part-time,17832,3162,36,145,511,0.157,approved,10.15,Score and affordability within policy.
+LN-40266,2025-10-31,62,Central,full-time,42570,6763,24,251,850,0.15,declined,,DTI above policy threshold.
+LN-40267,2026-05-07,60,Central,retired,24447,9313,48,241,756,0.214,approved,8.28,Score and affordability within policy.
+LN-40268,2025-10-08,40,North,full-time,40350,2933,36,427,639,0.151,approved,6.23,Adequate buffer after expenses.
+LN-40269,2026-02-24,41,Harbour,unemployed,12658,2626,24,104,692,0.202,declined,,Recent missed payments on file.
+LN-40270,2026-01-27,21,Central,full-time,53431,16962,60,427,637,0.159,declined,,DTI above policy threshold.
+LN-40271,2026-02-17,27,North,retired,20646,20032,36,148,642,0.409,approved,12.9,"Stable income, low DTI, clean history."
+LN-40272,2026-04-18,48,Central,unemployed,11949,4945,60,309,744,0.393,declined,,Affordability below required margin.
+LN-40273,2026-03-12,35,Central,self-employed,53124,4084,24,408,615,0.131,declined,,DTI above policy threshold.
+LN-40274,2026-02-08,24,North,full-time,39646,4603,12,210,675,0.18,approved,9.68,Score and affordability within policy.
+LN-40275,2026-04-07,55,Harbour,full-time,43087,5787,48,145,583,0.074,declined,,Insufficient credit history.
+LN-40276,2026-03-08,43,Central,full-time,17510,8617,60,0,724,0.098,approved,8.68,"Stable income, low DTI, clean history."
+LN-40277,2026-04-18,23,Central,part-time,32221,3499,48,204,525,0.103,declined,,DTI above policy threshold.
+LN-40278,2026-01-02,60,Central,full-time,25461,22077,24,258,680,0.555,declined,,Insufficient credit history.
+LN-40279,2026-05-12,35,Central,full-time,44785,22393,60,217,749,0.158,approved,8.89,Score and affordability within policy.
+LN-40280,2026-03-19,22,North,full-time,25053,17501,48,401,598,0.367,approved,9.52,Score and affordability within policy.
+LN-40281,2026-05-07,23,Central,full-time,39151,10934,60,215,701,0.122,approved,4.72,Score and affordability within policy.
+LN-40282,2026-01-29,33,Central,self-employed,39896,4402,12,8,641,0.113,approved,13.04,Score and affordability within policy.
+LN-40283,2025-12-06,50,Central,part-time,32653,9447,60,229,584,0.142,declined,,Recent missed payments on file.
+LN-40284,2026-05-17,46,Central,unemployed,8237,16544,48,0,559,0.502,approved,8.94,Strong repayment capacity.
+LN-40285,2026-03-13,64,Harbour,full-time,28959,4972,12,150,808,0.234,approved,7.77,Adequate buffer after expenses.
+LN-40286,2025-09-05,41,Central,full-time,28697,10387,24,225,634,0.275,approved,11.45,Strong repayment capacity.
+LN-40287,2026-01-11,34,North,part-time,29258,13272,60,217,550,0.18,declined,,Affordability below required margin.
+LN-40288,2026-02-10,37,Harbour,retired,20992,27983,36,163,739,0.538,declined,,Recent missed payments on file.
+LN-40289,2026-04-05,55,North,part-time,23602,21075,48,247,673,0.349,approved,12.74,"Stable income, low DTI, clean history."
+LN-40290,2026-05-14,66,Central,self-employed,30372,20846,60,353,539,0.277,declined,,DTI above policy threshold.
+LN-40291,2026-04-13,67,Central,self-employed,37120,4890,24,461,606,0.215,declined,,Insufficient credit history.
+LN-40292,2025-12-30,27,North,self-employed,46083,2744,12,279,560,0.132,declined,,DTI above policy threshold.
+LN-40293,2026-01-17,61,Central,full-time,64127,2740,24,594,653,0.133,approved,7.68,Score and affordability within policy.
+LN-40294,2026-03-29,51,Central,full-time,32197,21112,60,179,690,0.198,approved,7.41,Strong repayment capacity.
+LN-40295,2026-02-18,48,North,full-time,42429,20140,48,165,643,0.165,approved,12.25,"Stable income, low DTI, clean history."
+LN-40296,2026-02-09,49,Central,full-time,28730,16187,60,278,579,0.229,declined,,Insufficient credit history.
+LN-40297,2025-11-22,42,Central,full-time,11075,7469,48,31,688,0.202,approved,9.48,Strong repayment capacity.
+LN-40298,2026-03-28,29,Harbour,full-time,30877,16187,36,233,721,0.265,approved,5.6,Score and affordability within policy.
+LN-40299,2025-11-10,63,Central,full-time,33253,5232,24,366,557,0.211,declined,,Recent missed payments on file.
+LN-40300,2026-03-25,30,North,unemployed,5813,8746,48,114,839,0.611,declined,,Affordability below required margin.
+LN-40301,2026-03-30,44,Central,part-time,9204,3071,36,129,770,0.279,approved,6.24,Score and affordability within policy.
+LN-40302,2026-04-11,30,Central,part-time,48118,3275,24,404,696,0.135,approved,7.66,"Stable income, low DTI, clean history."
+LN-40303,2026-02-13,25,North,self-employed,21008,17442,12,336,664,1.022,declined,,Affordability below required margin.
+LN-40304,2026-01-31,40,North,full-time,33268,2969,60,244,766,0.106,approved,9.72,Strong repayment capacity.
+LN-40305,2025-12-11,62,Central,self-employed,13888,3493,36,195,774,0.252,approved,9.16,Strong repayment capacity.
+LN-40306,2025-10-04,24,Central,retired,29322,9494,48,347,625,0.223,approved,5.72,Strong repayment capacity.
+LN-40307,2026-01-17,28,Harbour,full-time,31195,23302,12,187,602,0.819,declined,,Recent missed payments on file.
+LN-40308,2026-04-09,32,North,full-time,12317,4620,60,204,577,0.274,declined,,Insufficient credit history.
+LN-40309,2025-10-11,64,Central,full-time,15111,23198,24,71,823,0.824,declined,,Affordability below required margin.
+LN-40310,2026-02-10,26,Harbour,full-time,12271,7015,60,92,568,0.204,declined,,Recent missed payments on file.
+LN-40311,2025-12-26,57,Harbour,full-time,30161,8715,36,304,627,0.217,declined,,Insufficient credit history.
+LN-40312,2026-04-23,24,Harbour,full-time,43933,4040,24,321,473,0.134,declined,,Recent missed payments on file.
+LN-40313,2026-01-23,66,North,part-time,8000,7127,24,0,621,0.445,approved,9.49,Strong repayment capacity.
+LN-40314,2026-01-30,66,North,retired,42611,4523,48,183,626,0.078,approved,11.54,Score and affordability within policy.
+LN-40315,2026-01-28,27,Central,full-time,8000,10511,12,226,674,1.653,declined,,Affordability below required margin.
+LN-40316,2026-04-29,32,Central,full-time,29316,18077,12,225,688,0.709,declined,,Affordability below required margin.
+LN-40317,2026-03-05,24,Harbour,self-employed,39269,4568,60,426,691,0.153,approved,9.1,"Stable income, low DTI, clean history."
+LN-40318,2026-01-14,54,Central,full-time,28352,9401,12,135,510,0.389,declined,,Insufficient credit history.
+LN-40319,2026-02-16,38,North,self-employed,8000,16214,12,0,719,2.027,declined,,Insufficient credit history.
+LN-40320,2025-11-19,60,Central,full-time,49919,26558,36,354,729,0.262,approved,5.88,"Stable income, low DTI, clean history."
+LN-40321,2026-01-10,54,North,part-time,18766,20713,48,131,702,0.36,approved,8.57,Adequate buffer after expenses.
+LN-40322,2025-09-11,37,Central,retired,16941,10542,48,138,686,0.253,approved,8.19,Adequate buffer after expenses.
+LN-40323,2025-11-06,61,Central,full-time,35552,17738,48,66,764,0.147,approved,10.85,Score and affordability within policy.
+LN-40324,2026-04-14,48,North,full-time,49816,12315,48,378,752,0.153,approved,9.92,Score and affordability within policy.
+LN-40325,2026-03-19,59,Harbour,full-time,38188,18630,24,196,583,0.306,declined,,Insufficient credit history.
+LN-40326,2026-04-20,57,Harbour,self-employed,30478,3439,60,345,605,0.158,declined,,Affordability below required margin.
+LN-40327,2025-11-24,66,Harbour,full-time,31193,4799,24,258,644,0.176,approved,5.9,Adequate buffer after expenses.
+LN-40328,2025-10-07,51,Harbour,full-time,42311,11830,36,137,578,0.132,declined,,Insufficient credit history.
+LN-40329,2025-10-03,62,Central,unemployed,4853,4142,24,0,545,0.427,declined,,Recent missed payments on file.
+LN-40330,2026-05-14,60,Harbour,self-employed,42676,16404,12,265,706,0.459,declined,,Insufficient credit history.
+LN-40331,2025-09-03,54,Central,part-time,10177,25630,60,0,542,0.504,declined,,DTI above policy threshold.
+LN-40332,2026-05-12,43,North,full-time,26323,16427,48,347,698,0.314,declined,,Insufficient credit history.
+LN-40333,2026-01-25,45,Harbour,full-time,52105,20450,60,585,592,0.213,declined,,Recent missed payments on file.
+LN-40334,2025-12-15,64,Harbour,full-time,39388,16057,48,439,645,0.236,declined,,Affordability below required margin.
+LN-40335,2026-01-07,55,Central,self-employed,39508,2933,48,173,581,0.071,declined,,Affordability below required margin.
+LN-40336,2025-11-30,62,Central,self-employed,39726,14253,36,177,611,0.173,declined,,Recent missed payments on file.
+LN-40337,2026-04-17,61,North,full-time,53326,6420,60,624,619,0.164,declined,,Recent missed payments on file.
+LN-40338,2026-02-26,63,North,full-time,40116,19312,36,265,746,0.24,approved,4.92,Score and affordability within policy.
+LN-40339,2026-05-03,26,Central,full-time,34528,3525,12,214,589,0.176,declined,,DTI above policy threshold.
+LN-40340,2025-09-05,43,Central,full-time,40420,11805,12,234,553,0.362,declined,,Recent missed payments on file.
+LN-40341,2026-02-23,26,Central,full-time,16731,7150,12,140,656,0.528,declined,,Affordability below required margin.
+LN-40342,2026-05-03,50,North,full-time,15503,27697,48,297,602,0.677,declined,,Insufficient credit history.
+LN-40343,2026-01-02,51,Harbour,full-time,45766,2805,48,216,646,0.072,declined,,Insufficient credit history.
+LN-40344,2026-02-19,36,North,self-employed,45440,17486,36,298,626,0.207,approved,11.94,Strong repayment capacity.
+LN-40345,2025-09-01,35,Harbour,unemployed,4483,5672,12,0,784,1.265,declined,,Insufficient credit history.
+LN-40346,2025-09-26,52,Central,full-time,45277,13214,60,298,685,0.137,approved,5.1,"Stable income, low DTI, clean history."
+LN-40347,2026-04-15,48,North,full-time,21112,2664,48,322,697,0.215,approved,5.49,Strong repayment capacity.
+LN-40348,2026-01-17,59,Central,full-time,8000,9772,60,0,731,0.244,declined,,Recent missed payments on file.
+LN-40349,2026-04-29,60,Central,full-time,28107,4299,60,262,754,0.142,approved,8.29,Adequate buffer after expenses.
+LN-40350,2025-11-30,49,Harbour,full-time,40713,22167,36,300,491,0.27,declined,,Recent missed payments on file.
+LN-40351,2026-02-14,49,Harbour,unemployed,2400,5877,24,228,670,2.364,approved,10.5,"Stable income, low DTI, clean history."
+LN-40352,2025-10-04,37,Central,full-time,36503,29942,24,302,541,0.509,declined,,DTI above policy threshold.
+LN-40353,2026-02-05,41,North,self-employed,52335,17802,36,506,665,0.229,approved,12.43,Strong repayment capacity.
+LN-40354,2025-10-25,59,Central,self-employed,36641,4898,48,249,667,0.115,approved,9.95,Score and affordability within policy.
+LN-40355,2026-03-06,44,Harbour,full-time,29415,4938,60,318,689,0.163,approved,11.25,"Stable income, low DTI, clean history."
+LN-40356,2026-01-13,27,Central,full-time,35386,20234,36,512,747,0.364,approved,9.9,Adequate buffer after expenses.
+LN-40357,2026-05-12,24,Central,part-time,23208,12389,12,126,625,0.599,declined,,Insufficient credit history.
+LN-40358,2026-05-15,56,Central,full-time,47018,3146,24,265,519,0.101,declined,,DTI above policy threshold.
+LN-40359,2026-04-07,48,Harbour,full-time,44830,11307,60,648,749,0.224,approved,10.89,Strong repayment capacity.
+LN-40360,2026-02-23,67,North,full-time,35234,26093,24,111,740,0.408,approved,4.5,"Stable income, low DTI, clean history."
+LN-40361,2026-05-06,68,Central,retired,21937,12921,12,177,775,0.686,declined,,Affordability below required margin.
+LN-40362,2025-12-01,32,North,full-time,35135,6606,60,371,683,0.164,approved,9.14,Strong repayment capacity.
+LN-40363,2026-05-18,30,Central,part-time,29372,23439,48,218,850,0.289,approved,7.72,Adequate buffer after expenses.
+LN-40364,2026-04-15,34,North,full-time,30838,2563,48,237,666,0.113,approved,5.91,Score and affordability within policy.
+LN-40365,2026-03-09,52,Central,full-time,44855,13964,36,416,621,0.215,approved,7.17,Adequate buffer after expenses.
+LN-40366,2025-10-22,37,North,full-time,25384,5045,12,193,711,0.29,approved,8.21,Adequate buffer after expenses.
+LN-40367,2025-11-20,64,Harbour,self-employed,42152,2652,60,360,584,0.115,declined,,Insufficient credit history.
+LN-40368,2025-11-15,34,Central,full-time,34976,4234,36,127,777,0.084,approved,11.58,Score and affordability within policy.
+LN-40369,2026-04-12,38,North,part-time,18502,3286,60,38,766,0.06,approved,10.93,Adequate buffer after expenses.
+LN-40370,2026-05-24,31,Central,full-time,44243,2904,36,292,704,0.101,approved,8.65,Adequate buffer after expenses.
+LN-40371,2025-12-02,31,Central,full-time,24260,11431,60,265,725,0.225,approved,7.03,Strong repayment capacity.
+LN-40372,2025-09-10,57,North,self-employed,11219,21572,36,154,793,0.806,declined,,Recent missed payments on file.
+LN-40373,2026-04-24,54,North,full-time,8714,5652,24,0,726,0.324,approved,9.56,Strong repayment capacity.
+LN-40374,2026-01-25,44,Harbour,full-time,15316,23529,12,297,715,1.769,declined,,DTI above policy threshold.
+LN-40375,2026-04-14,49,Central,full-time,33278,11404,60,97,652,0.104,approved,8.88,Score and affordability within policy.
+LN-40376,2025-11-30,58,Central,full-time,8000,23768,36,29,660,1.034,declined,,DTI above policy threshold.
+LN-40377,2026-05-08,66,North,self-employed,42935,5968,60,184,755,0.079,approved,9.93,Score and affordability within policy.
+LN-40378,2026-03-28,45,North,full-time,48833,8618,24,517,717,0.215,approved,5.97,Adequate buffer after expenses.
+LN-40379,2025-09-23,37,Central,self-employed,48350,5176,48,507,727,0.153,approved,8.7,Strong repayment capacity.
+LN-40380,2025-11-12,67,Central,part-time,22994,7487,12,57,771,0.355,approved,7.94,Score and affordability within policy.
+LN-40381,2025-10-25,25,North,retired,19463,17999,48,346,671,0.445,approved,7.78,Strong repayment capacity.
+LN-40382,2026-02-01,24,North,part-time,25184,13998,48,125,719,0.199,declined,,Recent missed payments on file.
+LN-40383,2025-09-16,25,North,full-time,27652,15172,60,45,589,0.129,approved,13.34,Strong repayment capacity.
+LN-40384,2026-05-20,54,North,unemployed,12121,16467,24,102,654,0.78,declined,,Recent missed payments on file.
+LN-40385,2025-10-28,22,Central,full-time,30939,15974,36,243,796,0.266,approved,10.2,Score and affordability within policy.
+LN-40386,2026-05-17,33,North,self-employed,30328,11414,24,116,751,0.234,approved,11.53,"Stable income, low DTI, clean history."
+LN-40387,2026-02-16,24,Harbour,full-time,15586,8634,12,175,433,0.689,declined,,Recent missed payments on file.
+LN-40388,2026-04-25,45,Central,self-employed,41934,16555,12,486,749,0.534,declined,,Affordability below required margin.
+LN-40389,2026-02-06,31,Central,self-employed,40859,23125,12,562,804,0.731,declined,,Recent missed payments on file.
+LN-40390,2025-11-11,45,North,full-time,31396,2987,12,209,533,0.175,declined,,Insufficient credit history.
+LN-40391,2025-10-30,52,Harbour,full-time,41526,12551,12,184,637,0.355,approved,5.32,Adequate buffer after expenses.
+LN-40392,2025-09-10,45,North,self-employed,40970,17329,12,446,733,0.554,declined,,DTI above policy threshold.
+LN-40393,2025-10-09,25,Central,part-time,34781,5515,12,326,818,0.271,approved,4.88,"Stable income, low DTI, clean history."
+LN-40394,2026-03-18,34,Central,retired,32300,23098,12,478,694,0.893,declined,,Affordability below required margin.
+LN-40395,2026-03-06,60,North,self-employed,23489,5631,12,324,623,0.405,approved,6.52,Adequate buffer after expenses.
+LN-40396,2026-03-25,24,Central,part-time,19837,28960,36,124,687,0.562,declined,,DTI above policy threshold.
+LN-40397,2025-10-09,66,North,full-time,69285,2442,60,538,847,0.1,approved,3.31,Adequate buffer after expenses.
+LN-40398,2026-01-29,67,Harbour,full-time,35299,14374,24,355,810,0.324,approved,10.89,Score and affordability within policy.
+LN-40399,2025-09-26,21,Central,full-time,43505,22015,60,277,598,0.178,declined,,Insufficient credit history.
+LN-40400,2025-09-15,35,Central,full-time,68716,7937,24,535,666,0.151,approved,8.87,"Stable income, low DTI, clean history."
+LN-40401,2026-01-16,56,North,full-time,40361,19017,36,518,694,0.311,approved,6.49,"Stable income, low DTI, clean history."
+LN-40402,2026-03-18,46,North,retired,25179,8859,36,125,710,0.177,approved,10.21,Adequate buffer after expenses.
+LN-40403,2026-02-26,68,North,full-time,24190,3002,60,284,667,0.166,declined,,Recent missed payments on file.
+LN-40404,2025-11-01,27,Central,full-time,22654,3411,12,114,741,0.211,declined,,Affordability below required margin.
+LN-40405,2026-03-20,68,Central,full-time,14852,29036,48,0,552,0.489,declined,,DTI above policy threshold.
+LN-40406,2025-11-24,62,North,full-time,23048,9573,60,82,626,0.126,approved,11.19,Strong repayment capacity.
+LN-40407,2026-03-16,21,North,full-time,22550,29698,60,236,655,0.389,declined,,Insufficient credit history.
+LN-40408,2026-01-30,64,North,full-time,25634,7332,24,283,638,0.275,approved,6.04,Strong repayment capacity.
+LN-40409,2026-04-07,42,North,self-employed,12276,8257,36,255,669,0.473,approved,5.97,"Stable income, low DTI, clean history."
+LN-40410,2025-09-20,67,Central,full-time,38068,6832,48,415,619,0.176,declined,,DTI above policy threshold.
+LN-40411,2025-09-22,60,North,full-time,16625,4522,12,101,628,0.345,approved,10.54,Strong repayment capacity.
+LN-40412,2025-10-12,30,Harbour,full-time,27649,3341,12,252,697,0.23,approved,11.79,Score and affordability within policy.
+LN-40413,2026-05-10,33,North,full-time,45545,8745,24,128,610,0.13,declined,,DTI above policy threshold.
+LN-40414,2026-04-17,44,North,full-time,8000,10456,36,279,668,0.854,declined,,DTI above policy threshold.
+LN-40415,2026-04-05,33,Central,full-time,23036,26109,48,0,542,0.283,approved,13.42,Score and affordability within policy.
+LN-40416,2026-03-12,62,Central,full-time,41249,3337,48,324,645,0.114,approved,12.59,Strong repayment capacity.
+LN-40417,2026-01-05,37,Central,self-employed,45024,8678,12,120,598,0.225,approved,10.96,Adequate buffer after expenses.
+LN-40418,2026-02-19,57,Central,full-time,31564,15473,24,267,619,0.347,declined,,Affordability below required margin.
+LN-40419,2026-02-20,27,North,full-time,33350,21531,36,334,706,0.335,approved,9.82,Strong repayment capacity.
+LN-40420,2026-02-21,57,North,self-employed,53258,28543,12,603,669,0.672,declined,,DTI above policy threshold.
+LN-40421,2025-10-24,33,North,full-time,25175,5779,60,215,686,0.148,approved,8.86,"Stable income, low DTI, clean history."
+LN-40422,2025-09-07,68,Central,full-time,38864,21509,12,168,559,0.605,declined,,Affordability below required margin.
+LN-40423,2025-09-13,52,Harbour,part-time,24085,3122,48,129,829,0.097,approved,10.7,Adequate buffer after expenses.
+LN-40424,2026-02-10,48,Central,retired,30076,14727,48,319,560,0.25,declined,,DTI above policy threshold.
+LN-40425,2026-03-29,68,Harbour,full-time,37235,10433,60,454,602,0.202,declined,,Insufficient credit history.
+LN-40426,2026-02-15,35,North,full-time,39442,4978,12,410,717,0.251,approved,8.9,"Stable income, low DTI, clean history."
+LN-40427,2026-05-24,47,Central,full-time,59935,29756,36,580,682,0.282,approved,11.82,Strong repayment capacity.
+LN-40428,2025-10-23,62,Harbour,full-time,19274,11242,60,93,757,0.175,approved,11.39,"Stable income, low DTI, clean history."
+LN-40429,2026-01-06,51,Central,full-time,44182,6995,24,288,686,0.157,approved,9.93,Strong repayment capacity.
+LN-40430,2025-11-13,55,North,full-time,74810,4574,24,802,593,0.159,declined,,Recent missed payments on file.
+LN-40431,2026-02-24,47,North,full-time,51375,7876,24,508,668,0.195,approved,8.67,Score and affordability within policy.
+LN-40432,2026-05-21,40,North,self-employed,28211,11483,48,334,850,0.244,approved,3.78,Strong repayment capacity.
+LN-40433,2025-12-24,55,North,full-time,9662,8925,12,321,673,1.322,declined,,Affordability below required margin.
+LN-40434,2026-01-14,56,North,full-time,21215,16414,12,143,517,0.855,approved,10.57,"Stable income, low DTI, clean history."
+LN-40435,2026-04-10,25,Central,part-time,51022,29498,24,368,850,0.376,approved,4.48,Score and affordability within policy.
+LN-40436,2025-12-09,25,Central,full-time,10962,25451,24,282,667,1.47,declined,,Affordability below required margin.
+LN-40437,2025-09-04,65,North,full-time,19123,11643,24,91,631,0.362,approved,5.25,Adequate buffer after expenses.
+LN-40438,2025-12-04,62,North,self-employed,18565,4554,12,0,614,0.245,declined,,Affordability below required margin.
+LN-40439,2025-11-22,67,Central,part-time,22284,10219,12,210,715,0.572,declined,,Insufficient credit history.
+LN-40440,2025-11-29,61,Central,part-time,17294,7505,24,89,632,0.279,approved,9.46,"Stable income, low DTI, clean history."
+LN-40441,2026-03-26,26,North,full-time,26455,8205,24,224,728,0.257,approved,8.01,Strong repayment capacity.
+LN-40442,2026-04-02,21,North,full-time,32054,4827,36,255,629,0.146,approved,5.45,"Stable income, low DTI, clean history."
+LN-40443,2025-09-30,51,Central,full-time,32968,16015,48,209,624,0.198,approved,7.89,Score and affordability within policy.
+LN-40444,2026-01-04,56,Harbour,retired,28378,23639,12,32,644,0.847,declined,,Affordability below required margin.
+LN-40445,2025-10-14,47,Central,self-employed,52038,5892,24,503,672,0.173,approved,8.87,"Stable income, low DTI, clean history."
+LN-40446,2026-01-22,42,Central,unemployed,13785,4462,12,0,692,0.324,declined,,DTI above policy threshold.
+LN-40447,2026-01-29,45,Central,retired,14939,8652,12,214,576,0.751,declined,,Affordability below required margin.
+LN-40448,2025-12-19,49,North,retired,25569,13209,48,188,729,0.217,approved,6.85,Score and affordability within policy.
+LN-40449,2026-04-24,49,Central,retired,32710,10810,48,466,595,0.254,declined,,Recent missed payments on file.
+LN-40450,2026-04-07,47,North,full-time,34976,21492,12,126,637,0.658,declined,,DTI above policy threshold.
+LN-40451,2026-01-05,44,Central,full-time,20219,19303,60,167,716,0.29,approved,7.58,Score and affordability within policy.
+LN-40452,2025-11-10,51,Central,self-employed,28873,25072,36,266,676,0.4,approved,8.71,Adequate buffer after expenses.
+LN-40453,2026-04-14,65,Central,retired,34857,13402,12,113,633,0.423,approved,12.47,Score and affordability within policy.
+LN-40454,2026-03-19,39,North,self-employed,41486,17320,48,301,701,0.191,approved,4.52,Adequate buffer after expenses.
+LN-40455,2026-03-23,52,Central,full-time,35730,11248,24,141,564,0.205,declined,,DTI above policy threshold.
+LN-40456,2026-02-03,27,Central,retired,14467,21618,36,167,811,0.637,declined,,DTI above policy threshold.
+LN-40457,2025-09-08,34,Central,full-time,34425,4874,60,419,623,0.174,approved,7.82,"Stable income, low DTI, clean history."
+LN-40458,2025-09-17,54,Central,self-employed,19885,3439,60,59,697,0.07,approved,6.41,Adequate buffer after expenses.
+LN-40459,2026-03-06,31,Central,self-employed,57861,13745,36,518,642,0.187,approved,8.07,Adequate buffer after expenses.
+LN-40460,2025-10-01,41,Central,full-time,35868,3567,48,365,595,0.147,declined,,Recent missed payments on file.
+LN-40461,2026-03-14,42,Harbour,full-time,13465,16302,36,228,729,0.607,approved,4.44,Strong repayment capacity.
+LN-40462,2026-01-29,28,Central,retired,22125,7019,12,144,584,0.395,declined,,Insufficient credit history.
+LN-40463,2026-04-20,39,Central,full-time,39216,10809,12,227,655,0.345,approved,10.47,Strong repayment capacity.
+LN-40464,2026-05-27,42,Central,self-employed,24949,2861,24,299,624,0.201,approved,8.24,Score and affordability within policy.
+LN-40465,2026-05-22,55,North,part-time,88371,16226,48,637,618,0.132,approved,10.95,"Stable income, low DTI, clean history."
+LN-40466,2025-11-10,50,Central,full-time,40520,16157,48,350,847,0.203,approved,5.11,"Stable income, low DTI, clean history."
+LN-40467,2025-09-12,68,North,unemployed,9029,5733,60,142,676,0.316,declined,,Insufficient credit history.
+LN-40468,2025-09-21,59,Central,full-time,41142,17306,24,620,635,0.391,approved,11.8,"Stable income, low DTI, clean history."
+LN-40469,2026-04-03,51,North,full-time,60936,28519,60,225,677,0.138,declined,,Insufficient credit history.
+LN-40470,2026-05-07,43,Central,full-time,40940,21448,12,517,685,0.675,declined,,Recent missed payments on file.
+LN-40471,2026-01-17,50,Central,full-time,32993,10424,60,179,564,0.128,declined,,Insufficient credit history.
+LN-40472,2026-02-19,59,North,full-time,46858,7450,48,450,625,0.155,approved,11.95,Adequate buffer after expenses.
+LN-40473,2026-03-13,37,Central,unemployed,9154,16229,36,142,628,0.777,declined,,Insufficient credit history.
+LN-40474,2025-09-05,58,Central,part-time,43870,9547,36,341,670,0.166,approved,9.63,Strong repayment capacity.
+LN-40475,2026-02-13,54,Central,full-time,17107,5129,12,242,654,0.47,declined,,Insufficient credit history.
+LN-40476,2026-02-01,58,North,self-employed,20265,18251,36,53,655,0.332,approved,8.57,Adequate buffer after expenses.
+LN-40477,2026-01-20,38,North,full-time,45295,14471,12,303,623,0.4,approved,6.57,Strong repayment capacity.
+LN-40478,2025-12-26,24,Central,retired,28907,3517,48,176,677,0.103,approved,12.58,"Stable income, low DTI, clean history."
+LN-40479,2026-04-24,41,Central,unemployed,7233,16135,12,0,617,2.231,declined,,Recent missed payments on file.
+LN-40480,2026-05-03,21,Harbour,full-time,42970,21378,24,372,716,0.353,approved,6.92,Strong repayment capacity.
+LN-40481,2026-05-24,65,Central,self-employed,17860,23944,24,434,784,0.962,declined,,DTI above policy threshold.
+LN-40482,2025-12-16,46,North,full-time,11859,14466,48,174,776,0.481,declined,,Recent missed payments on file.
+LN-40483,2026-01-08,55,North,full-time,19597,4284,48,288,748,0.231,approved,7.39,"Stable income, low DTI, clean history."
+LN-40484,2026-01-10,46,North,self-employed,31290,3333,24,397,610,0.206,declined,,Insufficient credit history.
+LN-40485,2025-11-30,57,Central,full-time,40839,4217,48,312,677,0.117,approved,4.98,"Stable income, low DTI, clean history."
+LN-40486,2026-02-12,54,Central,unemployed,12383,3500,60,67,668,0.121,declined,,Recent missed payments on file.
+LN-40487,2025-12-06,22,North,full-time,36327,14557,48,275,647,0.191,approved,6.39,Score and affordability within policy.
+LN-40488,2026-04-25,26,Central,full-time,34829,9255,12,270,762,0.359,approved,9.4,Score and affordability within policy.
+LN-40489,2026-01-02,48,Central,retired,17687,3181,24,0,678,0.09,approved,11.46,Score and affordability within policy.
+LN-40490,2026-04-01,35,North,full-time,51937,4039,60,370,644,0.101,approved,12.77,"Stable income, low DTI, clean history."
+LN-40491,2025-10-03,66,Central,full-time,58827,17047,36,607,687,0.22,approved,6.34,Adequate buffer after expenses.
+LN-40492,2026-01-23,61,Central,self-employed,23522,5276,36,203,685,0.178,approved,8.07,Adequate buffer after expenses.
+LN-40493,2026-04-21,48,Central,full-time,25428,22401,24,222,560,0.545,declined,,Recent missed payments on file.
+LN-40494,2026-02-01,64,North,full-time,31466,17660,60,219,567,0.196,declined,,DTI above policy threshold.
+LN-40495,2025-11-04,64,North,full-time,19254,4679,36,210,594,0.212,declined,,Recent missed payments on file.
+LN-40496,2026-04-21,55,Central,full-time,33987,23917,12,275,690,0.801,declined,,Affordability below required margin.
+LN-40497,2025-09-10,42,Harbour,full-time,24923,22573,12,114,674,0.961,declined,,Affordability below required margin.
+LN-40498,2025-09-12,44,Central,full-time,54442,3309,36,418,669,0.112,approved,5.86,Strong repayment capacity.
+LN-40499,2026-02-16,63,Central,full-time,19543,3149,36,180,572,0.164,declined,,Insufficient credit history.
+LN-40500,2026-02-12,36,Central,full-time,29523,7129,60,333,672,0.184,approved,5.8,"Stable income, low DTI, clean history."
+LN-40501,2026-01-03,37,Central,full-time,23090,5559,24,280,706,0.266,approved,12.09,Strong repayment capacity.
+LN-40502,2025-11-21,21,Harbour,full-time,35225,2687,36,319,569,0.134,declined,,Insufficient credit history.
+LN-40503,2025-11-15,45,North,unemployed,4878,18914,36,0,477,1.292,declined,,Recent missed payments on file.
+LN-40504,2025-12-16,53,North,full-time,24361,10185,24,276,733,0.345,approved,8.99,Adequate buffer after expenses.
+LN-40505,2025-09-08,25,North,part-time,11972,3565,60,0,652,0.06,approved,9.23,Score and affordability within policy.
+LN-40506,2026-03-05,64,Harbour,full-time,46002,13453,48,602,647,0.23,declined,,Recent missed payments on file.
+LN-40507,2026-01-28,61,Central,self-employed,33747,20181,48,287,546,0.252,declined,,Recent missed payments on file.
+LN-40508,2026-03-02,42,Harbour,full-time,24206,19742,24,381,734,0.597,declined,,Recent missed payments on file.
+LN-40509,2025-09-24,54,Central,full-time,26007,25797,12,200,641,1.084,declined,,Insufficient credit history.
+LN-40510,2026-05-04,37,Central,unemployed,17635,7066,12,14,559,0.41,declined,,Affordability below required margin.
+LN-40511,2026-05-06,52,North,full-time,14607,4595,36,216,536,0.282,approved,9.96,"Stable income, low DTI, clean history."
+LN-40512,2026-01-08,26,Harbour,part-time,33997,2617,24,279,664,0.137,approved,10.05,Strong repayment capacity.
+LN-40513,2025-12-22,29,Harbour,full-time,17810,22213,48,40,702,0.339,approved,12.41,Strong repayment capacity.
+LN-40514,2025-09-06,43,North,full-time,8000,16199,24,333,755,1.512,declined,,Insufficient credit history.
+LN-40515,2025-10-01,62,North,self-employed,47184,3162,60,402,694,0.116,approved,9.11,"Stable income, low DTI, clean history."
+LN-40516,2025-10-20,52,North,self-employed,23877,18142,12,277,643,0.899,declined,,Insufficient credit history.
+LN-40517,2025-09-20,46,Central,full-time,33045,29912,48,322,607,0.343,declined,,DTI above policy threshold.
+LN-40518,2025-11-02,45,North,full-time,8000,4982,48,195,496,0.448,declined,,Affordability below required margin.
+LN-40519,2025-10-24,55,North,full-time,28832,5612,12,147,658,0.256,approved,12.47,"Stable income, low DTI, clean history."
+LN-40520,2025-09-11,62,North,full-time,26177,10550,48,317,653,0.246,approved,11.02,Strong repayment capacity.
+LN-40521,2025-10-13,35,Harbour,full-time,16601,19689,36,4,561,0.398,declined,,Recent missed payments on file.
+LN-40522,2025-11-23,22,Harbour,self-employed,30083,17739,48,95,561,0.185,declined,,Affordability below required margin.
+LN-40523,2025-09-14,34,Central,full-time,30811,7410,24,342,813,0.253,declined,,Insufficient credit history.
+LN-40524,2026-01-27,50,Harbour,full-time,53651,9398,36,691,609,0.213,declined,,Recent missed payments on file.
+LN-40525,2025-09-27,66,North,full-time,37095,12837,12,495,755,0.506,declined,,Insufficient credit history.
+LN-40526,2026-01-11,33,Harbour,full-time,42184,5963,24,468,596,0.204,declined,,DTI above policy threshold.
+LN-40527,2025-10-25,56,Harbour,self-employed,8248,23912,12,0,633,2.899,declined,,DTI above policy threshold.
+LN-40528,2025-10-18,31,Central,full-time,26931,4120,36,401,601,0.23,declined,,Insufficient credit history.
+LN-40529,2026-04-01,27,North,full-time,11902,10066,12,0,592,0.846,declined,,Recent missed payments on file.
+LN-40530,2026-05-28,48,Harbour,unemployed,12813,9935,48,185,669,0.367,declined,,Recent missed payments on file.
+LN-40531,2026-04-07,62,Central,full-time,35463,22651,12,232,821,0.717,declined,,Affordability below required margin.
+LN-40532,2026-05-05,56,Central,full-time,8000,6951,48,135,586,0.42,declined,,Recent missed payments on file.
+LN-40533,2025-09-16,35,Central,part-time,38695,2865,48,510,687,0.177,approved,9.84,Strong repayment capacity.
+LN-40534,2026-03-14,27,North,self-employed,43625,23729,48,287,701,0.215,approved,12.45,"Stable income, low DTI, clean history."
+LN-40535,2025-10-17,67,Central,self-employed,9516,4447,36,0,667,0.156,approved,9.56,"Stable income, low DTI, clean history."
+LN-40536,2025-09-09,44,Central,part-time,46730,21031,24,373,677,0.321,approved,5.46,Score and affordability within policy.
+LN-40537,2026-02-27,48,North,self-employed,58092,12522,48,342,730,0.125,approved,5.74,"Stable income, low DTI, clean history."
+LN-40538,2026-04-15,26,Central,full-time,44171,13228,24,327,617,0.239,declined,,Recent missed payments on file.
+LN-40539,2025-11-13,60,Central,self-employed,49430,4568,24,360,779,0.134,approved,7.11,Strong repayment capacity.
+LN-40540,2026-05-26,27,Harbour,full-time,33285,9144,36,301,738,0.2,approved,8.35,Adequate buffer after expenses.
+LN-40541,2026-02-26,51,North,self-employed,48635,17377,36,547,732,0.254,approved,8.89,Adequate buffer after expenses.
+LN-40542,2026-03-21,37,Central,full-time,44168,4446,24,473,641,0.179,approved,12.7,Strong repayment capacity.
+LN-40543,2026-02-22,46,North,full-time,39365,21042,48,523,639,0.293,approved,13.01,Strong repayment capacity.
+LN-40544,2025-10-07,66,North,self-employed,25109,10064,36,427,696,0.338,approved,5.07,Adequate buffer after expenses.
+LN-40545,2025-09-04,50,North,full-time,31457,17148,60,234,719,0.198,approved,10.0,Adequate buffer after expenses.
+LN-40546,2025-10-29,61,North,self-employed,14288,20212,12,186,576,1.571,declined,,Affordability below required margin.
+LN-40547,2025-11-05,35,Central,full-time,35401,4912,12,88,663,0.169,approved,9.72,Score and affordability within policy.
+LN-40548,2025-10-26,37,North,full-time,56548,12712,12,413,574,0.312,declined,,Affordability below required margin.
+LN-40549,2025-09-17,52,Central,self-employed,9339,7703,36,218,726,0.555,declined,,DTI above policy threshold.
+LN-40550,2026-02-08,62,North,part-time,24345,21283,12,222,556,0.984,declined,,Insufficient credit history.
+LN-40551,2026-05-09,54,North,part-time,14914,16065,12,214,727,1.249,declined,,Recent missed payments on file.
+LN-40552,2026-01-08,65,North,full-time,8000,5655,60,0,766,0.141,approved,6.09,Strong repayment capacity.
+LN-40553,2026-03-19,21,Harbour,full-time,34528,4057,60,229,633,0.103,approved,8.39,"Stable income, low DTI, clean history."
+LN-40554,2026-05-27,41,Central,full-time,44195,9683,36,496,718,0.208,approved,7.94,Score and affordability within policy.
+LN-40555,2025-11-01,21,Harbour,full-time,44378,9280,24,405,658,0.214,declined,,DTI above policy threshold.
+LN-40556,2025-11-22,54,Central,full-time,44546,2798,24,375,615,0.132,declined,,Recent missed payments on file.
+LN-40557,2025-11-27,67,Central,part-time,36205,3490,24,347,661,0.163,approved,9.23,Strong repayment capacity.
+LN-40558,2025-10-01,31,North,self-employed,8000,8669,36,125,651,0.549,declined,,DTI above policy threshold.
+LN-40559,2026-03-29,49,North,self-employed,46864,4908,24,337,627,0.139,approved,9.98,Score and affordability within policy.
+LN-40560,2026-01-16,34,North,self-employed,35429,23056,24,453,532,0.479,declined,,Recent missed payments on file.
+LN-40561,2025-11-16,60,North,part-time,25224,3131,24,315,632,0.212,approved,9.21,Strong repayment capacity.
+LN-40562,2026-03-07,53,Central,full-time,22612,26089,48,45,754,0.312,approved,11.64,Strong repayment capacity.
+LN-40563,2025-10-04,34,North,part-time,43299,14456,36,329,553,0.202,declined,,Affordability below required margin.
+LN-40564,2026-01-13,48,Central,full-time,22952,4928,60,44,562,0.066,declined,,Affordability below required margin.
+LN-40565,2026-05-06,55,North,full-time,18990,17750,48,57,591,0.27,declined,,Affordability below required margin.
+LN-40566,2025-12-04,38,Central,full-time,61137,8735,60,575,732,0.141,approved,4.36,Strong repayment capacity.
+LN-40567,2026-02-12,22,Harbour,part-time,31592,16180,48,279,629,0.234,declined,,Insufficient credit history.
+LN-40568,2026-04-06,49,North,full-time,40149,9582,36,300,718,0.169,declined,,Affordability below required margin.
+LN-40569,2026-01-29,59,Central,full-time,23526,8622,60,356,749,0.255,approved,5.23,Score and affordability within policy.
+LN-40570,2026-02-05,60,Central,part-time,38564,2562,36,144,751,0.067,approved,9.2,Score and affordability within policy.
+LN-40571,2026-05-07,65,North,full-time,48331,17632,48,307,501,0.167,declined,,Recent missed payments on file.
+LN-40572,2025-09-30,39,Central,full-time,37750,20251,36,290,549,0.271,declined,,DTI above policy threshold.
+LN-40573,2025-11-08,23,Central,self-employed,41732,4534,48,275,788,0.106,approved,3.73,Adequate buffer after expenses.
+LN-40574,2025-12-05,23,Central,full-time,58284,14860,36,505,606,0.189,declined,,Recent missed payments on file.
+LN-40575,2026-03-04,53,Harbour,full-time,36617,9439,36,243,718,0.166,approved,6.91,Strong repayment capacity.
+LN-40576,2025-10-28,22,Central,full-time,8000,14861,24,298,622,1.376,declined,,Recent missed payments on file.
+LN-40577,2026-04-16,35,North,full-time,23907,7527,48,129,603,0.143,declined,,Affordability below required margin.
+LN-40578,2026-02-16,60,Central,full-time,32088,13716,48,435,807,0.27,approved,5.92,"Stable income, low DTI, clean history."
+LN-40579,2026-05-26,63,Central,full-time,34983,4964,48,205,616,0.106,declined,,DTI above policy threshold.
+LN-40580,2025-12-07,27,Central,part-time,40487,28746,60,500,600,0.29,declined,,DTI above policy threshold.
+LN-40581,2025-10-26,36,Harbour,part-time,48706,6644,60,108,710,0.054,approved,5.1,"Stable income, low DTI, clean history."
+LN-40582,2025-11-19,66,Central,full-time,36463,21936,12,205,708,0.669,declined,,Affordability below required margin.
+LN-40583,2026-03-19,49,North,full-time,18583,19325,36,0,714,0.347,approved,9.45,Strong repayment capacity.
+LN-40584,2026-02-09,65,Harbour,full-time,37906,2869,12,454,630,0.219,declined,,Affordability below required margin.
+LN-40585,2025-09-19,54,Central,full-time,17699,4162,60,57,695,0.086,approved,11.79,Strong repayment capacity.
+LN-40586,2026-02-20,61,Central,self-employed,35774,8079,36,339,629,0.189,approved,12.46,Adequate buffer after expenses.
+LN-40587,2025-12-26,60,North,self-employed,18646,9693,36,0,774,0.173,approved,5.12,"Stable income, low DTI, clean history."
+LN-40588,2026-01-12,23,Central,full-time,38509,16169,24,278,555,0.297,declined,,Insufficient credit history.
+LN-40589,2025-10-10,41,Central,full-time,59544,5621,60,683,705,0.157,approved,7.0,Strong repayment capacity.
+LN-40590,2025-12-12,27,Central,retired,27897,22076,12,107,715,0.837,declined,,Recent missed payments on file.
+LN-40591,2025-09-23,29,Central,full-time,27905,4199,36,32,510,0.064,declined,,DTI above policy threshold.
+LN-40592,2025-12-16,45,North,part-time,23864,7276,24,207,644,0.257,approved,13.06,Strong repayment capacity.
+LN-40593,2025-11-27,36,Central,full-time,48245,3252,24,275,604,0.102,declined,,DTI above policy threshold.
+LN-40594,2026-03-15,42,North,full-time,32949,21118,24,223,808,0.402,approved,4.47,Score and affordability within policy.
+LN-40595,2026-01-04,53,North,full-time,25032,22354,36,137,649,0.363,declined,,Insufficient credit history.
+LN-40596,2025-10-10,42,North,full-time,41728,9368,36,283,715,0.156,declined,,Recent missed payments on file.
+LN-40597,2026-05-18,28,Harbour,part-time,8000,2719,60,121,637,0.249,approved,6.7,"Stable income, low DTI, clean history."
+LN-40598,2025-10-03,52,North,full-time,8000,17803,36,0,609,0.742,declined,,Affordability below required margin.
+LN-40599,2026-03-04,54,Central,part-time,43827,5225,48,303,795,0.113,approved,3.89,Adequate buffer after expenses.
+LN-40600,2025-09-06,52,Central,full-time,40160,12019,60,273,850,0.141,approved,6.11,Adequate buffer after expenses.
+LN-40601,2026-02-25,40,North,unemployed,8367,6483,48,77,646,0.304,declined,,Recent missed payments on file.
+LN-40602,2025-11-23,41,Central,self-employed,18509,19181,60,5,806,0.211,approved,9.75,Score and affordability within policy.
+LN-40603,2026-04-29,33,North,full-time,22547,7168,12,39,732,0.339,approved,11.12,Strong repayment capacity.
+LN-40604,2026-03-23,27,Central,full-time,34705,3314,12,180,787,0.158,approved,4.03,Score and affordability within policy.
+LN-40605,2026-02-16,27,North,full-time,8000,5107,12,43,785,0.703,declined,,Affordability below required margin.
+LN-40606,2025-11-06,40,North,full-time,26901,4044,24,183,610,0.157,approved,5.62,Score and affordability within policy.
+LN-40607,2025-10-20,49,Central,part-time,11476,15955,24,87,718,0.786,declined,,Recent missed payments on file.
+LN-40608,2026-03-28,66,Harbour,full-time,35069,8466,48,129,710,0.104,approved,10.29,Adequate buffer after expenses.
+LN-40609,2026-04-23,68,Central,full-time,33855,3479,60,287,489,0.122,declined,,Recent missed payments on file.
+LN-40610,2025-09-29,58,Harbour,full-time,44187,13135,48,408,685,0.185,approved,12.09,Strong repayment capacity.
+LN-40611,2026-04-08,29,Central,full-time,35150,3265,36,89,731,0.061,approved,4.74,Score and affordability within policy.
+LN-40612,2025-12-09,32,Central,full-time,41859,14824,48,183,694,0.141,approved,6.02,Adequate buffer after expenses.
+LN-40613,2025-12-10,53,North,full-time,27071,5188,24,253,703,0.208,approved,6.25,"Stable income, low DTI, clean history."
+LN-40614,2025-09-22,53,Harbour,full-time,32276,17966,48,186,734,0.208,approved,11.05,Adequate buffer after expenses.
+LN-40615,2026-03-18,67,Central,retired,35489,6638,36,258,700,0.15,approved,5.74,Adequate buffer after expenses.
+LN-40616,2025-12-10,49,Central,full-time,42139,16237,36,212,740,0.189,approved,11.82,Score and affordability within policy.
+LN-40617,2025-12-16,62,Harbour,full-time,37127,9354,36,101,612,0.117,declined,,Insufficient credit history.
+LN-40618,2026-02-22,66,Central,full-time,46508,12478,60,347,719,0.143,declined,,Affordability below required margin.
+LN-40619,2025-09-08,56,Central,part-time,35413,3010,24,146,804,0.092,approved,4.92,Score and affordability within policy.
+LN-40620,2026-04-27,21,Central,part-time,37748,10412,36,282,592,0.182,declined,,Affordability below required margin.
+LN-40621,2025-09-22,67,Central,full-time,33781,20958,36,93,621,0.24,approved,8.34,Adequate buffer after expenses.
+LN-40622,2025-10-23,56,Central,full-time,51501,11377,12,602,658,0.361,approved,10.39,Adequate buffer after expenses.
+LN-40623,2025-11-13,28,Central,full-time,21405,28742,36,173,610,0.545,declined,,DTI above policy threshold.
+LN-40624,2026-05-06,48,Central,full-time,47249,26473,60,307,751,0.19,approved,8.54,Adequate buffer after expenses.
+LN-40625,2025-09-13,23,North,full-time,8000,6945,36,125,600,0.477,declined,,Insufficient credit history.
+LN-40626,2026-05-03,48,North,self-employed,33155,10535,36,210,727,0.182,declined,,Insufficient credit history.
+LN-40627,2026-01-05,25,North,unemployed,9945,18131,12,125,667,1.974,declined,,Recent missed payments on file.
+LN-40628,2026-03-25,62,Harbour,part-time,44455,23744,12,299,659,0.615,declined,,Insufficient credit history.
+LN-40629,2025-12-29,38,Central,full-time,25010,14781,48,52,702,0.173,approved,6.73,Strong repayment capacity.
+LN-40630,2026-05-27,23,Central,part-time,50762,16318,12,450,655,0.428,approved,11.66,Adequate buffer after expenses.
+LN-40631,2025-09-14,21,North,part-time,27307,9415,12,336,721,0.492,declined,,DTI above policy threshold.
+LN-40632,2025-09-16,38,North,full-time,68738,16493,24,679,621,0.239,approved,11.73,Score and affordability within policy.
+LN-40633,2026-04-23,39,Central,full-time,13743,23660,36,202,681,0.75,declined,,DTI above policy threshold.
+LN-40634,2026-02-10,23,Central,full-time,39416,23480,12,318,675,0.693,declined,,Recent missed payments on file.
+LN-40635,2026-02-24,23,North,full-time,47044,9779,36,335,609,0.155,declined,,Insufficient credit history.
+LN-40636,2025-10-29,25,North,full-time,27464,5862,48,304,704,0.186,approved,6.3,Strong repayment capacity.
+LN-40637,2025-12-08,27,Harbour,full-time,36605,3488,48,393,774,0.153,approved,5.81,Adequate buffer after expenses.
+LN-40638,2025-11-02,37,North,full-time,25175,6433,36,109,815,0.137,approved,5.89,Score and affordability within policy.
+LN-40639,2026-02-12,65,North,full-time,25851,2624,12,117,686,0.156,declined,,Affordability below required margin.
+LN-40640,2025-12-30,67,Central,full-time,50770,22329,60,441,563,0.192,declined,,Insufficient credit history.
+LN-40641,2026-01-16,47,North,part-time,42150,16412,60,164,596,0.125,declined,,DTI above policy threshold.
+LN-40642,2025-12-04,24,North,part-time,31181,27188,60,205,540,0.253,declined,,Insufficient credit history.
+LN-40643,2026-03-02,54,Central,self-employed,40562,8745,36,278,505,0.154,declined,,Insufficient credit history.
+LN-40644,2026-04-12,37,Central,full-time,31959,9705,24,297,562,0.263,declined,,Recent missed payments on file.
+LN-40645,2025-11-15,38,Central,self-employed,36249,2801,24,124,608,0.08,declined,,Recent missed payments on file.
+LN-40646,2026-01-07,38,North,self-employed,17588,13401,48,153,568,0.295,approved,5.84,Score and affordability within policy.
+LN-40647,2025-09-29,24,Central,self-employed,38597,18868,24,395,786,0.367,approved,7.28,Score and affordability within policy.
+LN-40648,2025-10-30,56,North,full-time,28661,19099,24,259,746,0.442,approved,5.25,Adequate buffer after expenses.
+LN-40649,2025-10-15,64,North,part-time,35541,24011,60,404,618,0.272,declined,,DTI above policy threshold.
+LN-40650,2026-05-29,22,Central,full-time,34218,13083,48,313,588,0.205,declined,,DTI above policy threshold.
+LN-40651,2026-05-11,47,North,self-employed,44172,5632,60,302,600,0.108,declined,,Recent missed payments on file.
+LN-40652,2026-04-02,48,North,self-employed,23579,3178,36,312,672,0.204,approved,9.17,"Stable income, low DTI, clean history."
+LN-40653,2026-04-09,61,Central,full-time,30144,21677,60,304,594,0.265,declined,,Affordability below required margin.
+LN-40654,2025-12-02,39,North,full-time,23684,3413,36,153,667,0.126,declined,,DTI above policy threshold.
+LN-40655,2025-12-17,59,Central,retired,27309,17812,48,100,722,0.207,approved,8.32,Adequate buffer after expenses.
+LN-40656,2026-05-03,47,Central,full-time,41477,2939,36,351,475,0.125,declined,,DTI above policy threshold.
+LN-40657,2025-10-24,48,Central,full-time,20424,23974,12,129,807,1.25,declined,,Insufficient credit history.
+LN-40658,2025-12-19,42,Harbour,full-time,59774,5241,12,410,647,0.17,approved,6.61,"Stable income, low DTI, clean history."
+LN-40659,2026-02-09,48,Central,part-time,23672,11401,48,84,673,0.163,approved,11.13,"Stable income, low DTI, clean history."
+LN-40660,2025-09-14,36,North,part-time,45351,17604,48,364,697,0.193,declined,,DTI above policy threshold.
+LN-40661,2026-01-10,34,Central,full-time,34042,2538,24,139,552,0.086,approved,7.2,Score and affordability within policy.
+LN-40662,2026-03-24,27,Harbour,full-time,18169,14784,48,56,631,0.24,declined,,Recent missed payments on file.
+LN-40663,2025-10-09,26,Central,full-time,17389,9042,36,174,644,0.293,approved,9.78,Strong repayment capacity.
+LN-40664,2025-11-26,48,Harbour,full-time,18913,22720,48,0,685,0.3,approved,10.89,"Stable income, low DTI, clean history."
+LN-40665,2025-10-17,67,North,self-employed,38861,5046,36,397,593,0.166,declined,,Insufficient credit history.
+LN-40666,2026-01-19,66,Central,full-time,9390,9195,60,22,610,0.224,declined,,Recent missed payments on file.
+LN-40667,2026-02-03,43,North,part-time,29489,3038,24,256,726,0.156,approved,4.91,Adequate buffer after expenses.
+LN-40668,2026-04-13,37,North,self-employed,37340,11615,48,489,675,0.235,approved,11.52,Adequate buffer after expenses.
+LN-40669,2025-09-09,42,North,self-employed,14002,13835,48,118,622,0.348,approved,10.51,Score and affordability within policy.
+LN-40670,2025-10-06,21,North,unemployed,12646,23418,24,225,623,1.139,declined,,Affordability below required margin.
+LN-40671,2025-09-11,31,North,self-employed,55569,9612,12,582,492,0.299,declined,,DTI above policy threshold.
+LN-40672,2026-03-04,45,Harbour,full-time,22029,10008,24,411,648,0.451,declined,,Recent missed payments on file.
+LN-40673,2026-01-29,56,North,part-time,26912,16907,36,145,489,0.274,declined,,Affordability below required margin.
+LN-40674,2026-05-26,61,North,part-time,47003,5054,24,288,658,0.127,approved,8.04,"Stable income, low DTI, clean history."
+LN-40675,2025-12-03,28,Harbour,full-time,20383,14347,12,292,755,0.876,declined,,Insufficient credit history.
+LN-40676,2026-01-28,64,Central,unemployed,12767,4044,12,24,553,0.339,declined,,DTI above policy threshold.
+LN-40677,2026-01-20,66,Central,full-time,37988,11775,12,225,734,0.381,approved,10.57,Score and affordability within policy.
+LN-40678,2026-02-03,41,North,part-time,59728,18011,36,797,662,0.261,approved,8.85,"Stable income, low DTI, clean history."
+LN-40679,2025-09-24,62,Central,unemployed,5199,6863,36,257,681,1.033,declined,,Insufficient credit history.
+LN-40680,2026-02-12,33,Central,self-employed,54531,2931,48,523,508,0.129,declined,,DTI above policy threshold.
+LN-40681,2025-12-16,33,Harbour,full-time,43155,29077,48,319,546,0.257,declined,,Recent missed payments on file.
+LN-40682,2026-04-01,34,Harbour,full-time,38508,6670,36,404,663,0.184,approved,9.8,Strong repayment capacity.
+LN-40683,2026-02-23,66,North,full-time,27834,27946,24,323,644,0.641,declined,,Affordability below required margin.
+LN-40684,2025-09-16,25,Central,full-time,21393,9896,12,213,662,0.582,declined,,Recent missed payments on file.
+LN-40685,2026-02-15,26,Central,full-time,28749,3114,36,430,680,0.216,approved,10.53,Score and affordability within policy.
+LN-40686,2026-05-03,47,Central,self-employed,51399,15928,48,326,701,0.154,approved,10.95,Strong repayment capacity.
+LN-40687,2026-04-20,51,North,full-time,20617,4448,48,179,594,0.158,declined,,Insufficient credit history.
+LN-40688,2026-03-12,38,Central,full-time,48049,4836,36,525,693,0.165,approved,7.3,Score and affordability within policy.
+LN-40689,2026-05-20,51,North,full-time,14750,8837,36,80,605,0.265,declined,,Affordability below required margin.
+LN-40690,2026-01-10,57,North,full-time,24888,10626,24,133,670,0.278,approved,8.3,Adequate buffer after expenses.
+LN-40691,2025-10-05,37,Central,full-time,38033,17257,24,61,518,0.246,declined,,DTI above policy threshold.
+LN-40692,2026-05-24,56,Central,full-time,38015,5669,12,75,651,0.173,approved,12.23,Score and affordability within policy.
+LN-40693,2026-04-27,49,North,self-employed,44267,26896,24,325,850,0.392,approved,4.8,Score and affordability within policy.
+LN-40694,2026-02-02,66,North,full-time,30544,22802,24,485,463,0.564,declined,,DTI above policy threshold.
+LN-40695,2026-03-25,65,Central,full-time,8000,21792,60,29,560,0.588,declined,,Recent missed payments on file.
+LN-40696,2026-02-22,33,Harbour,self-employed,42012,4614,48,321,719,0.119,approved,5.86,"Stable income, low DTI, clean history."
+LN-40697,2026-05-29,47,North,unemployed,12566,4129,48,171,840,0.245,declined,,Insufficient credit history.
+LN-40698,2026-04-06,67,Central,full-time,53848,5811,60,470,645,0.126,approved,11.99,"Stable income, low DTI, clean history."
+LN-40699,2025-11-28,31,North,part-time,27482,10469,60,73,645,0.108,approved,8.89,Strong repayment capacity.
+LN-40700,2026-04-14,68,North,full-time,27094,21039,24,369,656,0.552,declined,,Recent missed payments on file.
+LN-40701,2025-11-12,23,Harbour,full-time,48245,11368,12,308,586,0.312,declined,,Recent missed payments on file.
+LN-40702,2025-12-24,42,Central,full-time,50403,5195,12,685,678,0.266,approved,7.06,"Stable income, low DTI, clean history."
+LN-40703,2026-02-25,49,North,full-time,33619,5991,48,389,531,0.183,declined,,DTI above policy threshold.
+LN-40704,2026-04-11,41,Central,full-time,36184,3391,36,341,690,0.144,approved,4.62,"Stable income, low DTI, clean history."
+LN-40705,2026-02-08,50,Central,full-time,37107,20845,12,362,797,0.679,declined,,Affordability below required margin.
+LN-40706,2025-10-16,36,Central,full-time,40389,9560,24,291,718,0.205,approved,10.22,Score and affordability within policy.
+LN-40707,2026-04-18,23,North,full-time,31454,8633,48,151,799,0.126,approved,8.14,Adequate buffer after expenses.
+LN-40708,2025-12-20,51,North,full-time,34288,10131,24,278,623,0.245,declined,,Affordability below required margin.
+LN-40709,2026-04-12,42,North,full-time,40756,21929,48,456,581,0.269,declined,,Insufficient credit history.
+LN-40710,2025-11-07,53,Central,full-time,41057,18495,36,260,736,0.226,approved,9.43,Score and affordability within policy.
+LN-40711,2025-11-15,47,Harbour,self-employed,24013,12837,12,64,747,0.567,approved,5.15,Adequate buffer after expenses.
+LN-40712,2026-05-06,60,Central,full-time,51140,4532,36,502,770,0.147,approved,6.53,Strong repayment capacity.
+LN-40713,2026-05-20,55,Harbour,full-time,28643,16427,60,0,680,0.115,approved,12.15,Score and affordability within policy.
+LN-40714,2026-02-26,30,Central,part-time,42393,17281,12,541,792,0.561,declined,,Affordability below required margin.
+LN-40715,2025-09-20,40,Central,full-time,51962,10235,12,377,443,0.284,declined,,Insufficient credit history.
+LN-40716,2025-10-31,40,Central,self-employed,71489,23863,36,608,726,0.213,approved,9.85,Score and affordability within policy.
+LN-40717,2026-01-15,38,North,full-time,21633,3498,48,174,711,0.137,approved,5.25,Adequate buffer after expenses.
+LN-40718,2025-10-05,57,North,part-time,23067,12492,48,53,485,0.163,declined,,DTI above policy threshold.
+LN-40719,2025-12-14,36,North,full-time,13238,19330,60,291,786,0.556,declined,,Affordability below required margin.
+LN-40720,2026-04-02,46,North,part-time,62302,2904,60,561,793,0.117,approved,11.43,Score and affordability within policy.
+LN-40721,2025-10-01,22,Central,full-time,36006,13796,24,157,519,0.244,declined,,Insufficient credit history.
+LN-40722,2026-02-05,21,Harbour,full-time,46723,7044,12,350,628,0.241,declined,,Insufficient credit history.
+LN-40723,2026-03-30,64,Harbour,part-time,40818,22867,60,553,675,0.275,declined,,Affordability below required margin.
+LN-40724,2026-01-27,38,Central,self-employed,16546,3219,60,442,654,0.359,approved,11.71,Strong repayment capacity.
+LN-40725,2026-03-22,27,North,part-time,25700,4739,60,219,662,0.139,approved,11.09,"Stable income, low DTI, clean history."
+LN-40726,2026-01-12,46,Central,part-time,19045,6896,60,31,721,0.092,approved,12.1,"Stable income, low DTI, clean history."
+LN-40727,2026-02-15,65,Harbour,part-time,27518,5179,12,373,657,0.351,declined,,Insufficient credit history.
+LN-40728,2025-11-18,55,Harbour,full-time,24685,22551,60,198,747,0.279,approved,7.8,"Stable income, low DTI, clean history."
+LN-40729,2025-10-10,24,North,part-time,38463,14457,36,239,653,0.2,approved,6.99,Strong repayment capacity.
+LN-40730,2026-03-17,33,North,full-time,16059,3509,12,32,604,0.242,declined,,Insufficient credit history.
+LN-40731,2025-12-08,25,Central,full-time,54936,3562,60,501,598,0.122,declined,,Insufficient credit history.
+LN-40732,2025-11-14,63,North,unemployed,16940,8570,24,151,590,0.36,declined,,Recent missed payments on file.
+LN-40733,2025-10-02,41,Harbour,full-time,60426,7260,24,404,551,0.14,declined,,Recent missed payments on file.
+LN-40734,2026-05-22,25,Harbour,full-time,36678,6866,36,364,772,0.181,approved,4.55,Adequate buffer after expenses.
+LN-40735,2025-11-03,35,North,self-employed,49906,3118,36,474,641,0.135,approved,11.6,Score and affordability within policy.
+LN-40736,2025-11-02,45,Harbour,full-time,31381,3500,12,162,689,0.173,approved,6.36,"Stable income, low DTI, clean history."
+LN-40737,2026-03-18,47,Central,self-employed,34059,9541,48,131,519,0.116,declined,,Insufficient credit history.
+LN-40738,2025-12-12,53,North,full-time,29072,4350,60,354,751,0.176,approved,9.14,Adequate buffer after expenses.
+LN-40739,2025-11-22,53,Central,self-employed,36290,16672,12,211,752,0.529,approved,10.09,Adequate buffer after expenses.
+LN-40740,2025-09-26,54,Central,full-time,34937,9967,12,359,753,0.409,approved,6.26,"Stable income, low DTI, clean history."
+LN-40741,2026-02-21,44,Central,unemployed,11014,8771,60,0,651,0.159,declined,,Affordability below required margin.
+LN-40742,2026-05-06,42,North,full-time,10306,6935,48,340,655,0.564,declined,,DTI above policy threshold.
+LN-40743,2025-11-22,33,North,full-time,53645,8886,48,606,606,0.177,declined,,DTI above policy threshold.
+LN-40744,2026-05-10,22,Harbour,part-time,24378,4767,12,98,625,0.244,declined,,Affordability below required margin.
+LN-40745,2025-12-26,54,Central,retired,17769,4213,36,379,619,0.335,declined,,Affordability below required margin.
+LN-40746,2025-12-04,24,North,unemployed,9904,2418,12,125,675,0.396,declined,,Affordability below required margin.
+LN-40747,2026-05-03,26,North,full-time,45047,10008,12,488,642,0.352,approved,10.02,Score and affordability within policy.
+LN-40748,2025-12-04,51,North,part-time,13354,14798,60,198,743,0.4,approved,11.8,Strong repayment capacity.
+LN-40749,2026-01-27,43,Central,part-time,27709,22238,12,333,688,0.947,declined,,Recent missed payments on file.
+LN-40750,2026-01-23,60,Central,full-time,27301,4435,48,48,467,0.062,declined,,DTI above policy threshold.
+LN-40751,2025-09-05,52,North,part-time,32720,23561,24,309,685,0.473,declined,,Recent missed payments on file.
+LN-40752,2026-03-28,67,North,full-time,23910,17787,24,0,685,0.372,approved,6.51,"Stable income, low DTI, clean history."
+LN-40753,2026-05-08,25,Central,full-time,51188,26214,48,390,724,0.219,approved,8.92,"Stable income, low DTI, clean history."
+LN-40754,2025-10-01,28,North,retired,28331,3350,12,88,591,0.156,declined,,Insufficient credit history.
+LN-40755,2026-02-02,33,Central,full-time,46804,9394,60,328,689,0.124,approved,6.29,Score and affordability within policy.
+LN-40756,2026-02-25,42,Central,full-time,55895,20646,24,442,521,0.28,declined,,Recent missed payments on file.
+LN-40757,2026-02-05,22,Central,full-time,42527,21549,12,651,749,0.69,declined,,Affordability below required margin.
+LN-40758,2026-03-19,38,North,full-time,23159,15614,24,200,629,0.441,approved,11.82,Strong repayment capacity.
+LN-40759,2026-05-09,48,Harbour,full-time,66493,16534,48,664,726,0.182,approved,4.78,Score and affordability within policy.
+LN-40760,2025-10-23,66,Central,full-time,40974,14505,60,221,655,0.136,approved,12.12,Score and affordability within policy.
+LN-40761,2026-01-20,61,Central,self-employed,20451,12627,48,0,664,0.154,approved,6.57,Adequate buffer after expenses.
+LN-40762,2026-04-15,61,Central,part-time,25665,10547,12,321,642,0.561,declined,,Recent missed payments on file.
+LN-40763,2026-01-13,62,North,full-time,15273,18986,24,150,662,0.739,declined,,DTI above policy threshold.
+LN-40764,2026-03-07,27,North,full-time,28825,17467,60,300,605,0.246,declined,,DTI above policy threshold.
+LN-40765,2026-02-12,44,North,part-time,45914,17300,12,283,660,0.451,declined,,Recent missed payments on file.
+LN-40766,2026-01-19,30,Harbour,full-time,54148,18157,48,345,626,0.16,approved,6.72,"Stable income, low DTI, clean history."
+LN-40767,2026-01-21,25,North,full-time,49526,14434,48,470,722,0.187,approved,11.91,"Stable income, low DTI, clean history."
+LN-40768,2026-02-23,53,Central,full-time,8000,8680,12,222,715,1.418,declined,,DTI above policy threshold.
+LN-40769,2025-10-29,45,Central,retired,26248,5578,12,214,662,0.31,approved,5.21,Strong repayment capacity.
+LN-40770,2025-09-18,64,Central,retired,34027,8542,24,209,672,0.199,approved,5.36,"Stable income, low DTI, clean history."
+LN-40771,2025-10-20,64,North,full-time,44398,9966,12,284,845,0.301,approved,5.01,Score and affordability within policy.
+LN-40772,2025-10-12,44,North,retired,18856,9891,24,170,723,0.37,approved,7.71,Score and affordability within policy.
+LN-40773,2026-04-22,38,Central,full-time,24905,4358,48,327,507,0.201,declined,,DTI above policy threshold.
+LN-40774,2025-11-24,50,North,full-time,15001,17222,60,159,540,0.357,declined,,Affordability below required margin.
+LN-40775,2025-10-31,55,Central,full-time,24768,11095,48,133,574,0.176,declined,,DTI above policy threshold.
+LN-40776,2025-12-17,27,North,full-time,29070,12902,24,181,585,0.297,declined,,Insufficient credit history.
+LN-40777,2026-01-07,50,Central,full-time,31534,8946,12,191,695,0.356,approved,6.78,Strong repayment capacity.
+LN-40778,2025-09-29,47,North,self-employed,53786,8419,36,363,628,0.133,approved,7.2,Strong repayment capacity.
+LN-40779,2025-10-08,29,North,unemployed,13431,19047,48,0,574,0.355,approved,9.55,Strong repayment capacity.
+LN-40780,2026-05-09,24,North,part-time,12841,23901,36,196,631,0.804,approved,11.56,Score and affordability within policy.
+LN-40781,2025-12-31,50,Harbour,full-time,51919,19315,12,393,707,0.463,declined,,Insufficient credit history.
+LN-40782,2025-10-15,49,Harbour,retired,21594,23254,48,355,759,0.466,declined,,Affordability below required margin.
+LN-40783,2026-05-07,26,Central,full-time,35048,9280,48,283,610,0.163,declined,,Recent missed payments on file.
+LN-40784,2026-03-27,59,North,full-time,40554,2615,60,206,630,0.074,approved,12.94,"Stable income, low DTI, clean history."
+LN-40785,2026-02-17,59,North,full-time,13439,4261,60,181,717,0.225,approved,4.9,Strong repayment capacity.
+LN-40786,2026-04-12,51,Harbour,full-time,20468,8647,36,177,779,0.245,approved,10.9,Score and affordability within policy.
+LN-40787,2026-03-20,48,North,part-time,9551,4469,36,156,675,0.352,approved,6.31,Score and affordability within policy.
+LN-40788,2026-04-02,61,North,self-employed,9722,10089,48,0,649,0.259,approved,8.86,Adequate buffer after expenses.
+LN-40789,2026-01-22,42,North,full-time,31589,5623,48,283,659,0.152,approved,8.18,"Stable income, low DTI, clean history."
+LN-40790,2026-05-14,51,Harbour,part-time,24482,4905,12,171,648,0.284,approved,8.62,Score and affordability within policy.
+LN-40791,2026-05-14,57,North,full-time,55106,5370,60,283,546,0.081,declined,,Insufficient credit history.
+LN-40792,2025-11-29,47,Central,full-time,34514,5879,60,481,726,0.201,approved,6.72,Strong repayment capacity.
+LN-40793,2026-05-15,53,North,retired,15366,23456,60,336,767,0.568,declined,,DTI above policy threshold.
+LN-40794,2026-01-16,22,Central,full-time,34138,16342,36,122,714,0.202,approved,5.78,Score and affordability within policy.
+LN-40795,2025-12-01,40,North,full-time,35162,9437,36,384,729,0.221,approved,9.73,Strong repayment capacity.
+LN-40796,2026-04-15,32,Harbour,full-time,28826,4640,12,342,535,0.303,declined,,Insufficient credit history.
+LN-40797,2025-10-25,37,North,full-time,51540,19157,12,296,707,0.441,approved,12.1,Adequate buffer after expenses.
+LN-40798,2026-05-04,35,North,full-time,34524,23602,48,277,639,0.267,approved,8.27,Adequate buffer after expenses.
+LN-40799,2025-10-15,25,Harbour,full-time,41113,2654,24,270,586,0.111,declined,,DTI above policy threshold.
